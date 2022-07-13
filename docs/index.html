@@ -40,7 +40,8 @@
 	else if (navigator.language) {
 		user_languages = [navigator.language];
 	}
-  
+	console.log(user_languages);
+
 	let url = '';
 	for (let i = 0; (i < user_languages.length) && (0 == url.length); i++) {
 		let lang = user_languages[i].substring(0,2);
