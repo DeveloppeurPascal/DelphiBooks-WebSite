@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Delphi Books open data API</title>
+<link rel="stylesheet" href="styles.css">
+<meta property="og:url" content="https://delphi-books.com/opendata.html">
+<link rel="canonical" href="https://delphi-books.com/opendata.html">
+<meta property="og:title" content="Delphi Books open data API">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Delphi books">
+<meta property="og:image" content="https://delphi-books.com/img/Delphi-Books-1200x630.png">
+<meta property="og:image:secure_url"  content="https://delphi-books.com/img/Delphi-Books-1200x630.png">
+<meta name="twitter:card" content="photo">
+<meta name="twitter:image" content="https://delphi-books.com/img/Delphi-Books-1200x630.png">
+<link rel="image_src" href="https://delphi-books.com/img/Delphi-Books-130x110.png">
+</head>
+<body>
+<div id="container">
+<header>
+<a href="index.php" title="Delphi-Books.com" class="logo"><img src="img/Delphi-Books-278x150.gif" alt="Delphi Books logo"></a>
+</header>
+<div id="content">
+<h1>Delphi Books as open data</h1>
+<p>Delphi-Books.com is a list of all (the most of) books published about Delphi, Pascal and Object Pascal. Some of the data displayed on our website are available through this API under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a> license.</p>
+<p>Datas like authors photos, publishers logos, reviewers and reviews, table of contents and descriptions can't be shared because of intellectual property or by choice.</p>
+<p>You can use our API for your websites or softwares but you can't distribute the datas to others as a separate product. If you use our API, please make a link to this website in the credits, legal information or on the pages where our datas are displayed. A classic &quot;Power by Delphi-Books.com&quot; with a link to https://delphi-books.com will be great.</p>
+<h2><a name="samples"></a>How to use the API ?</h2>
+<p>Our API gives you 3 datasets:</p>
+<ul><li><a href="#dsboo">books</a></li>
+	<li><a href="#dsaut">authors</a></li>
+	<li><a href="#dspub">publishers</a></li>
+</ul>
+<p>Lists are available as JSON records of objects.<br>
+Elements are available as JSON objects.</p>
+<p>Each element has an &quot;id&quot;. It's the unique key you can use to access it.</p>
+<p>Dates are in YYYY-MM-DD format. YYYY for the year, MM for the month (01 to 12), DD for the day (01 to 31).<br>
+Sometimes DD is equal to &quot;00&quot;. Sometimes DD and MM are equal to &quot;00&quot;. Please check them before displaying them.</p>
+<p>Books languages are available as <a href="https://www.iso.org/obp/ui/fr/">2 letters ISO 3166 code</a>.<br>
+If you need to display a flag for each language, you'll find them at https://delphi-books.com/img/flag/XX.png where XX is the language code in lowercase.</p>
+<p>Please don't link to our images (covers, photos, logos, etc) except if you use them with our API.
+</p>
+<p>Use the links depending your programming language and its JSON library.</p>
+<p>You also can look at our code samples and libraries for <a href="https://github.com/DeveloppeurPascal/DelphiBooks-API-PHP">PHP</a>, <a href="https://github.com/DeveloppeurPascal/DelphiBooks-API-JavaScript">Javascript</a> and <a href="https://github.com/DeveloppeurPascal/DelphiBooks-API-delphi">Delphi</a> or other repositories on <a href="https://github.com/topics/delphibooks-api">GitHub</a>.</p>
+<h2><a name="dsboo"></a>The books</h2>
+<p>The list of all books in our database is available at <a href="https://delphi-books.com/api/b/all.json">https://delphi-books.com/api/b/all.json</a> They are sorted by alphabetical order.</p>
+<p>You also can retrieve only books published since a year at <a href="https://delphi-books.com/api/b/lastyear.json">https://delphi-books.com/api/b/lastyear.json</a> They are sorted by published date descendant. First is the younger, last is the older.</p>
+<p>In this list, each book element has :</p>
+<ul>
+  <li>an id,</li>
+  <li>a title,</li>
+  <li>a link to its delphi-books.com page,</li>
+  <li>a link to its cover as thumbnail,</li>
+  <li>a language,</li>
+  <li>a publication date.</li>
+</ul>
+<p>For more datas on a book, you have to call the URL <a href="https://delphi-books.com/api/b/1.json">https://delphi-books.com/api/b/ID.json</a> (don't forget to replace &quot;ID&quot; by the book's id).</p>
+<p>Each book has :</p>
+<ul>
+  <li>an id,</li>
+  <li>a title,</li>
+  <li>a link to its delphi-books.com page,</li>
+  <li>a link to its cover as thumbnail (fixed width at 150px),</li>
+  <li>a link to its cover (fixed width at 500px),</li>
+  <li>a language,</li>
+  <li>a publication date,</li>
+  <li>an ISBN10,</li>
+  <li>an ISBN13,</li>
+  <li>a list of publishers (an array of objects, most of the case only 1 result),</li>
+  <li>a list of authors (an array of objects, most of the case only 1 result),</li>
+  <li>a list of links to covers in different sizes<ul>
+  	<li>width : 100px, 150px, 200px, 300px, 400px, 500px</li>
+	<li>height : 100px, 200px, 300px, 400px, 500px</li>
+  	<li>square : 100x100px, 200x200px, 300x300px, 400x400px, 500x500px</li>
+  	<li>other sizes : 130x110px</li></ul></li>
+</ul>
+<p>Published date, ISBN10 and ISBN13 may be empty. Please check them before displaying anything on your website or software.</p>
+<p>The author element has :</p>
+<ul>
+  <li>an id,</li>
+  <li>a name composed by its firstname+name or its pseudonym.</li>
+</ul>
+<p>The publisher element has :</p>
+<ul>
+  <li>an id,</li>
+  <li>a label.</li>
+</ul>
+<h2><a name="dsaut"></a>The authors</h2>
+<p>The list of all authors is available at <a href="https://delphi-books.com/api/a/all.json">https://delphi-books.com/api/a/all.json</a></p>
+<p>Each author in the list has :</p>
+<ul>
+  <li>an id,</li>
+  <li>a name composed by its firstname+name or its pseudonym,</li>
+  <li>a link to its Delphi-Books.com page.</li>
+</ul>
+<p>If you want more datas on an author, use <a href="https://delphi-books.com/api/a/1.json">https://delphi-books.com/api/a/ID.json</a> where you have to replace &quot;ID&quot; by author's id.</p>
+<p>Each author has :</p>
+<ul>
+  <li>an id,</li>
+  <li>a name composed by its firstname+name or its pseudonym,</li>
+  <li>a link to its Delphi-Books.com page,</li>
+  <li>a list of its books (an array of objects).</li>
+</ul>
+<p>The books in this list have :</p>
+<ul>
+  <li>an id,</li>
+  <li>a title,</li>
+  <li>a link to its delphi-books.com page,</li>
+  <li>a link to its cover as thumbnail,</li>
+  <li>a language,</li>
+  <li>a publication date.</li>
+</ul>
+<h2><a name="dspub"></a>The publishers</h2>
+<p>Finally you can have a list of publishers by calling <a href="https://delphi-books.com/api/p/all.json">https://delphi-books.com/api/p/all.json</a></p>
+<p>Each publisher in the list has:</p>
+<ul>
+  <li>an id,</li>
+  <li>a label,</li>
+  <li>a link to its Delphi-Books.com page.</li>
+</ul>
+<p>And if you want the books they publish, call <a href="https://delphi-books.com/api/p/1.json">https://delphi-books.com/api/p/ID.json</a> with the publisher's id as ID.</p>
+<p>The publishers datas are :</p>
+<ul>
+  <li>an id,</li>
+  <li>a label,</li>
+  <li>a link to its Delphi-Books.com page,</li>
+  <li>a list of their published books (an array of objects).</li>
+</ul>
+<p>The books in this list have :</p>
+<ul>
+  <li>an id,</li>
+  <li>a title,</li>
+  <li>a link to its delphi-books.com page,</li>
+  <li>a link to its cover as thumbnail,</li>
+  <li>a language,</li>
+  <li>a publication date.</li>
+</ul>
+</div>
+<footer>
+<p><a href="index.php">Delphi-Books.com</a> &copy; 2020 <a href="https://olfsoftware.fr">Olf Software</a> / <a href="https://developpeur-pascal.fr">Developpeur-Pascal.fr</a></p>
+</footer>
+</div>
+</body>
+</html>

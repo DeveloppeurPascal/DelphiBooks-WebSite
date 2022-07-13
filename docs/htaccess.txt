@@ -1,0 +1,29 @@
+<IfModule mod_expires.c>
+	ExpiresActive On
+	ExpiresDefault "access plus 1 week"
+	ExpiresByType text/html "access plus 1 day"
+</IfModule>
+
+<IfModule mod_headers.c>
+	<FilesMatch "\\.(ico|jpe?g|png|gif)$">
+		Header set Cache-Control "max-age=2592000, public"
+	</FilesMatch>
+	<FilesMatch "\\.(css|js|html|xml)$">
+		Header set Cache-Control "max-age=86400, public"
+	</FilesMatch>
+	<FilesMatch "\\.(php)$">
+		Header set Cache-Control "max-age=3600, public"
+	</FilesMatch>
+</IfModule>
+
+<files .htaccess>
+	order allow,deny
+	deny from all
+</files>
+
+<files htaccess.txt>
+	order allow,deny
+	deny from all
+</files>
+
+Options -Indexes
