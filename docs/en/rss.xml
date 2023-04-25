@@ -10,7 +10,7 @@
 			<link>https://delphi-books.com/en/</link>
 		</image>
 		<language>en</language>
-		<lastBuildDate>13 Jul 2022 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>25 Apr 2023 00:00:00 GMT</lastBuildDate>
 		<atom:link href="https://delphi-books.com/en/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
@@ -468,6 +468,12 @@
 			<link>https://delphi-books.com/en/Introduktion-til-Delphi-5.html</link>
 			<guid>https://delphi-books.com/en/Introduktion-til-Delphi-5.html</guid>
 			<pubDate>1 Jan 2000 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>J'apprends à programmer en Pascal Objet avec l'environnement de développement Lazarus</title>
+			<link>https://delphi-books.com/en/Japprends-a-programmer-en-Pascal-Objet-avec-lenvironnement-de-developpement-Lazarus.html</link>
+			<guid>https://delphi-books.com/en/Japprends-a-programmer-en-Pascal-Objet-avec-lenvironnement-de-developpement-Lazarus.html</guid>
+			<pubDate>15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Jeux et autres applications en Delphi</title>
