@@ -249,6 +249,9 @@
 		<loc>https://delphi-books.com/en/Introduktion-til-Delphi-5.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
+		<loc>https://delphi-books.com/en/Japprends-a-programmer-en-Pascal-Objet-avec-lenvironnement-de-developpement-Lazarus.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
 		<loc>https://delphi-books.com/en/Jeux-et-autres-applications-en-Delphi.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
@@ -599,6 +602,9 @@
 		<loc>https://delphi-books.com/en/Pawel-Glowacki.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
+		<loc>https://delphi-books.com/en/Jean-Luc-Goflot.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
 		<loc>https://delphi-books.com/en/Terence-Goggin.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
@@ -756,6 +762,9 @@
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/en/Paul-Toth.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/en/Gilles-Vasseur.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/en/William-Wako.html</loc>
