@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="!$page_langue_code_iso$!">
+<head>
+<meta charset="utf8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Delphi books list</title>
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:url" content="!$page_url$!">
+<link rel="canonical" href="!$page_url$!">
+<meta property="og:title" content="Delphi books list">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Delphi books">
+<meta property="og:image" content="https://delphi-books.com/img/Delphi-Books-1200x630.png">
+<meta property="og:image:secure_url"  content="https://delphi-books.com/img/Delphi-Books-1200x630.png">
+<meta name="twitter:card" content="photo">
+<meta name="twitter:image" content="https://delphi-books.com/img/Delphi-Books-1200x630.png">
+<link rel="image_src" href="https://delphi-books.com/img/Delphi-Books-130x110.png">
+<link rel="alternate" type="application/rss+xml" title="List of Delphi books" href="https://delphi-books.com/!$page_langue_code_iso$!/rss.xml">
+<script src="../js/jquery-3.5.1.min.js"></script>
+<script src="../js/delphi-books.js"></script>
+</head>
+<body>
+<div id="container">
+<header>
+<a href="index.html" title="Delphi-Books.com" class="logo"><img src="../img/Delphi-Books-278x150.gif" alt="Delphi Books logo"></a>
+<span class="btngroup">
+<a href="livres.html" title="All Delphi books" class="btn"><img src="../img/btn/BoutonLivres.gif" alt="Books"></a>
+<a href="auteurs.html" title="All writers" class="btn"><img src="../img/btn/BoutonAuteurs.gif" alt="Writers"></a>
+<a href="editeurs.html" title="All publishers" class="btn"><img src="../img/btn/BoutonEditeurs.gif" alt="Publishers"></a>
+<a href="langues.html" title="All languages" class="btn"><img src="../img/btn/BoutonLangues.gif" alt="Languages"></a>
+</span>
+</header>
+<div id="content">
+<a name="books"></a><h1>Delphi books list (ordered by title)</h1>
+<p>Sort books by <a href="livres-par-date.html">publication date</a>.</p>
+<p>Filter books by publication year : <span id="LivresParAnnee"></span> [<a href="#" data-annee="all" id="AnnuleFiltreAnnee">no filter</a>]</p>
+!$liste_livres$!!$if liste_premier_element$!<div>!$else$! !$/if$!<span class="livre a!$livre_anneedesortie$!" data-annee="!$livre_anneedesortie$!" data-titre="!$livre_titre$!" data-auteur="!$liste_auteurs_par_livre$!!$if liste_premier_element$!!$else$!,!$/if$!!$auteur_libelle$!!$/liste_auteurs_par_livre$!" data-editeur="!$liste_editeurs_par_livre$!!$if liste_premier_element$!!$else$!,!$/if$!!$editeur_raison_sociale$!!$/liste_editeurs_par_livre$!"><a href="!$livre_nom_page$!" title="!$livre_titre$! (!$livre_datedesortie$!)"><img src="../covers/150x0/!$livre_photo$!" alt="!$livre_titre$!"></a></span>!$/liste_livres$!!$if liste_precedente_affichee$!</div>!$/if$!
+</div>
+<footer>
+<p><a href="../opendata.html">Open data / API</a><br>
+<a href="index.html">Delphi-Books.com</a> &copy; !$page_copyright_annees$! <a href="https://olfsoftware.fr">Olf Software</a> / <a href="https://developpeur-pascal.fr">Developpeur-Pascal.fr</a></p>
+</footer>
+</div>
+<script>
+	$(document).ready(function() {
+		AfficheFiltres();
+	});
+</script>
+</body>
+</html>

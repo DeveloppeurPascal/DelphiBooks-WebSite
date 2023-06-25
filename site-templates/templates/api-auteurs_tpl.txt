@@ -1,0 +1,1 @@
+[!$liste_auteurs$!!$if liste_premier_element$!!$else$!,!$/if$!{"id":!$auteur_code$!,"name":"!$auteur_libelle$!","url":"https://delphi-books.com/en/!$auteur_nom_page$!"}!$/liste_auteurs$!]

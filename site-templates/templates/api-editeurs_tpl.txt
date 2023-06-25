@@ -1,0 +1,1 @@
+[!$liste_editeurs$!!$if liste_premier_element$!!$else$!,!$/if$!{"id":!$editeur_code$!,"label":"!$editeur_raison_sociale$!","url":"https://delphi-books.com/en/!$editeur_nom_page$!"}!$/liste_editeurs$!]

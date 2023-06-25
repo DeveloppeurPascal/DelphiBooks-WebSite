@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="!$page_langue_code_iso$!">
+<head>
+<meta charset="utf8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>!$livre_titre$!</title>
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:url" content="!$page_url$!">
+<link rel="canonical" href="!$page_url$!">
+<meta property="og:title" content="!$livre_titre$!">
+<meta property="og:type" content="book">
+<meta property="og:site_name" content="Delphi books">
+<meta property="og:image" content="https://delphi-books.com/covers/500x0/!$livre_photo$!">
+<meta property="og:image:secure_url"  content="https://delphi-books.com/covers/500x0/!$livre_photo$!">
+!$liste_auteurs_par_livre$!<meta property="book:author" content="!$auteur_libelle$!">!$/liste_auteurs_par_livre$!
+!$if livre_a_gencod$!<meta property="book:isbn" content="!$livre_gencod$!">!$/if$!
+<meta property="book:release_date" content="!$livre_datedesortie-iso$!">
+!$liste_motscles_par_livre$!<meta property="book:tag" content="!$motcle_libelle$!">!$/liste_motscles_par_livre$!
+<meta name="twitter:card" content="photo">
+<meta name="twitter:image" content="https://delphi-books.com/covers/500x0/!$livre_photo$!">
+<link rel="image_src" href="https://delphi-books.com/covers/130x110/!$livre_photo$!">
+<link rel="alternate" type="application/rss+xml" title="List of Delphi books" href="https://delphi-books.com/!$page_langue_code_iso$!/rss.xml">
+</head>
+<body>
+<div id="container">
+<header>
+<a href="index.html" title="Delphi-Books.com" class="logo"><img src="../img/Delphi-Books-278x150.gif" alt="Delphi Books logo"></a>
+<span class="btngroup">
+<a href="livres.html" title="All Delphi books" class="btn"><img src="../img/btn/BoutonLivres.gif" alt="Books"></a>
+<a href="auteurs.html" title="All writers" class="btn"><img src="../img/btn/BoutonAuteurs.gif" alt="Writers"></a>
+<a href="editeurs.html" title="All publishers" class="btn"><img src="../img/btn/BoutonEditeurs.gif" alt="Publishers"></a>
+<a href="langues.html" title="All languages" class="btn"><img src="../img/btn/BoutonLangues.gif" alt="Languages"></a>
+</span>
+</header>
+<div id="content" itemscope itemtype="http://schema.org/Book">
+<p class="coverimg"><img src="../covers/500x0/!$livre_photo$!" title="!$livre_titre$!" itemprop="image"></p>
+<h1>!$livre_titre$!</h1>
+!$liste_editeurs_par_livre$!!$if liste_premier_element$!<p>Published by : !$else$!, !$/if$!<a href="!$editeur_nom_page$!"><span itemprop="publisher">!$editeur_raison_sociale$!</span></a>!$/liste_editeurs_par_livre$!!$if liste_precedente_affichee$!</p>!$/if$!
+!$liste_auteurs_par_livre$!!$if liste_premier_element$!<p>Writed by : !$else$!, !$/if$!<a href="!$auteur_nom_page$!"><span itemprop="name">!$auteur_libelle$!</span></a>!$/liste_auteurs_par_livre$!!$if liste_precedente_affichee$!</p>!$/if$!
+<p>Published date : !$livre_datedesortie$!<meta itemprop="datePublished" content="!$livre_datedesortie-iso$!"></p>
+!$if livre_a_isbn10$!<p>ISBN-10 : <span itemprop="isbn">!$livre_isbn10$!</span></p>!$/if$!
+!$if livre_a_gencod$!<p>ISBN-13 : <span itemprop="isbn">!$livre_gencod$!</span></p>!$/if$!
+<p>Language : <span lang="!$livre_langue_code_iso$!"><a href="!$livre_langue_nom_page$!"><img src="../img/flag/!$livre_langue_code_iso$!.gif" alt="!$livre_langue_libelle$!" class="lngtxt"></a> <a href="!$livre_langue_nom_page$!"><span itemprop="inLanguage">!$livre_langue_libelle$!</span></a></span></p>
+!$if livre_a_url_site$!<p>Web site : <a href="!$livre_url_site$!">!$livre_url_site$!</a></p>!$/if$!
+!$liste_motscles_par_livre$!!$if liste_premier_element$!<p>Keywords : !$else$!, !$/if$!<a href="!$motcle_nom_page$!">!$motcle_libelle$!</a>!$/liste_motscles_par_livre$!!$if liste_precedente_affichee$!</p>!$/if$!
+!$liste_descriptions_par_livre$!!$if liste_premier_element$!<a name="about"></a><h2>About !$livre_titre$!</h2>!$/if$!<div lang="!$livre_description_langue_code_iso$!">!$livre_description$!</div>!$/liste_descriptions_par_livre$!
+<a name="shopping"><h2>Where to buy ?</h2>
+!$if livre_a_gencod$!<p>This book has the ISBN13 "!$livre_gencod$!".<br />
+If it is still available for sale, you can order it in your favorite bookstore, by its publisher or online at 
+<a href="https://www.amazon.ca/gp/search?ie=UTF8&tag=delphibooks0c-20&linkCode=ur2&linkId=06449c565b5e94cd52a31aa716bc1ba8&camp=15121&creative=330641&index=books-ca&keywords=!$livre_gencod$!">Amazon CA</a>, 
+<a href="https://www.amazon.fr/gp/search?ie=UTF8&tag=delphibooks-21&linkCode=ur2&linkId=f84e214ca52c39bce185829b8a3e7abb&camp=1642&creative=6746&index=books&keywords=!$livre_gencod$!">Amazon FR</a>, 
+<a href="https://www.amazon.co.jp/gp/search?ie=UTF8&tag=delphibooks-22&linkCode=ur2&linkId=13509b4b9c8ab380d4d355dc542b00e9&camp=247&creative=1211&index=english-books&keywords=!$livre_gencod$!">Amazon JP</a>, 
+<a href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=delphibooks0c-21&linkCode=ur2&linkId=c3323f708d3cefef559e46a18f5bd7da&camp=1634&creative=6738&index=books&keywords=!$livre_gencod$!">Amazon UK</a> or 
+<a href="https://www.amazon.com/gp/search?ie=UTF8&tag=delphibooks0b-20&linkCode=ur2&linkId=b9687477288435c2b485456516789778&camp=1789&creative=9325&index=books&keywords=!$livre_gencod$!">Amazon USA</a> depending on your country.</p>!$else$!
+!$if livre_a_isbn10$!<p>This book has the ISBN10 "!$livre_isbn10$!".<br />
+If it is still available for sale, you can order it in your favorite bookstore, by its publisher or online at 
+<a href="https://www.amazon.ca/gp/search?ie=UTF8&tag=delphibooks0c-20&linkCode=ur2&linkId=06449c565b5e94cd52a31aa716bc1ba8&camp=15121&creative=330641&index=books-ca&keywords=!$livre_isbn10$!">Amazon CA</a>, 
+<a href="https://www.amazon.fr/gp/search?ie=UTF8&tag=delphibooks-21&linkCode=ur2&linkId=f84e214ca52c39bce185829b8a3e7abb&camp=1642&creative=6746&index=books&keywords=!$livre_isbn10$!">Amazon FR</a>, 
+<a href="https://www.amazon.co.jp/gp/search?ie=UTF8&tag=delphibooks-22&linkCode=ur2&linkId=13509b4b9c8ab380d4d355dc542b00e9&camp=247&creative=1211&index=english-books&keywords=!$livre_isbn10$!">Amazon JP</a>, 
+<a href="https://www.amazon.co.uk/gp/search?ie=UTF8&tag=delphibooks0c-21&linkCode=ur2&linkId=c3323f708d3cefef559e46a18f5bd7da&camp=1634&creative=6738&index=books&keywords=!$livre_isbn10$!">Amazon UK</a> or 
+<a href="https://www.amazon.com/gp/search?ie=UTF8&tag=delphibooks0b-20&linkCode=ur2&linkId=b9687477288435c2b485456516789778&camp=1789&creative=9325&index=books&keywords=!$livre_isbn10$!">Amazon USA</a> depending on your country.</p>!$else$!
+!$if livre_a_url_site$!<p>If this book is still available for sale, you probably can order it <a href="!$livre_url_site$!">on its website</a>.</p>!$else$!
+<p>We can't answer this question. You can check on your favorite search engine if it found a link to get "!$livre_titre$!" legally.</p>!$/if$!!$/if$!!$/if$!
+!$liste_tabledesmatieres_par_livre$!!$if liste_premier_element$!<a name="toc"></a><h2>Table of content</h2>!$/if$!<div lang="!$livre_tabledesmatieres_langue_code_iso$!">!$livre_tabledesmatieres$!</div>!$/liste_tabledesmatieres_par_livre$!
+!$liste_commentaires_par_livre$!!$if liste_premier_element$!<a name="review"></a><h2>Readers comments on !$livre_titre$!</h2>!$/if$!<div lang="!$livre_commentaire_langue_code_iso$!"><p>From <a href="!$livre_commentaire_nom_page$!">!$livre_commentaire_pseudo$!</a> the !$livre_commentaire_date$! :</p>!$livre_commentaire$!</div>!$/liste_commentaires_par_livre$!
+</div>
+<footer>
+<p><a href="../opendata.html">Open data / API</a><br>
+<a href="index.html">Delphi-Books.com</a> &copy; !$page_copyright_annees$! <a href="https://olfsoftware.fr">Olf Software</a> / <a href="https://developpeur-pascal.fr">Developpeur-Pascal.fr</a></p>
+</footer>
+</div>
+</body>
+</html>

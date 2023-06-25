@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://delphi-books.com/!$page_langue_code_iso$!/index.html</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://delphi-books.com/!$page_langue_code_iso$!/editeurs.html</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://delphi-books.com/!$page_langue_code_iso$!/auteurs.html</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://delphi-books.com/!$page_langue_code_iso$!/livres.html</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</url>
+!$liste_livres$!<url>
+		<loc>https://delphi-books.com/!$page_langue_code_iso$!/!$livre_nom_page$!</loc>
+		<changefreq>monthly</changefreq>
+	</url>!$/liste_livres$!
+!$liste_editeurs$!<url>
+		<loc>https://delphi-books.com/!$page_langue_code_iso$!/!$editeur_nom_page$!</loc>
+		<changefreq>monthly</changefreq>
+	</url>!$/liste_editeurs$!
+!$liste_auteurs$!<url>
+		<loc>https://delphi-books.com/!$page_langue_code_iso$!/!$auteur_nom_page$!</loc>
+		<changefreq>monthly</changefreq>
+	</url>!$/liste_auteurs$!
+!$liste_langues$!<url>
+		<loc>https://delphi-books.com/!$page_langue_code_iso$!/!$langue_nom_page$!</loc>
+		<changefreq>monthly</changefreq>
+	</url>!$/liste_langues$!
+!$liste_motscles$!<url>
+		<loc>https://delphi-books.com/!$page_langue_code_iso$!/!$motcle_nom_page$!</loc>
+		<changefreq>monthly</changefreq>
+	</url>!$/liste_motscles$!
+!$liste_lecteurs$!<url>
+		<loc>https://delphi-books.com/!$page_langue_code_iso$!/!$lecteur_nom_page$!</loc>
+		<changefreq>monthly</changefreq>
+	</url>!$/liste_lecteurs$!
+</urlset>

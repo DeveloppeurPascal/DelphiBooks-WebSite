@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Delphi Books</title>
+		<description>You are looking for books about programming in Delphi or Object Pascal languages ? Delphi Books is for you !</description>
+		<link>https://delphi-books.com/!$page_langue_code_iso$!/</link>
+		<image>
+			<title>Delphi Books</title>
+			<url>https://delphi-books.com/img/Delphi-Books-500x270.png</url>
+			<link>https://delphi-books.com/!$page_langue_code_iso$!/</link>
+		</image>
+		<language>!$page_langue_code_iso$!</language>
+		<lastBuildDate>!$date-rfc822$!</lastBuildDate>
+		<atom:link href="https://delphi-books.com/!$page_langue_code_iso$!/rss.xml" rel="self" type="application/rss+xml" />
+!$liste_livres$!
+		<item>
+			<title>!$livre_titre-xml$!</title>
+			<link>https://delphi-books.com/!$page_langue_code_iso$!/!$livre_nom_page$!</link>
+			<guid>https://delphi-books.com/!$page_langue_code_iso$!/!$livre_nom_page$!</guid>
+			<pubDate>!$livre_datedesortie-rfc822$!</pubDate>
+		</item>!$/liste_livres$!
+	</channel>
+</rss>
