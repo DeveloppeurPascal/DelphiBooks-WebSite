@@ -1,0 +1,117 @@
+liste_livres
+liste_livres-par_date
+liste_livres_recents
+liste_livres_derniers_ajouts
+liste_livres_par_editeur
+liste_livres_par_auteur
+liste_livres_par_motcle
+liste_livres_par_langue
+livre_code
+livre_titre
+livre_titre-xml
+livre_isbn10
+if livre_a_isbn10
+livre_gencod
+if livre_a_gencod
+livre_anneedesortie
+livre_datedesortie
+livre_datedesortie-iso
+livre_datedesortie-rfc822
+livre_url_site
+if livre_a_url_site
+livre_nom_page
+livre_langue_libelle
+livre_langue_code_iso
+livre_langue_nom_page
+livre_photo
+if livre_a_photo
+
+liste_commentaires_par_livre
+livre_commentaire
+livre_commentaire_langue_libelle
+livre_commentaire_langue_code_iso
+livre_commentaire_langue_nom_page
+livre_commentaire_date
+livre_commentaire_pseudo
+livre_commentaire_nom_page
+
+liste_tabledesmatieres_par_livre
+livre_tabledesmatieres
+livre_tabledesmatieres_langue_libelle
+livre_tabledesmatieres_langue_code_iso
+livre_tabledesmatieres_langue_nom_page
+
+liste_descriptions_par_livre
+livre_description
+livre_description_langue_libelle
+livre_description_langue_code_iso
+livre_description_langue_nom_page
+
+liste_motscles
+liste_motscles_par_livre
+motcle_libelle
+motcle_nom_page
+
+liste_lecteurs
+lecteur_pseudo
+lecteur_url_site
+if lecteur_a_url_site
+lecteur_nom_page
+lecteur_photo
+if lecteur_a_photo
+
+liste_langues
+langue_libelle
+langue_code_iso
+langue_nom_page
+langue_photo
+
+liste_editeurs
+liste_editeurs_par_livre
+editeur_code
+editeur_raison_sociale
+editeur_url_site
+if editeur_a_url_site
+editeur_nom_page
+editeur_photo
+if editeur_a_photo
+
+liste_descriptions_par_editeur
+editeur_description
+editeur_description_langue_libelle
+editeur_description_langue_code_iso
+editeur_description_langue_nom_page
+
+liste_auteurs
+liste_auteurs_par_livre
+auteur_code
+auteur_nom
+auteur_prenom
+auteur_pseudo
+auteur_libelle
+auteur_url_site
+if auteur_a_url_site
+auteur_nom_page
+auteur_photo
+if auteur_a_photo
+
+liste_descriptions_par_auteur
+auteur_description
+auteur_description_langue_libelle
+auteur_description_langue_code_iso
+auteur_description_langue_nom_page
+
+page_langue_libelle
+page_langue_code_iso
+page_langue_nom_page
+page_langue_photo
+page_copyright_annees
+page_filename
+page_url
+
+date
+date-iso
+date-rfc822
+
+if liste_premier_element
+if liste_precedente_affichee
