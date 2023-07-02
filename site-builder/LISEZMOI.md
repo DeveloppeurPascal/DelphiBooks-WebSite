@@ -8,7 +8,7 @@ WSBuilder est disponible pour Windows et Mac. Il doit être exécuté depuis ce 
 
 Le programme sert pour alimenter le site [delphi-books.com](https://delphi-books.com) mais peut aussi servir en local pour tester des modifications sur la base de données ou les modèles de pages.
 
-**Attention** : si vous faites un PULL REQUEST, les modifications issues de ce programme seront rejetées. Si vous modifiez la base de données envoyez les changements sans passer par WSBuilder !
+**Attention** : si vous faites un PULL REQUEST, les modifications issues de ce programme seront rejetées. Si vous modifiez la base de données (avec [le programme DBAdmin](../database)) envoyez les changements sans passer par WSBuilder !
 
 ## Pour Windows
 
