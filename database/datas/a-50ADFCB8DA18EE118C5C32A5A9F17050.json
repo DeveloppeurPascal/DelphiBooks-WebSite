@@ -1,0 +1,35 @@
+﻿{
+"id":64,
+"url":"",
+"guid":"50ADFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Jack-Crenshaw.html",
+"datalevel":6,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"",
+"lastname":"Crenshaw",
+"firstname":"Jack",
+"pseudo":"",
+"website":"https:\/\/jackcrenshaw.com",
+"descriptions":[
+{
+"guid":"78ADFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"ispagetobuild":true,
+"lang":"en",
+"text":"<p>Jack Crenshaw holds a Ph.D. in physics from Auburn University (specialties in math, electronics, and advanced dynamics). He wrote his first computer program in 1956 and his first microcomputer software a real-time, floating-point, Kalman filter-driven controller in 1976. He has been working with real-time software for embedded systems ever since, and thinks he might be beginning to get the hang of it. He is currently a senior principal design engineer for Alliant TechSystems, Inc., a contributing editor for Embedded Systems Programming magazine, and author of the popular 'Programmer's Toolbox' column. In his spare time, he likes to dabble in compiler theory, guidance and control theory, and help rehabilitate orphaned and injured wildlife.<\/p>\n<p>More interesting to read on his <a href=\"https:\/\/jackcrenshaw.com\/about\/\">about blog page<\/a>.<\/p>"}],
+"books":[
+{
+"id":83,
+"url":"",
+"guid":"DCADFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Lets-Build-a-Compiler-.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Let's Build a Compiler !",
+"lang":"en",
+"pubdate":"19950000",
+"thumb":""}]}

@@ -1,0 +1,87 @@
+﻿{
+"id":13,
+"url":"",
+"guid":"9A22FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Dr-Holger-Flick.html",
+"datalevel":6,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"",
+"lastname":"Flick",
+"firstname":"Holger",
+"pseudo":"Dr Holger Flick",
+"website":"https:\/\/flixengineering.com",
+"descriptions":[
+{
+"guid":"CC22FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"ispagetobuild":true,
+"lang":"en",
+"text":"Since 1996, Dr. Holger Flick has been using Delphi as his primary development platform and has been an active member of the community. He studied computer science at Dortmund University and later wrote his dissertation at the Ruhr University in Bochum in the field of telemedicine. For his passion for and knowledge of Delphi he was awarded the \u201CDelphi MVP\u201D moniker in 2016. In 2019, Holger moved to the United States of America (USA) and established his new company FlixEngineering LLC. The company focuses on consulting, training and software development using object-oriented programming languages like Delphi, C#, Swift, and Objective-C. Holger is part of the TMS Software family providing his expertise as Chief Evangelist and QA Engineer."}],
+"books":[
+{
+"id":15,
+"url":"",
+"guid":"2623FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Hands-on-with-Delphi-Volume-1.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Hands-on with Delphi - Volume 1",
+"lang":"en",
+"pubdate":"20200509",
+"thumb":""
+},{
+
+"id":16,
+"url":"",
+"guid":"AC24FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Hands-on-with-Delphi-Volume-2.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Hands-on with Delphi - Volume 2",
+"lang":"en",
+"pubdate":"20200826",
+"thumb":""
+},{
+
+"id":17,
+"url":"",
+"guid":"3226FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"TMS-WEB-Core-Webanwendungen-mit-Delphi-entwickeln.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"TMS WEB Core: Webanwendungen mit Delphi entwickeln",
+"lang":"de",
+"pubdate":"20200303",
+"thumb":""
+},{
+
+"id":18,
+"url":"",
+"guid":"D627FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"TMS-WEB-Core-Web-Application-Development-with-Delphi.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"TMS WEB Core: Web Application Development with Delphi",
+"lang":"en",
+"pubdate":"20200326",
+"thumb":""
+},{
+
+"id":116,
+"url":"",
+"guid":"70DDFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Hands-on-with-Delphi-Volume-3.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Hands-on with Delphi - Volume 3",
+"lang":"en",
+"pubdate":"20210722",
+"thumb":""}]}

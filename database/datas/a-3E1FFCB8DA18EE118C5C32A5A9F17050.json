@@ -1,0 +1,35 @@
+﻿{
+"id":12,
+"url":"",
+"guid":"3E1FFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Jon-Shemitz.html",
+"datalevel":6,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"",
+"lastname":"Shemitz",
+"firstname":"Jon",
+"pseudo":"",
+"website":"",
+"descriptions":[
+{
+"guid":"7A1FFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"ispagetobuild":true,
+"lang":"en",
+"text":"Jon Shemitz has been programming since he was 12, when he learned Focal on a PDP-8, and has been programming professionally since he graduated from Yale University in 1981. He's been using Borland's Pascal since Turbo Pascal 1.0. He's written several magazine articles and several book chapters. He also authored KYLIX: The Professional Developer's Guide and Reference. Learn more about Jon at MidnightBeach.com."}],
+"books":[
+{
+"id":13,
+"url":"",
+"guid":"F21FFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"NET-20-for-Delphi-Programmers.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":".NET 2.0 for Delphi Programmers",
+"lang":"en",
+"pubdate":"20060000",
+"thumb":""}]}

@@ -1,0 +1,35 @@
+﻿{
+"id":23,
+"url":"",
+"guid":"F23DFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Credo-Ekoue-Gaba.html",
+"datalevel":6,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"",
+"lastname":"",
+"firstname":"",
+"pseudo":"Cr\u00E9do Ekou\u00E9 Gaba",
+"website":"",
+"descriptions":[
+{
+"guid":"243EFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"ispagetobuild":true,
+"lang":"fr",
+"text":"Enseignant en CENIE ELECTRONIQUE -R\u00E9alisation d'applications Desktop, Mobile, Web;-R\u00E9alisation des installations \u00E9lectriques domestiques et industrielles;-Formations et stages en industriel (\u00E9lectrom\u00E9caniques, automatismes, solaires), Hygi\u00E8ne et s\u00E9curit\u00E9 au travail (QHSE), Secourisme(CRT);-Maitrise et connaissance de plusieurs outils informatiques;"}],
+"books":[
+{
+"id":31,
+"url":"",
+"guid":"7E3EFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Realisation-dune-application-de-supervision-des-charges-electriques.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"R\u00E9alisation d'une application de supervision des charges \u00E9lectriques",
+"lang":"fr",
+"pubdate":"20200415",
+"thumb":""}]}

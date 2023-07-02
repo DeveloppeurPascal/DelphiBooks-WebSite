@@ -1,0 +1,41 @@
+﻿{
+"id":77,
+"url":"",
+"guid":"1ACAFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Jeffrey-M-Cogswell.html",
+"datalevel":6,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"",
+"lastname":"Cogswell",
+"firstname":"Jeffrey M.",
+"pseudo":"",
+"website":"",
+"descriptions":[
+],
+"books":[
+{
+"id":103,
+"url":"",
+"guid":"52C9FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-32-Bit-Programming-Secrets.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Delphi 32-Bit Programming Secrets",
+"lang":"en",
+"pubdate":"19961008",
+"thumb":""
+},{
+
+"id":104,
+"url":"",
+"guid":"82CBFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Learn-Delphi-2-Database-Programming-Today.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Learn Delphi 2 Database Programming Today",
+"lang":"en",
+"pubdate":"19960506",
+"thumb":""}]}

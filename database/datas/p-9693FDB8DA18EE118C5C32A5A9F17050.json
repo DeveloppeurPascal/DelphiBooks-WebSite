@@ -1,0 +1,51 @@
+﻿{
+"id":37,
+"url":"",
+"guid":"9693FDB8DA18EE118C5C32A5A9F17050",
+"pagename":"Hungry-Minds.html",
+"datalevel":4,
+"dataversion":1,
+"ispagetobuild":true,
+"label":"Hungry Minds",
+"website":"",
+"descriptions":[
+],
+"books":[
+{
+"id":102,
+"url":"",
+"guid":"E0C7FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-4-Bible.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Delphi 4 Bible",
+"lang":"en",
+"pubdate":"19980722",
+"thumb":""
+},{
+
+"id":103,
+"url":"",
+"guid":"52C9FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-32-Bit-Programming-Secrets.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Delphi 32-Bit Programming Secrets",
+"lang":"en",
+"pubdate":"19961008",
+"thumb":""
+},{
+
+"id":104,
+"url":"",
+"guid":"82CBFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Learn-Delphi-2-Database-Programming-Today.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Learn Delphi 2 Database Programming Today",
+"lang":"en",
+"pubdate":"19960506",
+"thumb":""}]}

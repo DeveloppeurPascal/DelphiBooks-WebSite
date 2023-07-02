@@ -1,0 +1,35 @@
+﻿{
+"id":78,
+"url":"",
+"guid":"34D8FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Thierry-Grassia.html",
+"datalevel":6,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"",
+"lastname":"Grassia",
+"firstname":"Thierry",
+"pseudo":"",
+"website":"https:\/\/www.linkedin.com\/in\/thierry-grassia-985003150\/",
+"descriptions":[
+{
+"guid":"66D8FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"ispagetobuild":true,
+"lang":"fr",
+"text":"Dipl\u00F4m\u00E9 de Telecom Physique Strasbourg depuis 1999, Thierry GRASSIA est aujourd\u2019hui Ing\u00E9nieur en d\u00E9veloppement expert sur le langage Delphi qu\u2019il a su \u00E9prouver au cours de ses diff\u00E9rentes exp\u00E9riences professionnelles. Avec ce livre, il propose au lecteur de l\u2019accompagner dans son apprentissage du langage pour le mener vers le d\u00E9veloppement d\u2019applications ou de services en environnement Windows."}],
+"books":[
+{
+"id":113,
+"url":"",
+"guid":"CAD8FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-103-Programmation-orientee-objet-en-environnement-Windows.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Delphi 10.3 - Programmation orient\u00E9e objet en environnement Windows",
+"lang":"fr",
+"pubdate":"20210113",
+"thumb":""}]}

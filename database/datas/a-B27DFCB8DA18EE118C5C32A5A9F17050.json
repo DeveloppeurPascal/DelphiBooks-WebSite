@@ -1,0 +1,41 @@
+﻿{
+"id":47,
+"url":"",
+"guid":"B27DFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"John-R-Cowell.html",
+"datalevel":6,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"",
+"lastname":"Cowell",
+"firstname":"John R.",
+"pseudo":"",
+"website":"",
+"descriptions":[
+],
+"books":[
+{
+"id":55,
+"url":"",
+"guid":"027EFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Essential-Delphi-20-Fast.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Essential Delphi 2.0 Fast",
+"lang":"en",
+"pubdate":"19960501",
+"thumb":""
+},{
+
+"id":56,
+"url":"",
+"guid":"9C7FFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Essential-Delphi-3-Fast.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Essential Delphi 3 Fast",
+"lang":"en",
+"pubdate":"19971029",
+"thumb":""}]}

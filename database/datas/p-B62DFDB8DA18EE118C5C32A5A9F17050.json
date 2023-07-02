@@ -1,0 +1,25 @@
+﻿{
+"id":9,
+"url":"",
+"guid":"B62DFDB8DA18EE118C5C32A5A9F17050",
+"pagename":"Editions-Ellipses.html",
+"datalevel":4,
+"dataversion":1,
+"ispagetobuild":true,
+"label":"Editions Ellipses",
+"website":"https:\/\/www.editions-ellipses.fr",
+"descriptions":[
+],
+"books":[
+{
+"id":26,
+"url":"",
+"guid":"D235FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Initiation-a-Delphi-60.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Initiation \u00E0 Delphi 6.0",
+"lang":"fr",
+"pubdate":"20020615",
+"thumb":""}]}

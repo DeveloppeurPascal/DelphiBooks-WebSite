@@ -1,0 +1,35 @@
+﻿{
+"id":85,
+"url":"",
+"guid":"AEEAFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Marco-Geuze.html",
+"datalevel":6,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"",
+"lastname":"Geuze",
+"firstname":"Marco",
+"pseudo":"",
+"website":"https:\/\/www.linkedin.com\/in\/marcogeuze\/",
+"descriptions":[
+{
+"guid":"E0EAFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"ispagetobuild":true,
+"lang":"en",
+"text":"<p><a href=\"https:\/\/www.linkedin.com\/in\/marcogeuze\/\">Marco Geuze<\/a> is the co-owner of <a href=\"https:\/\/www.gdksoftware.com\">GDK Software<\/a> and an Embarcadero Delphi MVP. He started developing in the DOS era, writing applications with Turbo Pascal. Since then, he has always written code, moving from Object Pascal to Delphi. He regularly publishes blogs, gives webinars, and has <a href=\"https:\/\/www.gdksoftware.com\/delphi-hero\">a mailing list \"Delphi Hero\"<\/a> to which many Delphi developers are subscribed.<\/p>\n<p>His company <a href=\"https:\/\/www.gdksoftware.com\">GDK Software<\/a> is an authority on the programming language Delphi (and Mendix) and has helped hundreds of companies with Delphi development, maintenance, and Delphi upgrades.<\/p>"}],
+"books":[
+{
+"id":124,
+"url":"",
+"guid":"30EBFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-Programming-Checklist.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Delphi Programming Checklist",
+"lang":"en",
+"pubdate":"20220512",
+"thumb":""}]}

@@ -1,0 +1,25 @@
+﻿{
+"id":32,
+"url":"",
+"guid":"508EFDB8DA18EE118C5C32A5A9F17050",
+"pagename":"Prentice-Hall.html",
+"datalevel":4,
+"dataversion":1,
+"ispagetobuild":true,
+"label":"Prentice Hall",
+"website":"",
+"descriptions":[
+],
+"books":[
+{
+"id":97,
+"url":"",
+"guid":"B4C1FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Programming-in-IBM-PC-DOS-Pascal.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Programming in IBM-PC-DOS Pascal",
+"lang":"en",
+"pubdate":"19850201",
+"thumb":""}]}

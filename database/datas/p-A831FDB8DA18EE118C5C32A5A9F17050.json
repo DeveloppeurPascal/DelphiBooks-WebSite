@@ -1,0 +1,51 @@
+﻿{
+"id":11,
+"url":"",
+"guid":"A831FDB8DA18EE118C5C32A5A9F17050",
+"pagename":"Editions-Universitaires-europeennes.html",
+"datalevel":4,
+"dataversion":1,
+"ispagetobuild":true,
+"label":"Editions Universitaires europ\u00E9ennes",
+"website":"https:\/\/www.editions-ue.com",
+"descriptions":[
+],
+"books":[
+{
+"id":29,
+"url":"",
+"guid":"0E3BFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Jeux-et-autres-applications-en-Delphi.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Jeux et autres applications en Delphi",
+"lang":"fr",
+"pubdate":"20110103",
+"thumb":""
+},{
+
+"id":30,
+"url":"",
+"guid":"F83CFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Du-neant-en-informatique-au-programmeur-professionnel-grace-au-Delphi.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Du n\u00E9ant en informatique au programmeur professionnel gr\u00E2ce au Delphi",
+"lang":"fr",
+"pubdate":"20120116",
+"thumb":""
+},{
+
+"id":31,
+"url":"",
+"guid":"7E3EFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Realisation-dune-application-de-supervision-des-charges-electriques.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"R\u00E9alisation d'une application de supervision des charges \u00E9lectriques",
+"lang":"fr",
+"pubdate":"20200415",
+"thumb":""}]}

@@ -1,0 +1,25 @@
+﻿{
+"id":35,
+"url":"",
+"guid":"5291FDB8DA18EE118C5C32A5A9F17050",
+"pagename":"West-Publishing-Co.html",
+"datalevel":4,
+"dataversion":1,
+"ispagetobuild":true,
+"label":"West Publishing Co",
+"website":"",
+"descriptions":[
+],
+"books":[
+{
+"id":100,
+"url":"",
+"guid":"56C5FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Pascal-Programming-Today.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Pascal Programming Today",
+"lang":"en",
+"pubdate":"19870101",
+"thumb":""}]}

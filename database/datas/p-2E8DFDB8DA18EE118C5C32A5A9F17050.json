@@ -1,0 +1,25 @@
+﻿{
+"id":31,
+"url":"",
+"guid":"2E8DFDB8DA18EE118C5C32A5A9F17050",
+"pagename":"Chapman-and-Hall.html",
+"datalevel":4,
+"dataversion":1,
+"ispagetobuild":true,
+"label":"Chapman and Hall",
+"website":"",
+"descriptions":[
+],
+"books":[
+{
+"id":96,
+"url":"",
+"guid":"60C0FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Pascal-at-Work-and-Play-An-Introduction-to-Computer-Programming-in-Pascal.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Pascal at Work and Play: An Introduction to Computer Programming in Pascal",
+"lang":"en",
+"pubdate":"19820101",
+"thumb":""}]}

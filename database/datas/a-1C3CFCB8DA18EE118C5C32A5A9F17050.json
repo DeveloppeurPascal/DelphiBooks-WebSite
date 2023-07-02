@@ -1,0 +1,44 @@
+﻿{
+"id":22,
+"url":"",
+"guid":"1C3CFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Blaise-Lusikila-Luambasu.html",
+"datalevel":6,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"",
+"lastname":"",
+"firstname":"",
+"pseudo":"Blaise Lusikila Luambasu",
+"website":"",
+"descriptions":[
+{
+"guid":"4E3CFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"ispagetobuild":true,
+"lang":"en",
+"text":""
+},{
+
+"guid":"943CFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"ispagetobuild":true,
+"lang":"fr",
+"text":"Ann\u00E9e 2007-2008, il a obtenu son titre de Licenci\u00E9 en Informatique, option : Administration et Maintenance r\u00E9seaux avec la mention distinction \u00E0 L''ESMCOM en RDC.Ann\u00E9e 2003-2004, Gradu\u00E9 en Informatique de Gestion \u00E0 L''ISC\/GOMBE \u00E0 Kinshasa, en RDC.Il ma\u00EEtrise le VB, Delphi, C, C++, XHTML, CSS, Javascript, php,sans compter l'infographie."}],
+"books":[
+{
+"id":30,
+"url":"",
+"guid":"F83CFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Du-neant-en-informatique-au-programmeur-professionnel-grace-au-Delphi.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Du n\u00E9ant en informatique au programmeur professionnel gr\u00E2ce au Delphi",
+"lang":"fr",
+"pubdate":"20120116",
+"thumb":""}]}

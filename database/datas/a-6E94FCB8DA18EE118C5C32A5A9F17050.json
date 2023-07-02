@@ -1,0 +1,41 @@
+﻿{
+"id":55,
+"url":"",
+"guid":"6E94FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Kim-Krarup-Andersen.html",
+"datalevel":6,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"",
+"lastname":"Andersen",
+"firstname":"Kim Krarup",
+"pseudo":"",
+"website":"",
+"descriptions":[
+],
+"books":[
+{
+"id":69,
+"url":"",
+"guid":"C894FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Introduktion-til-Delphi-5.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Introduktion til Delphi 5",
+"lang":"dk",
+"pubdate":"20000000",
+"thumb":""
+},{
+
+"id":74,
+"url":"",
+"guid":"3E9CFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Introduktion-til-Delphi-2.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Introduktion til Delphi 2",
+"lang":"dk",
+"pubdate":"19970000",
+"thumb":""}]}

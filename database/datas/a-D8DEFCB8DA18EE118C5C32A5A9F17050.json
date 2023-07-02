@@ -1,0 +1,44 @@
+﻿{
+"id":82,
+"url":"",
+"guid":"D8DEFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"David-Cornelius.html",
+"datalevel":6,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"",
+"lastname":"Cornelius",
+"firstname":"David",
+"pseudo":"",
+"website":"https:\/\/corneliusconcepts.tech\/",
+"descriptions":[
+{
+"guid":"0ADFFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"ispagetobuild":true,
+"lang":"en",
+"text":"<p>David has been building custom software solutions of all kinds for over 30 years. Starting with Turbo Pascal in the late 80's, he's used all versions of Borland and Embarcadero's Object Pascal to write software for the Education, Finance, Healthcare, Real Estate, and Retail industries. He's programmed in C\/C++, .NET, built websites in Drupal, and written PowerShell scripts to manage Windows servers. But he keeps coming back to Delphi as the best all-around tool for creating great software--and now for nearly all platforms!<\/p>\n<p>In addition to programming, David has a great family, loves to go camping and hiking, ride his motorcycle, and play tuba or bass guitar when the opportunity arises. He lives near Portland, Oregon, in the Pacific Northwest of USA, about half way between Mt. Hood and the Pacific Ocean.<\/p>\n<p>Twitter: @delphidave<br>\nBlog: <a href=\"https:\/\/corneliusconcepts.tech\">https:\/\/corneliusconcepts.tech<\/a><br>\nBusiness: <a href=\"https:\/\/corneliusconcepts.com\">https:\/\/corneliusconcepts.com<\/a><br>\nOregon Delphi User Group: <a href=\"https:\/\/odug.org\">https:\/\/odug.org<\/a><\/p>"
+},{
+
+"guid":"32DFFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"ispagetobuild":true,
+"lang":"en",
+"text":"<p>David has been building custom software solutions of all kinds for over 30 years. Starting with Turbo Pascal in the late 80's, he's used all versions of Borland and Embarcadero's Object Pascal to write software for the Education, Finance, Healthcare, Real Estate, and Retail industries. He's programmed in C\/C++, .NET, built websites in Drupal, and written PowerShell scripts to manage Windows servers. But he keeps coming back to Delphi as the best all-around tool for creating great software--and now for nearly all platforms!<\/p>\n<p>In addition to programming, David has a great family, loves to go camping and hiking, ride his motorcycle, and play tuba or bass guitar when the opportunity arises. He lives near Portland, Oregon, in the Pacific Northwest of USA, about half way between Mt. Hood and the Pacific Ocean.<\/p>\n<p>Twitter: <a href=\"https:\/\/twitter.com\/delphidave\">@delphidave<\/a><br>\nBlog: <a href=\"https:\/\/corneliusconcepts.tech\">https:\/\/corneliusconcepts.tech<\/a><br>\nBusiness: <a href=\"https:\/\/corneliusconcepts.com\">https:\/\/corneliusconcepts.com<\/a><br>\nOregon Delphi User Group: <a href=\"https:\/\/odug.org\">https:\/\/odug.org<\/a><\/p>"}],
+"books":[
+{
+"id":117,
+"url":"",
+"guid":"82DFFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Fearless-Cross-Platform-Development-with-Delphi.html",
+"datalevel":8,
+"dataversion":1,
+"ispagetobuild":true,
+"name":"Fearless Cross-Platform Development with Delphi",
+"lang":"en",
+"pubdate":"20211022",
+"thumb":""}]}
