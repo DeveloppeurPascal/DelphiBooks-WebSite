@@ -36,12 +36,4 @@
 		<loc>https://delphi-books.com/!$page_langue_code_iso$!/!$langue_nom_page$!</loc>
 		<changefreq>monthly</changefreq>
 	</url>!$/liste_langues$!
-!$liste_motscles$!<url>
-		<loc>https://delphi-books.com/!$page_langue_code_iso$!/!$motcle_nom_page$!</loc>
-		<changefreq>monthly</changefreq>
-	</url>!$/liste_motscles$!
-!$liste_lecteurs$!<url>
-		<loc>https://delphi-books.com/!$page_langue_code_iso$!/!$lecteur_nom_page$!</loc>
-		<changefreq>monthly</changefreq>
-	</url>!$/liste_lecteurs$!
 </urlset>
