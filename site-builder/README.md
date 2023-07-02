@@ -6,7 +6,7 @@ This folder contains the program for generating the site from the local database
 
 WSBuilder is available for Windows and Mac. It should be run from this folder on your computer, maintaining the code repository tree structure.
 
-The program is used to feed the delphi-books.com site, but can also be used locally to test modifications to the database or page templates.
+The program is used to feed the [delphi-books.com](https://delphi-books.com) site, but can also be used locally to test modifications to the database or page templates.
 
 **Warning**: if you make a PULL REQUEST, modifications made with this program will be rejected. If you modify the database, send the changes without going through WSBuilder!
 
