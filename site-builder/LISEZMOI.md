@@ -20,7 +20,7 @@ Décompressez le fichier DelphiBooksWebSiteBuilder-Mac.zip dans le même dossier
 
 ## Mode d'emploi
 
-!(WSBuilder main screen)[images/main-screen.jpg]
+![WSBuilder main screen](images/main-screen.jpg)
 
 ### A propos du programme
 
@@ -28,7 +28,7 @@ Le bouton "about" affiche les informations de version et de copyright du program
 
 ### Construire le site
 
-!(WSBuilder build screen)[images/builder-screen.jpg]
+![WSBuilder build screen](images/builder-screen.jpg)
 
 Le bouton "build" déclenche la mise à jour (locale) du site web.
 

@@ -20,13 +20,15 @@ Unzip the DelphiBooksWebSiteBuilder-Mac.zip file in the same folder to obtain th
 
 ## Instructions
 
-!(WSBuilder main screen)[images/main-screen.jpg]
+![WSBuilder main screen](images/main-screen.jpg)
 
 ### About the program
 
 The "about" button displays program version and copyright information.
 
-### Build the site!(WSBuilder build screen)[images/builder-screen.jpg]
+### Build the site
+
+![WSBuilder build screen](images/builder-screen.jpg)
 
 The "build" button triggers (local) updating of the website.
 
