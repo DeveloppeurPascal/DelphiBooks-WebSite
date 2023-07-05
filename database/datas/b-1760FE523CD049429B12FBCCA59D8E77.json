@@ -1,0 +1,35 @@
+﻿{
+"guid":"1760FE523CD049429B12FBCCA59D8E77",
+"pagename":"Delphi-DataSnap-Full-Stack-Development.html",
+"datalevel":7,
+"dataversion":1,
+"ispagetobuild":true,
+"hasnewimage":true,
+"name":"Delphi DataSnap Full Stack Development",
+"lang":"en",
+"pubdate":"20230600",
+"isbn13":"9789869530040",
+"website":"https:\/\/play.google.com\/store\/books\/details\/eden_wu_delphi_datasnap_full_stack_development?id=5oo8eaaaqbaj",
+"authors":[
+{
+"id":80,
+"guid":"36DBFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Wu.html",
+"datalevel":6,
+"dataversion":1,
+"ispagetobuild":true}],
+"publishers":[
+],
+"descriptions":[
+{
+"guid":"065C228087C54FDD9C7FECF59A1E96B3",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"ispagetobuild":true,
+"lang":"en",
+"text":"Unlock Your Web Development Skills from 0 to 1: Master Backend Knowledge and Learn Frontend Development Tricks\r\nDelphi Advanced Framework \u2013 A comprehensive guide to building DataSnap projects, suitable for beginners and those interested in Delphi development.\r\nDiscover practical jQuery EasyUI and Sencha ExtJS frontend libraries, along with implementing AJAX operations in DataSnap.\r\nIntroduction to basic SQL Server database operations such as CRUD and how to apply them in real projects.\r\nLearn the basics of Delphi syntax, commonly used components, and how to integrate frontend and backend technologies.\r\nWho this book is for:\r\n\u2605 Those who have some experience with JavaScript but don't know how to start learning backend skills\r\n\u2605 Those who have used Delphi but don't want to start from scratch\r\n\u2605 Those who struggle with writing Delphi programs\r\n\u2605 Those who want to develop full-stack projects using DataSnap\r\n\r\n\r\nFeatures of this book:\r\n1. The book adopts a progressive approach to developing a full-stack web application for a backend management system, allowing learners to get started immediately.\r\n2. All the code in the book is presented without any omissions, with key points excerpted and explained to strengthen understanding and retention.\r\n3. Provides illustrations of framework principles, helping readers focus on learning the key points.\r\n4. Practical projects can be applied directly in real-world scenarios, achieving accelerated learning outcomes.\r\n\r\nThis book also provides a detailed analysis of common Delphi syntax, DataSnap framework implementation, and Delphi database connection components - dbExpress. Readers will learn how to develop an enterprise-level employee management system and practical case study - Aquatic World System.\r\nThe final part of the book teaches you how to implement an EasyUI employee management system using the ExtJS framework, as well as optimizing the performance of the DataSnap server. In addition, an appendix on Cross-Origin Resource Sharing (CORS) is provided.\r\nThis book will solve the pain points of Delphi DataSnap full-stack web development, allowing you to quickly master the relevant skills and become an expert in web development."}],
+"tocs":[
+],
+"keywords":[
+]}
