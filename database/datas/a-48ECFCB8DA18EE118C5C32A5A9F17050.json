@@ -1,15 +1,11 @@
 ﻿{
 "id":86,
-"url":"",
 "guid":"48ECFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"William-Meyer.html",
 "datalevel":6,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"",
 "lastname":"Meyer",
 "firstname":"William",
-"pseudo":"",
 "website":"https:\/\/wmeyer.tech",
 "descriptions":[
 {
@@ -17,19 +13,15 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"<p>A long time software developer, William Meyer has worked in assembly language, C, C++, and extensively in Turbo Pascal and Delphi. Experienced in a wide range of application areas, such as control systems, educational and medical office practice systems, broadcasting tools and media marketing management, he enjoys writing and sharing his design and coding experience.<\/p>"}],
 "books":[
 {
 "id":125,
-"url":"",
 "guid":"CAECFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-Legacy-Projects-Strategies-and-Survival-Guide.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi Legacy Projects : Strategies and Survival Guide",
 "lang":"en",
-"pubdate":"20220602",
-"thumb":""}]}
+"pubdate":"20220602"}]}

@@ -1,48 +1,36 @@
 ﻿{
 "id":10,
-"url":"",
 "guid":"4419FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Ted-Faison.html",
 "datalevel":6,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"",
 "lastname":"Faison",
 "firstname":"Ted",
-"pseudo":"",
-"website":"",
 "descriptions":[
 {
 "guid":"8019FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"Ted Faison has over 25 years of experience in the software industry and has been involved with object-oriented-programming and component-based development since the inception of those technologies. He has worked primarily in the private sector, also as a consultant for the U.S. and Italian governments. He is a member of IEEE and ACM, and an active researcher in the field of software engineering, specializing in component-based software. He is a senior software engineer at the Southern California Auto Club, where he works on the development of a large .NET distributed system for customer relationship management. Ted is the author of Component-Based Development with Visual C#, Borland C++ Object-Oriented Programming, and Graphical User Interfaces with TurboC++."}],
 "books":[
 {
 "id":9,
-"url":"",
 "guid":"DA19FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Event-Based-Programming.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Event-Based Programming",
 "lang":"en",
-"pubdate":"20141116",
-"thumb":""
+"pubdate":"20141116"
 },{
 
 "id":10,
-"url":"",
 "guid":"561BFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Event-Based-Programming-Second-Edition.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Event-Based Programming - Second Edition",
 "lang":"en",
-"pubdate":"20111223",
-"thumb":""}]}
+"pubdate":"20111223"}]}

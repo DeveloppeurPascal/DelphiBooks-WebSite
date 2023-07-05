@@ -1,41 +1,30 @@
 ﻿{
 "id":54,
-"url":"",
 "guid":"3E8DFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Ano-Maki.html",
 "datalevel":6,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"",
 "lastname":"Maki",
 "firstname":"Ano",
-"pseudo":"",
-"website":"",
 "descriptions":[
 ],
 "books":[
 {
 "id":65,
-"url":"",
 "guid":"AC8DFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-Concurrent-developments-guide-for-iOS-and-Android-Vol1-Development-environment-construction-guide-From-start-to-build-Mastering-DELPHI.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi - Concurrent developments guide for iOS and Android Vol1: Development environment construction guide - From start to build Mastering DELPHI",
 "lang":"jp",
-"pubdate":"20200229",
-"thumb":""
+"pubdate":"20200229"
 },{
 
 "id":66,
-"url":"",
 "guid":"D28FFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-Concurrent-developments-guide-for-iOS-and-Android-Vol2-Development-guide-I-Tips-for-commonality-Mastering-DELPHI.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi - Concurrent developments guide for iOS and Android Vol2: Development guide I - Tips for commonality Mastering DELPHI",
 "lang":"jp",
-"pubdate":"20200405",
-"thumb":""}]}
+"pubdate":"20200405"}]}

@@ -1,64 +1,49 @@
 ﻿{
 "id":36,
-"url":"",
 "guid":"6A92FDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Hayden-Books.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Hayden Books",
-"website":"",
 "descriptions":[
 ],
 "books":[
 {
 "id":101,
-"url":"",
 "guid":"B4C6FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Mastering-Turbo-Pascal-30.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Mastering Turbo Pascal 3.0",
 "lang":"en",
-"pubdate":"19870101",
-"thumb":""
+"pubdate":"19870101"
 },{
 
 "id":107,
-"url":"",
 "guid":"0AD0FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Mastering-Turbo-Pascal-40-Second-Edition.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Mastering Turbo Pascal 4.0 - Second Edition",
 "lang":"en",
-"pubdate":"19880401",
-"thumb":""
-},{
-
-"id":109,
-"url":"",
-"guid":"66D3FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"PASCAL-Programmes-for-Data-Base-Management.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"PASCAL Programmes for Data Base Management",
-"lang":"en",
-"pubdate":"19861201",
-"thumb":""
+"pubdate":"19880401"
 },{
 
 "id":112,
-"url":"",
 "guid":"76D7FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"PASCAL-Programmes-for-Business-In-UCSDfor-the-Apple.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"PASCAL Programmes for Business: In U.C.S.D.for the Apple",
 "lang":"en",
-"pubdate":"19830801",
-"thumb":""}]}
+"pubdate":"19830801"
+},{
+
+"id":109,
+"guid":"66D3FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"PASCAL-Programmes-for-Data-Base-Management.html",
+"datalevel":8,
+"dataversion":1,
+"name":"PASCAL Programmes for Data Base Management",
+"lang":"en",
+"pubdate":"19861201"}]}

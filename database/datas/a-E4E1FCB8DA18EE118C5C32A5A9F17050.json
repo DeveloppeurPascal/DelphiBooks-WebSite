@@ -1,12 +1,9 @@
 ﻿{
 "id":81,
-"url":"",
 "guid":"E4E1FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Dr-Kevin-R-Bond.html",
 "datalevel":6,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"",
 "lastname":"Bond",
 "firstname":"Kevin Roy",
 "pseudo":"Dr Kevin R Bond",
@@ -17,19 +14,15 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"<p>Kevin Bond has many years of teaching and examining Computing\/Computer Science experience.<\/p>\n<p>He has worked at the interface between Science, Computer Science and Engineering, first as a Research Scientist, then as a Senior Development Engineer for a major Defence Contractor and then as a Senior Systems Analysis for a major Telecommunications company.<\/p>"}],
 "books":[
 {
 "id":119,
-"url":"",
 "guid":"66E2FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"How-to-Program-Effectively-in-Delphi-for-ASA-Level-Computer-Science.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"How to Program Effectively in Delphi for AS\/A Level Computer Science",
 "lang":"en",
-"pubdate":"20211207",
-"thumb":""}]}
+"pubdate":"20211207"}]}

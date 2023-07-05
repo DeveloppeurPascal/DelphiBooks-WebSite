@@ -1,11 +1,9 @@
 ﻿{
 "id":4,
-"url":"",
 "guid":"2CA3FDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Editions-ENI.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Editions ENI",
 "website":"https:\/\/www.editions-eni.fr",
 "descriptions":[
@@ -13,13 +11,10 @@
 "books":[
 {
 "id":113,
-"url":"",
 "guid":"CAD8FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-103-Programmation-orientee-objet-en-environnement-Windows.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi 10.3 - Programmation orient\u00E9e objet en environnement Windows",
 "lang":"fr",
-"pubdate":"20210113",
-"thumb":""}]}
+"pubdate":"20210113"}]}

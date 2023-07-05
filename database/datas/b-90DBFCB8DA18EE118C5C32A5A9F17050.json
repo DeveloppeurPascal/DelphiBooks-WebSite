@@ -4,8 +4,6 @@
 "pagename":"Delphi-App.html",
 "datalevel":13,
 "dataversion":1,
-"ispagetobuild":true,
-"hasnewimage":true,
 "name":"Delphi\u8DE8\u5E73\u53F0\u8CC7\u6599\u5EAB\u7A0B\u5F0F\u8A2D\u8A08\u706B\u901F\u4E0A\u624B: \u8DE8\u5E73\u53F0App\u88FD\u4F5C\u7684\u6700\u4F73\u5165\u9580\u66F8\uFF01",
 "lang":"cn",
 "pubdate":"20200801",
@@ -17,8 +15,7 @@
 "guid":"36DBFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Wu.html",
 "datalevel":6,
-"dataversion":1,
-"ispagetobuild":true}],
+"dataversion":1}],
 "publishers":[
 ],
 "descriptions":[
@@ -27,7 +24,6 @@
 "pagename":"",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"cn",
 "text":"\u60F3\u88FD\u4F5C\u8DE8\u5E73\u53F0App\u537B\u82E6\u7121\u5BB9\u6613\u7406\u89E3\u7684\u8CC7\u6599\uFF1F\r\n\u9019\u672C\u66F8\u4E0D\u8B1B\u7406\u8AD6\uFF0C\u53EA\u8B1B\u5957\u8DEF\uFF0C\u8B93\u8B80\u8005\u53EF\u4EE5\u5728\u77ED\u6642\u9593\u5167\u706B\u901F\u5B8C\u6210\u88FD\u4F5C\u8DE8\u5E73\u53F0App\u7684\u76EE\u6A19\u3002\r\n\u60F3\u91CD\u6368\u5C0D\u7A0B\u5F0F\u8A2D\u8A08\u7684\u4FE1\u5FC3\uFF1F\u9078\u9019\u672C\u5165\u9580\u5C31\u5C0D\u4E86\uFF01"
 },{
@@ -36,7 +32,6 @@
 "pagename":"",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"Want to make a cross-platform app but have no easy-to-understand information?\r\nThis book does not talk about theory, but only about routines, so that readers can quickly complete the goal of making cross-platform apps in a short time.\r\nWant to regain your confidence in programming? Just choose this introductory book!"
 },{
@@ -45,7 +40,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"fr",
 "text":"Vous souhaitez cr\u00E9er une application multiplateforme mais vous n'avez pas d'informations faciles \u00E0 comprendre\u00A0?\r\nCe livre ne parle pas de th\u00E9orie, mais seulement de routines, afin que les lecteurs puissent rapidement atteindre l'objectif de cr\u00E9er des applications multiplateformes en peu de temps.\r\nVous voulez reprendre confiance en la programmation ? Choisissez ce livre d'introduction !"}],
 "tocs":[

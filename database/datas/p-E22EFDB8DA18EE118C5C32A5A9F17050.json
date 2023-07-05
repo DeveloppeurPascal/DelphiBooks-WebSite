@@ -1,11 +1,9 @@
 ﻿{
 "id":10,
-"url":"",
 "guid":"E22EFDB8DA18EE118C5C32A5A9F17050",
 "pagename":"OReilly.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"O'Reilly",
 "website":"https:\/\/www.oreilly.com",
 "descriptions":[
@@ -13,13 +11,10 @@
 "books":[
 {
 "id":27,
-"url":"",
 "guid":"7637FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-in-a-nutshell.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi in a nutshell",
 "lang":"en",
-"pubdate":"20000404",
-"thumb":""}]}
+"pubdate":"20000404"}]}

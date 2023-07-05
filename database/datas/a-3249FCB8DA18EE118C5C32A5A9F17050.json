@@ -1,15 +1,11 @@
 ﻿{
 "id":25,
-"url":"",
 "guid":"3249FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Bob-Swart.html",
 "datalevel":6,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"",
 "lastname":"Swart",
 "firstname":"Bob",
-"pseudo":"",
 "website":"http:\/\/www.drbob42.com",
 "descriptions":[
 {
@@ -17,123 +13,95 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"Bob Swart (aka <A href=\"http:\/\/www.drbob42.com\">Dr.Bob<\/A>) of Bob Swart Training & Consultancy is based in The Netherlands, and offers Delphi training, consultancy and private workshops, courseware manuals (for self-study), and development using Delphi for Windows or Mac OS X, and is an <A href=\"https:\/\/www.embarcadero.com\">Embarcadero<\/A> reseller for the Eurozone and UK."}],
 "books":[
 {
-"id":36,
-"url":"",
-"guid":"2448FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-6-developers-guide.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi 6 developer's guide",
-"lang":"en",
-"pubdate":"20060214",
-"thumb":""
-},{
-
 "id":39,
-"url":"",
 "guid":"F855FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-2007-for-Win32-Development-Essentials.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi 2007 for Win32 Development Essentials",
 "lang":"en",
-"pubdate":"20080217",
-"thumb":""
-},{
-
-"id":40,
-"url":"",
-"guid":"7E57FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-for-Win32-VCL-Database-Development.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi for Win32 VCL Database Development",
-"lang":"en",
-"pubdate":"20080303",
-"thumb":""
+"pubdate":"20080217"
 },{
 
 "id":41,
-"url":"",
 "guid":"4059FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-2007-for-Win32-VCL-for-the-Web-Development.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi 2007 for Win32 VCL for the Web Development",
 "lang":"en",
-"pubdate":"20080604",
-"thumb":""
+"pubdate":"20080604"
 },{
 
 "id":42,
-"url":"",
 "guid":"EE5AFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-2010-XML-SOAP-Web-Services-Development.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi 2010 XML, SOAP and Web Services Development",
 "lang":"en",
-"pubdate":"20100312",
-"thumb":""
+"pubdate":"20100312"
 },{
 
-"id":43,
-"url":"",
-"guid":"B05CFCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-XE-Development-Essentials.html",
+"id":36,
+"guid":"2448FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-6-developers-guide.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi XE Development Essentials",
+"name":"Delphi 6 developer's guide",
 "lang":"en",
-"pubdate":"20101019",
-"thumb":""
-},{
-
-"id":44,
-"url":"",
-"guid":"905EFCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-XE-Starter-Essentials.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi XE Starter Essentials",
-"lang":"en",
-"pubdate":"20110131",
-"thumb":""
+"pubdate":"20060214"
 },{
 
 "id":45,
-"url":"",
 "guid":"9860FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-XE-DataSnap-Development-Essentials.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi XE DataSnap Development Essentials",
 "lang":"en",
-"pubdate":"20110301",
-"thumb":""
+"pubdate":"20110301"
+},{
+
+"id":43,
+"guid":"B05CFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-XE-Development-Essentials.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi XE Development Essentials",
+"lang":"en",
+"pubdate":"20101019"
+},{
+
+"id":44,
+"guid":"905EFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-XE-Starter-Essentials.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi XE Starter Essentials",
+"lang":"en",
+"pubdate":"20110131"
+},{
+
+"id":40,
+"guid":"7E57FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-for-Win32-VCL-Database-Development.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi for Win32 VCL Database Development",
+"lang":"en",
+"pubdate":"20080303"
 },{
 
 "id":46,
-"url":"",
 "guid":"AA62FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"The-Revolutionary-Guide-to-Delphi-2.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"The Revolutionary Guide to Delphi 2",
 "lang":"en",
-"pubdate":"19950201",
-"thumb":""}]}
+"pubdate":"19950201"}]}

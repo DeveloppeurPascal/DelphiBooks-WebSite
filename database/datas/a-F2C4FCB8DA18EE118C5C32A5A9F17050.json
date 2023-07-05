@@ -1,28 +1,20 @@
 ﻿{
 "id":75,
-"url":"",
 "guid":"F2C4FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Steven-L-Mandell.html",
 "datalevel":6,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"",
 "lastname":"Mandell",
 "firstname":"Steven L.",
-"pseudo":"",
-"website":"",
 "descriptions":[
 ],
 "books":[
 {
 "id":100,
-"url":"",
 "guid":"56C5FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Pascal-Programming-Today.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Pascal Programming Today",
 "lang":"en",
-"pubdate":"19870101",
-"thumb":""}]}
+"pubdate":"19870101"}]}

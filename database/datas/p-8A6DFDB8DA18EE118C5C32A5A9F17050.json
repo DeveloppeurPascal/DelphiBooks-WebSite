@@ -1,11 +1,9 @@
 ﻿{
 "id":26,
-"url":"",
 "guid":"8A6DFDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Systime.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Systime",
 "website":"https:\/\/systime.dk",
 "descriptions":[
@@ -13,26 +11,20 @@
 "books":[
 {
 "id":71,
-"url":"",
 "guid":"2097FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-4-programmering.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi 4 programmering",
 "lang":"dk",
-"pubdate":"19990000",
-"thumb":""
+"pubdate":"19990000"
 },{
 
 "id":73,
-"url":"",
 "guid":"129BFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-programmering.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi programmering",
 "lang":"dk",
-"pubdate":"19970000",
-"thumb":""}]}
+"pubdate":"19970000"}]}

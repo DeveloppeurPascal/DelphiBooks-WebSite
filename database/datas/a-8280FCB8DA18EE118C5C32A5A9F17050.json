@@ -1,35 +1,26 @@
 ﻿{
 "id":46,
-"url":"",
 "guid":"8280FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Ivan-Hladni.html",
 "datalevel":6,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"",
 "lastname":"Hladni",
 "firstname":"Ivan",
-"pseudo":"",
-"website":"",
 "descriptions":[
 {
 "guid":"B480FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"Ivan Hladni is an author, lecturer, and a Microsoft Certified Professional (MCP). He started programming in Turbo Pascal 7.0 and Delphi 2.0 and has been using Delphi ever since. He also has several years of teaching experience, especially in the fields of C++, Delphi, Visual Basic, and PHP programming. He lives in Croatia, where his first two books, on Visual Basic .NET and Pascal\/Delphi programming, were published."}],
 "books":[
 {
 "id":57,
-"url":"",
 "guid":"0481FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Inside-Delphi-2006.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Inside Delphi 2006",
 "lang":"en",
-"pubdate":"20051214",
-"thumb":""}]}
+"pubdate":"20051214"}]}

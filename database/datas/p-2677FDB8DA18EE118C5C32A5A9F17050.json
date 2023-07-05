@@ -1,51 +1,40 @@
 ﻿{
 "id":28,
-"url":"",
 "guid":"2677FDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Tolstrup-Data.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Tolstrup Data",
 "website":"http:\/\/www.tolstrupdata.dk",
 "descriptions":[
 ],
 "books":[
 {
-"id":79,
-"url":"",
-"guid":"4CA2FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Programkonstruktion-med-Delphi.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Programkonstruktion med Delphi",
-"lang":"dk",
-"pubdate":"20000000",
-"thumb":""
-},{
-
-"id":80,
-"url":"",
-"guid":"94A5FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-grundlaeggende-programmering-problemanalyse-programkonstruktion-hndelsesstyring.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi - grundl\u00E6ggende programmering : problemanalyse, programkonstruktion, h\u00E6ndelsesstyring",
-"lang":"dk",
-"pubdate":"19960000",
-"thumb":""
-},{
-
 "id":82,
-"url":"",
 "guid":"44AAFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-en-elementaer-indforing.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi - en element\u00E6r indf\u00F8ring : indledende programmering, projektarbejde, databaser",
 "lang":"dk",
-"pubdate":"19960000",
-"thumb":""}]}
+"pubdate":"19960000"
+},{
+
+"id":80,
+"guid":"94A5FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-grundlaeggende-programmering-problemanalyse-programkonstruktion-hndelsesstyring.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi - grundl\u00E6ggende programmering : problemanalyse, programkonstruktion, h\u00E6ndelsesstyring",
+"lang":"dk",
+"pubdate":"19960000"
+},{
+
+"id":79,
+"guid":"4CA2FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Programkonstruktion-med-Delphi.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Programkonstruktion med Delphi",
+"lang":"dk",
+"pubdate":"20000000"}]}

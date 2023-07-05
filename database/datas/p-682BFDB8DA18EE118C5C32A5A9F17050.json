@@ -1,168 +1,130 @@
 ﻿{
 "id":7,
-"url":"",
 "guid":"682BFDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Amazon-Kindle.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Amazon",
 "website":"https:\/\/amzn.to\/3ke479I",
 "descriptions":[
 ],
 "books":[
 {
-"id":24,
-"url":"",
-"guid":"1633FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Initiation-a-Delphi.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Initiation \u00E0 Delphi",
-"lang":"fr",
-"pubdate":"20190506",
-"thumb":""
-},{
-
-"id":58,
-"url":"",
-"guid":"4482FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-memory-management-for-classic-and-ARC-compilers.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi memory management for classic and ARC compilers",
-"lang":"en",
-"pubdate":"20180624",
-"thumb":""
-},{
-
-"id":61,
-"url":"",
-"guid":"2088FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Object-Pascal-Handbook.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Object Pascal Handbook",
-"lang":"en",
-"pubdate":"20150805",
-"thumb":""
-},{
-
 "id":63,
-"url":"",
 "guid":"F08AFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Building-GUI-applications-in-no-time.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Building GUI applications... in no time",
 "lang":"en",
-"pubdate":"20191119",
-"thumb":""
-},{
-
-"id":64,
-"url":"",
-"guid":"308CFCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-Programming-The-Ultimate-Beginners-Guide-to-Learn-Delphi-Programming-Step-by-Step.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi Programming: The Ultimate Beginner's Guide to Learn Delphi Programming Step by Step",
-"lang":"en",
-"pubdate":"20201011",
-"thumb":""
+"pubdate":"20191119"
 },{
 
 "id":65,
-"url":"",
 "guid":"AC8DFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-Concurrent-developments-guide-for-iOS-and-Android-Vol1-Development-environment-construction-guide-From-start-to-build-Mastering-DELPHI.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi - Concurrent developments guide for iOS and Android Vol1: Development environment construction guide - From start to build Mastering DELPHI",
 "lang":"jp",
-"pubdate":"20200229",
-"thumb":""
+"pubdate":"20200229"
 },{
 
 "id":66,
-"url":"",
 "guid":"D28FFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-Concurrent-developments-guide-for-iOS-and-Android-Vol2-Development-guide-I-Tips-for-commonality-Mastering-DELPHI.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi - Concurrent developments guide for iOS and Android Vol2: Development guide I - Tips for commonality Mastering DELPHI",
 "lang":"jp",
-"pubdate":"20200405",
-"thumb":""
+"pubdate":"20200405"
+},{
+
+"id":64,
+"guid":"308CFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-Programming-The-Ultimate-Beginners-Guide-to-Learn-Delphi-Programming-Step-by-Step.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi Programming: The Ultimate Beginner's Guide to Learn Delphi Programming Step by Step",
+"lang":"en",
+"pubdate":"20201011"
+},{
+
+"id":58,
+"guid":"4482FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-memory-management-for-classic-and-ARC-compilers.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi memory management for classic and ARC compilers",
+"lang":"en",
+"pubdate":"20180624"
+},{
+
+"id":24,
+"guid":"1633FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Initiation-a-Delphi.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Initiation \u00E0 Delphi",
+"lang":"fr",
+"pubdate":"20190506"
 },{
 
 "id":86,
-"url":"",
 "guid":"7CB3FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Langage-Pascal-exercices-corriges.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Langage Pascal : exercices corrig\u00E9s",
 "lang":"fr",
-"pubdate":"20131209",
-"thumb":""
-},{
-
-"id":91,
-"url":"",
-"guid":"C6B9FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Pascal-Programming-230-Questions-and-Answers.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Pascal Programming: 230+ Questions and Answers",
-"lang":"en",
-"pubdate":"20180705",
-"thumb":""
-},{
-
-"id":92,
-"url":"",
-"guid":"2EBBFCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Learning-Pascal-Programming-The-Beginners-Guide.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Learning Pascal Programming The Beginner's Guide",
-"lang":"en",
-"pubdate":"20120305",
-"thumb":""
-},{
-
-"id":93,
-"url":"",
-"guid":"AABCFCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Learning-Pascal-Programming-The-Beginners-Guide-1983089958.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Learning Pascal Programming: The Beginner's Guide",
-"lang":"en",
-"pubdate":"20180705",
-"thumb":""
+"pubdate":"20131209"
 },{
 
 "id":95,
-"url":"",
 "guid":"20BFFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Learn-Pascal-Programming.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Learn Pascal Programming",
 "lang":"en",
-"pubdate":"20160521",
-"thumb":""}]}
+"pubdate":"20160521"
+},{
+
+"id":92,
+"guid":"2EBBFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Learning-Pascal-Programming-The-Beginners-Guide.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Learning Pascal Programming The Beginner's Guide",
+"lang":"en",
+"pubdate":"20120305"
+},{
+
+"id":93,
+"guid":"AABCFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Learning-Pascal-Programming-The-Beginners-Guide-1983089958.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Learning Pascal Programming: The Beginner's Guide",
+"lang":"en",
+"pubdate":"20180705"
+},{
+
+"id":61,
+"guid":"2088FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Object-Pascal-Handbook.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Object Pascal Handbook",
+"lang":"en",
+"pubdate":"20150805"
+},{
+
+"id":91,
+"guid":"C6B9FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Pascal-Programming-230-Questions-and-Answers.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Pascal Programming: 230+ Questions and Answers",
+"lang":"en",
+"pubdate":"20180705"}]}

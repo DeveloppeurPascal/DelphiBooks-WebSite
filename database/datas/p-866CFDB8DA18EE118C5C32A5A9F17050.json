@@ -1,90 +1,69 @@
 ﻿{
 "id":24,
-"url":"",
 "guid":"866CFDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Teknisk-Forlag.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Teknisk Forlag",
-"website":"",
 "descriptions":[
 ],
 "books":[
 {
-"id":70,
-"url":"",
-"guid":"0896FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-40-grundlaeggende-programmering.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi 4.0 : grundl\u00E6ggende programmering",
-"lang":"dk",
-"pubdate":"19990000",
-"thumb":""
-},{
-
-"id":72,
-"url":"",
-"guid":"A698FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-programmering-2-en-indforing.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi programmering 2 : en indf\u00F8ring",
-"lang":"dk",
-"pubdate":"19970000",
-"thumb":""
-},{
-
 "id":75,
-"url":"",
 "guid":"6A9DFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-2-databaser.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi 2 - databaser",
 "lang":"dk",
-"pubdate":"19970000",
-"thumb":""
+"pubdate":"19970000"
+},{
+
+"id":70,
+"guid":"0896FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-40-grundlaeggende-programmering.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi 4.0 : grundl\u00E6ggende programmering",
+"lang":"dk",
+"pubdate":"19990000"
 },{
 
 "id":76,
-"url":"",
 "guid":"E69EFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-videregaende-programmering.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi : videreg\u00E5ende programmering",
 "lang":"dk",
-"pubdate":"19970000",
-"thumb":""
-},{
-
-"id":78,
-"url":"",
-"guid":"48A1FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-programmering-en-indforing.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi programmering : en indf\u00F8ring",
-"lang":"dk",
-"pubdate":"19950000",
-"thumb":""
+"pubdate":"19970000"
 },{
 
 "id":81,
-"url":"",
 "guid":"E6A8FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-Pascal-handbogen.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi Pascal h\u00E5ndbogen",
 "lang":"dk",
-"pubdate":"19960000",
-"thumb":""}]}
+"pubdate":"19960000"
+},{
+
+"id":72,
+"guid":"A698FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-programmering-2-en-indforing.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi programmering 2 : en indf\u00F8ring",
+"lang":"dk",
+"pubdate":"19970000"
+},{
+
+"id":78,
+"guid":"48A1FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-programmering-en-indforing.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi programmering : en indf\u00F8ring",
+"lang":"dk",
+"pubdate":"19950000"}]}

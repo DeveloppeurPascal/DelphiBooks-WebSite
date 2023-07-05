@@ -1,51 +1,39 @@
 ﻿{
 "id":29,
-"url":"",
 "guid":"4A80FDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Addison-Wesley.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Addison Wesley",
-"website":"",
 "descriptions":[
 ],
 "books":[
 {
-"id":88,
-"url":"",
-"guid":"CAB5FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Programming-in-Pascal-second-edition.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Programming in Pascal (second edition)",
-"lang":"en",
-"pubdate":"19840301",
-"thumb":""
-},{
-
-"id":90,
-"url":"",
-"guid":"36B8FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Programming-in-PASCAL-0201027755.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Programming in PASCAL",
-"lang":"en",
-"pubdate":"19800907",
-"thumb":""
-},{
-
 "id":118,
-"url":"",
 "guid":"FEE0FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-Component-Design.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi Component Design",
 "lang":"en",
-"pubdate":"19961219",
-"thumb":""}]}
+"pubdate":"19961219"
+},{
+
+"id":90,
+"guid":"36B8FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Programming-in-PASCAL-0201027755.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Programming in PASCAL",
+"lang":"en",
+"pubdate":"19800907"
+},{
+
+"id":88,
+"guid":"CAB5FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Programming-in-Pascal-second-edition.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Programming in Pascal (second edition)",
+"lang":"en",
+"pubdate":"19840301"}]}

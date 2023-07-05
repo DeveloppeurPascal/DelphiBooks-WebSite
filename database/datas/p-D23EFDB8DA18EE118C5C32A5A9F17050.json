@@ -1,11 +1,9 @@
 ﻿{
 "id":13,
-"url":"",
 "guid":"D23EFDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Lulu.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Lulu",
 "website":"https:\/\/www.lulu.com",
 "descriptions":[
@@ -13,104 +11,80 @@
 "books":[
 {
 "id":39,
-"url":"",
 "guid":"F855FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-2007-for-Win32-Development-Essentials.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi 2007 for Win32 Development Essentials",
 "lang":"en",
-"pubdate":"20080217",
-"thumb":""
-},{
-
-"id":40,
-"url":"",
-"guid":"7E57FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-for-Win32-VCL-Database-Development.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi for Win32 VCL Database Development",
-"lang":"en",
-"pubdate":"20080303",
-"thumb":""
+"pubdate":"20080217"
 },{
 
 "id":41,
-"url":"",
 "guid":"4059FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-2007-for-Win32-VCL-for-the-Web-Development.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi 2007 for Win32 VCL for the Web Development",
 "lang":"en",
-"pubdate":"20080604",
-"thumb":""
+"pubdate":"20080604"
 },{
 
 "id":42,
-"url":"",
 "guid":"EE5AFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-2010-XML-SOAP-Web-Services-Development.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi 2010 XML, SOAP and Web Services Development",
 "lang":"en",
-"pubdate":"20100312",
-"thumb":""
-},{
-
-"id":43,
-"url":"",
-"guid":"B05CFCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-XE-Development-Essentials.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi XE Development Essentials",
-"lang":"en",
-"pubdate":"20101019",
-"thumb":""
-},{
-
-"id":44,
-"url":"",
-"guid":"905EFCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-XE-Starter-Essentials.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi XE Starter Essentials",
-"lang":"en",
-"pubdate":"20110131",
-"thumb":""
+"pubdate":"20100312"
 },{
 
 "id":45,
-"url":"",
 "guid":"9860FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-XE-DataSnap-Development-Essentials.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi XE DataSnap Development Essentials",
 "lang":"en",
-"pubdate":"20110301",
-"thumb":""
+"pubdate":"20110301"
+},{
+
+"id":43,
+"guid":"B05CFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-XE-Development-Essentials.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi XE Development Essentials",
+"lang":"en",
+"pubdate":"20101019"
+},{
+
+"id":44,
+"guid":"905EFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-XE-Starter-Essentials.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi XE Starter Essentials",
+"lang":"en",
+"pubdate":"20110131"
+},{
+
+"id":40,
+"guid":"7E57FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-for-Win32-VCL-Database-Development.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi for Win32 VCL Database Development",
+"lang":"en",
+"pubdate":"20080303"
 },{
 
 "id":87,
-"url":"",
 "guid":"80B4FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-le-necessaire-pour-debuter.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi, le n\u00E9cessaire pour d\u00E9buter",
 "lang":"fr",
-"pubdate":"20070421",
-"thumb":""}]}
+"pubdate":"20070421"}]}

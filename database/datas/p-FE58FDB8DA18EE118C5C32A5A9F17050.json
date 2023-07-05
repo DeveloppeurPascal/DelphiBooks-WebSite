@@ -1,11 +1,9 @@
 ﻿{
 "id":18,
-"url":"",
 "guid":"FE58FDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Jones-Bartlett.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Jones & Bartlett Publishers",
 "website":"https:\/\/www.jblearning.com",
 "descriptions":[
@@ -13,26 +11,20 @@
 "books":[
 {
 "id":57,
-"url":"",
 "guid":"0481FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Inside-Delphi-2006.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Inside Delphi 2006",
 "lang":"en",
-"pubdate":"20051214",
-"thumb":""
+"pubdate":"20051214"
 },{
 
 "id":94,
-"url":"",
 "guid":"08BEFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Programming-in-Pascal-0763704849.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Programming in Pascal",
 "lang":"en",
-"pubdate":"19970117",
-"thumb":""}]}
+"pubdate":"19970117"}]}

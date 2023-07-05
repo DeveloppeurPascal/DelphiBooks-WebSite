@@ -1,15 +1,11 @@
 ﻿{
 "id":20,
-"url":"",
 "guid":"E036FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Ray-Lischner.html",
 "datalevel":6,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"",
 "lastname":"Lischner",
 "firstname":"Ray",
-"pseudo":"",
 "website":"https:\/\/www.linkedin.com\/in\/lisch\/",
 "descriptions":[
 {
@@ -17,19 +13,15 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"Ray Lischner began his career as a software developer, but dropped out of the corporate rat race to become an author. He started using C++ in the late 1980s, working at a company that was rewriting its entire product line in C++. Over the years, he has witnessed the evolution of C++ from cfront to native compilers to integrated development environments to visual, component-based tools. Ray has taught C++ at Oregon State University. He is the author of Delphi in a Nutshell and O'Reilly's upcoming C++ in a Nutshell, as well as other books."}],
 "books":[
 {
 "id":27,
-"url":"",
 "guid":"7637FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-in-a-nutshell.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi in a nutshell",
 "lang":"en",
-"pubdate":"20000404",
-"thumb":""}]}
+"pubdate":"20000404"}]}

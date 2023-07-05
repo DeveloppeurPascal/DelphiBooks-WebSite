@@ -1,25 +1,19 @@
 ﻿{
 "id":39,
-"url":"",
 "guid":"509DFDB8DA18EE118C5C32A5A9F17050",
 "pagename":"John-Wiley-Sons.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"John Wiley & Sons",
-"website":"",
 "descriptions":[
 ],
 "books":[
 {
 "id":108,
-"url":"",
 "guid":"A4D1FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Programming-With-Macintosh-Turbo-Pascal.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Programming With Macintosh Turbo Pascal",
 "lang":"en",
-"pubdate":"19871230",
-"thumb":""}]}
+"pubdate":"19871230"}]}

@@ -1,15 +1,11 @@
 ﻿{
 "id":17,
-"url":"",
 "guid":"1C32FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Yoann-Thomas.html",
 "datalevel":6,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"",
 "lastname":"Thomas",
 "firstname":"Yoann",
-"pseudo":"",
 "website":"https:\/\/www.linkedin.com\/in\/yoann-thomas\/",
 "descriptions":[
 {
@@ -17,7 +13,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"<p>Passionate about development and more particularly about Delphi and its derivatives (Lazarus, Free Pascal), C and Rust. Yoann Thomas is also passionate about blockchain technology and its entire ecosystem.<\/p>\n<p>You can find him on <a href=\"https:\/\/www.youtube.com\/channel\/UCk1C1vneBbNM26BCftQxPFw\">his YouTube channel<\/A> and <a href=\"https:\/\/github.com\/nostroyo\">follow him on GitHub<\/a>.<\/p>"
 },{
@@ -26,7 +21,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"fr",
 "text":"<p>Passionn\u00E9 de d\u00E9veloppement et plus particuli\u00E8rement de Delphi ainsi que ses d\u00E9riv\u00E9s (Lazarus, Free Pascal), C et Rust. Yoann Thomas e passionne aussi pour la technologie blockchain et tout son \u00E9cosyst\u00E8me.<\/p>\n<p>Vous pouvez le retrouver sur <a href=\"https:\/\/www.youtube.com\/channel\/UCk1C1vneBbNM26BCftQxPFw\">sa cha\u00EEne YouTube<\/a> et <a href=\"https:\/\/github.com\/nostroyo\">le suivre sur GitHub<\/a>.<\/p>"
 },{
@@ -35,19 +29,15 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"fr",
 "text":"<p>Passionn\u00E9 de d\u00E9veloppement et plus particuli\u00E8rement de Delphi ainsi que ses d\u00E9riv\u00E9s (Lazarus, Free Pascal), C et Rust. Yoann Thomas se passionne aussi pour la technologie blockchain et tout son \u00E9cosyst\u00E8me.<\/p>\n<p>Vous pouvez le retrouver sur <a href=\"https:\/\/www.youtube.com\/channel\/UCk1C1vneBbNM26BCftQxPFw\">sa cha\u00EEne YouTube<\/a> et <a href=\"https:\/\/github.com\/nostroyo\">le suivre sur GitHub<\/a>.<\/p>"}],
 "books":[
 {
 "id":24,
-"url":"",
 "guid":"1633FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Initiation-a-Delphi.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Initiation \u00E0 Delphi",
 "lang":"fr",
-"pubdate":"20190506",
-"thumb":""}]}
+"pubdate":"20190506"}]}

@@ -1,11 +1,9 @@
 ﻿{
 "id":21,
-"url":"",
 "guid":"B65FFDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Bitwise-Books.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Bitwise Books",
 "website":"https:\/\/bitwisebooks.com",
 "descriptions":[
@@ -13,13 +11,10 @@
 "books":[
 {
 "id":62,
-"url":"",
 "guid":"7E89FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"The-little-book-of-Delphi.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"The little book of Delphi",
 "lang":"en",
-"pubdate":"20200224",
-"thumb":""}]}
+"pubdate":"20200224"}]}

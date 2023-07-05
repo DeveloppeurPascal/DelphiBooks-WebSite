@@ -1,15 +1,11 @@
 ﻿{
 "id":2,
-"url":"",
 "guid":"6084FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Marco-Cantu.html",
 "datalevel":6,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"",
 "lastname":"Cant\u00FA",
 "firstname":"Marco",
-"pseudo":"",
 "website":"https:\/\/www.marcocantu.com",
 "descriptions":[
 {
@@ -17,71 +13,55 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"<p>Marco is the author of over 20 books on Delphi and the Object Pascal language, including the best-selling Mastering Delphi series and a number of more recent self-published Delphi Handbooks. He also has written books on C++ and other technologies.<\/p>\n<p>Marco lives in Italy and has given Delphi-related and general development sessions at countless conferences in Europe and around the world, including Borland Conferences, the SD West Conference, CodeRage online conferences, Delphi Tage, EKON, and many others.<\/p>\n<p>Marco is one of the RAD Studio Product Managers at Embarcadero, focused on Delphi. For more information, see his web site, <a href=\"www.marcocantu.com\">www.marcocantu.com<\/a>.<\/p>"}],
 "books":[
 {
-"id":59,
-"url":"",
-"guid":"F684FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Mastering-Delphi-7.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Mastering Delphi 7",
-"lang":"en",
-"pubdate":"20030226",
-"thumb":""
-},{
-
 "id":60,
-"url":"",
 "guid":"8686FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Mastering-Borland-Delphi-2005.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Mastering Borland Delphi 2005",
 "lang":"en",
-"pubdate":"20050826",
-"thumb":""
+"pubdate":"20050826"
+},{
+
+"id":59,
+"guid":"F684FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Mastering-Delphi-7.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Mastering Delphi 7",
+"lang":"en",
+"pubdate":"20030226"
 },{
 
 "id":61,
-"url":"",
 "guid":"2088FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Object-Pascal-Handbook.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Object Pascal Handbook",
 "lang":"en",
-"pubdate":"20150805",
-"thumb":""
+"pubdate":"20150805"
 },{
 
 "id":85,
-"url":"",
 "guid":"14B2FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Object-Pascal-Handbook-Delphi-104-Sydney-Edition.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Object Pascal Handbook (Delphi 10.4 Sydney Edition)",
 "lang":"en",
-"pubdate":"20201211",
-"thumb":""
+"pubdate":"20201211"
 },{
 
 "id":120,
-"url":"",
 "guid":"32E4FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Object-Pascal-Handbook-Delphi-11-Alexandria-Edition.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Object Pascal Handbook - Delphi 11 Alexandria Edition",
 "lang":"en",
-"pubdate":"20211106",
-"thumb":""}]}
+"pubdate":"20211106"}]}

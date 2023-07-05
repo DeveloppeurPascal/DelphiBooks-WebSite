@@ -1,28 +1,20 @@
 ﻿{
 "id":56,
-"url":"",
 "guid":"AE95FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Ole-Kristian-Mose.html",
 "datalevel":6,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"",
 "lastname":"Mose",
 "firstname":"Ole Kristian",
-"pseudo":"",
-"website":"",
 "descriptions":[
 ],
 "books":[
 {
 "id":70,
-"url":"",
 "guid":"0896FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-40-grundlaeggende-programmering.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi 4.0 : grundl\u00E6ggende programmering",
 "lang":"dk",
-"pubdate":"19990000",
-"thumb":""}]}
+"pubdate":"19990000"}]}

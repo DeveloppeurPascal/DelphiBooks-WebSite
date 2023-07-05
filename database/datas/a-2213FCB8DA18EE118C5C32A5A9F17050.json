@@ -1,15 +1,11 @@
 ﻿{
 "id":7,
-"url":"",
 "guid":"2213FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Primoz-Gabrijelcic.html",
 "datalevel":6,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"",
 "lastname":"Gabrijel\u010Di\u010D",
 "firstname":"Primo\u017E",
-"pseudo":"",
 "website":"https:\/\/www.thedelphigeek.com",
 "descriptions":[
 {
@@ -17,58 +13,54 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"Primo\u017E Gabrijel\u010Di\u010D is a long-time Delphi programmer, writer for The Delphi Magazine, Monitor, and <A href=\"https:\/\/www.blaisepascalmagazine.eu\">Blaise Pascal magazines<\/A> and frequent contributor to the Delphi-SI community. His Delphi-related ramblings are collected on the <A href=\"http:\/\/thedelphigeek.com\/\">The Delphi Geek<\/A> blog.\n\nIn his long career he has produced several open-source projects such as Delphi profiler GpProfile (now maintained by others). His active projects include <A href=\"http:\/\/www.omnithreadlibrary.com\/\">OmniThreadLibrary<\/A>, a multithreading library for Delphi and several open-sourced Delphi tools, published in the <A href=\"http:\/\/code.google.com\/p\/gpdelphiunits\/\">GpDelphiUnits<\/A> repository."}],
 "books":[
 {
 "id":5,
-"url":"",
 "guid":"B813FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-High-Performance.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi High Performance",
 "lang":"en",
-"pubdate":"20180226",
-"thumb":""
+"pubdate":"20180226"
+},{
+
+"guid":"3D59573216344174B34D028B2886F48E",
+"pagename":"Delphi-High-Performance-Second-Edition.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi High Performance - Second Edition",
+"lang":"en",
+"pubdate":"20230630"
 },{
 
 "id":6,
-"url":"",
 "guid":"2A15FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Hands-On-Design-Patterns-with-Delphi.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Hands-On Design Patterns with Delphi",
 "lang":"en",
-"pubdate":"20190227",
-"thumb":""
+"pubdate":"20190227"
 },{
 
 "id":7,
-"url":"",
 "guid":"C416FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Mastering-Delphi-Programming-A-Complete-Reference-Guide.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Mastering Delphi Programming: A Complete Reference Guide",
 "lang":"en",
-"pubdate":"20191126",
-"thumb":""
+"pubdate":"20191126"
 },{
 
 "id":28,
-"url":"",
 "guid":"6A39FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Parallel-programming-with-OmniThreadLibrary.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Parallel programming with OmniThreadLibrary",
 "lang":"en",
-"pubdate":"20180206",
-"thumb":""}]}
+"pubdate":"20180206"}]}

@@ -1,116 +1,90 @@
 ﻿{
 "id":14,
-"url":"",
 "guid":"903AFDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Sams.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Sams",
 "website":"http:\/\/www.samspublishing.com\/",
 "descriptions":[
 ],
 "books":[
 {
-"id":36,
-"url":"",
-"guid":"2448FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-6-developers-guide.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi 6 developer's guide",
-"lang":"en",
-"pubdate":"20060214",
-"thumb":""
-},{
-
-"id":37,
-"url":"",
-"guid":"F251FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-5-Developers-Guide.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi 5 Developer's Guide",
-"lang":"en",
-"pubdate":"19991222",
-"thumb":""
-},{
-
-"id":38,
-"url":"",
-"guid":"6854FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-4-Unleashed.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi 4 Unleashed",
-"lang":"en",
-"pubdate":"19981101",
-"thumb":""
-},{
-
-"id":49,
-"url":"",
-"guid":"FA71FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-Programming-Unleashed.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi Programming Unleashed",
-"lang":"en",
-"pubdate":"19950601",
-"thumb":""
-},{
-
-"id":50,
-"url":"",
-"guid":"6C73FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Turbo-Pascal-Programming-101.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Turbo Pascal Programming 101",
-"lang":"en",
-"pubdate":"19930101",
-"thumb":""
-},{
-
 "id":51,
-"url":"",
 "guid":"0675FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-2-Unleashed.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi 2 Unleashed",
 "lang":"en",
-"pubdate":"19960401",
-"thumb":""
+"pubdate":"19960401"
 },{
 
-"id":106,
-"url":"",
-"guid":"5CCEFCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Mastering-Turbo-Pascal-6.html",
+"id":38,
+"guid":"6854FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-4-Unleashed.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"Mastering Turbo Pascal 6",
+"name":"Delphi 4 Unleashed",
 "lang":"en",
-"pubdate":"19910901",
-"thumb":""
+"pubdate":"19981101"
+},{
+
+"id":37,
+"guid":"F251FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-5-Developers-Guide.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi 5 Developer's Guide",
+"lang":"en",
+"pubdate":"19991222"
+},{
+
+"id":36,
+"guid":"2448FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-6-developers-guide.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi 6 developer's guide",
+"lang":"en",
+"pubdate":"20060214"
+},{
+
+"id":49,
+"guid":"FA71FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-Programming-Unleashed.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi Programming Unleashed",
+"lang":"en",
+"pubdate":"19950601"
 },{
 
 "id":110,
-"url":"",
 "guid":"5AD5FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Mastering-Turbo-PASCAL-Files.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Mastering Turbo PASCAL Files",
 "lang":"en",
-"pubdate":"19871201",
-"thumb":""}]}
+"pubdate":"19871201"
+},{
+
+"id":106,
+"guid":"5CCEFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Mastering-Turbo-Pascal-6.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Mastering Turbo Pascal 6",
+"lang":"en",
+"pubdate":"19910901"
+},{
+
+"id":50,
+"guid":"6C73FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Turbo-Pascal-Programming-101.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Turbo Pascal Programming 101",
+"lang":"en",
+"pubdate":"19930101"}]}

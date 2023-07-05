@@ -1,142 +1,119 @@
 ﻿{
 "id":2,
-"url":"",
 "guid":"1A0BFDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Packt.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Packt",
 "website":"https:\/\/www.packtpub.com",
 "descriptions":[
 ],
 "books":[
 {
-"id":1,
-"url":"",
-"guid":"3E0BFCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-Cookbook-Third-Edition.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi Cookbook - Third Edition",
-"lang":"en",
-"pubdate":"20180731",
-"thumb":""
-},{
-
-"id":2,
-"url":"",
-"guid":"080FFCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-Cookbook-Second-Edition.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi Cookbook - Second Edition",
-"lang":"en",
-"pubdate":"20160630",
-"thumb":""
-},{
-
 "id":3,
-"url":"",
 "guid":"9810FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-Cookbook.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi Cookbook",
 "lang":"en",
-"pubdate":"20140925",
-"thumb":""
+"pubdate":"20140925"
 },{
 
-"id":4,
-"url":"",
-"guid":"F611FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Expert-Delphi.html",
+"id":2,
+"guid":"080FFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-Cookbook-Second-Edition.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"Expert Delphi",
+"name":"Delphi Cookbook - Second Edition",
 "lang":"en",
-"pubdate":"20170630",
-"thumb":""
+"pubdate":"20160630"
 },{
 
-"id":5,
-"url":"",
-"guid":"B813FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-High-Performance.html",
+"id":1,
+"guid":"3E0BFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-Cookbook-Third-Edition.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi High Performance",
+"name":"Delphi Cookbook - Third Edition",
 "lang":"en",
-"pubdate":"20180226",
-"thumb":""
-},{
-
-"id":6,
-"url":"",
-"guid":"2A15FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Hands-On-Design-Patterns-with-Delphi.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Hands-On Design Patterns with Delphi",
-"lang":"en",
-"pubdate":"20190227",
-"thumb":""
-},{
-
-"id":7,
-"url":"",
-"guid":"C416FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Mastering-Delphi-Programming-A-Complete-Reference-Guide.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Mastering Delphi Programming: A Complete Reference Guide",
-"lang":"en",
-"pubdate":"20191126",
-"thumb":""
-},{
-
-"id":8,
-"url":"",
-"guid":"1818FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-Programming-Projects.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Delphi Programming Projects",
-"lang":"en",
-"pubdate":"20190503",
-"thumb":""
+"pubdate":"20180731"
 },{
 
 "id":67,
-"url":"",
 "guid":"DA91FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-GUI-programming-with-FireMonkey.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi GUI programming with FireMonkey",
 "lang":"en",
-"pubdate":"20201029",
-"thumb":""
+"pubdate":"20201029"
+},{
+
+"id":5,
+"guid":"B813FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-High-Performance.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi High Performance",
+"lang":"en",
+"pubdate":"20180226"
+},{
+
+"guid":"3D59573216344174B34D028B2886F48E",
+"pagename":"Delphi-High-Performance-Second-Edition.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi High Performance - Second Edition",
+"lang":"en",
+"pubdate":"20230630"
+},{
+
+"id":8,
+"guid":"1818FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Delphi-Programming-Projects.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi Programming Projects",
+"lang":"en",
+"pubdate":"20190503"
+},{
+
+"id":4,
+"guid":"F611FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Expert-Delphi.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Expert Delphi",
+"lang":"en",
+"pubdate":"20170630"
 },{
 
 "id":117,
-"url":"",
 "guid":"82DFFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Fearless-Cross-Platform-Development-with-Delphi.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Fearless Cross-Platform Development with Delphi",
 "lang":"en",
-"pubdate":"20211022",
-"thumb":""}]}
+"pubdate":"20211022"
+},{
+
+"id":6,
+"guid":"2A15FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Hands-On-Design-Patterns-with-Delphi.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Hands-On Design Patterns with Delphi",
+"lang":"en",
+"pubdate":"20190227"
+},{
+
+"id":7,
+"guid":"C416FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Mastering-Delphi-Programming-A-Complete-Reference-Guide.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Mastering Delphi Programming: A Complete Reference Guide",
+"lang":"en",
+"pubdate":"20191126"}]}

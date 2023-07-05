@@ -1,10 +1,9 @@
 ﻿{
+"id":129,
 "guid":"3CA9FF113A1A4FFC8B5BF09F35F0C667",
 "pagename":"TMS-WEB-Core-Web-Application-Development-with-Delphi-second-edition.html",
 "datalevel":7,
 "dataversion":1,
-"ispagetobuild":true,
-"hasnewimage":true,
 "name":"TMS WEB Core: Web Application Development with Delphi (second edition)",
 "lang":"en",
 "pubdate":"20230424",
@@ -16,8 +15,7 @@
 "guid":"9A22FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Dr-Holger-Flick.html",
 "datalevel":6,
-"dataversion":1,
-"ispagetobuild":true}],
+"dataversion":1}],
 "publishers":[
 {
 "id":5,
@@ -25,7 +23,6 @@
 "pagename":"FlixEngineering.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"FlixEngineering"}],
 "descriptions":[
 {
@@ -33,7 +30,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"Updated & Extended 2nd Edition: Become a TMS WEB Core Insider!\r\n\r\nLearn with detailed, hands-on examples from installation to deployment including web applications, cross-platform desktop applications and multi-tier application scenarios with database-driven web services.\r\n\r\nDetailed description of the basics, the functionality, and asynchronous language features\r\nStep-by-step description from building your first web application, Progressive Web Applications (PWAs) up to multi-tier applications with database-driven web service backends\r\nElectron and TMS Miletus cross-platform desktop applications based on web applications\r\nHow to integrate existing JavaScript classes and controls\r\nCreate Windows and Linux web services with TMS XData for multi-tier applications\r\nBuild applications with web services and WebSockets to access real-time APIs\r\nIntegrate databases with TDataset controls\r\nXData-specific functionality for use in web applications\r\nResponsive web design - form designer, HTML, CSS, Bootstrap\r\nComprehensive and practical examples for web services and web application development\r\nLearn how to use popular services like Google Maps, Google Charts, and YouTube\r\nExamples of how to deploy your applications to Linux, Windows, and hosting providers\r\nSee how to package your applications quickly using Docker\r\nSuitable for everyone interested in creating web applications with TMS WEB Core."}],
 "tocs":[

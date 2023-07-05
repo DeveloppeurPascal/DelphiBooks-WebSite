@@ -1,23 +1,17 @@
 ﻿{
 "id":68,
-"url":"",
 "guid":"1CB9FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Hensley-Pink.html",
 "datalevel":6,
 "dataversion":1,
-"ispagetobuild":true,
-"name":"",
 "lastname":"Pink",
 "firstname":"Hensley",
-"pseudo":"",
-"website":"",
 "descriptions":[
 {
 "guid":"4EB9FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"<p>Hensley Pink is a Jamaica from the district of Lampard, in the Frankfield community of the parish of Clarendon. He is a former classroom teacher. He is an avid writer and self-publisher. He has publications (fictions and non fictions) in eBooks and printed formats, in poetry and prose. He has a passion for learning innovations and has developped computer-based educational products.<\/p>"
 },{
@@ -26,45 +20,35 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"Hensley Pink is a Jamaica from the district of Lampard, in the Frankfield community of the parish of Clarendon. He is a former classroom teacher. He is an avid writer and self-publisher. He has publications (fictions and non fictions) in eBooks and printed formats, in poetry and prose. He has a passion for learning innovations and has developped computer-based educational products.He has a deep interest in sports and instrumental musicianship. He puts a premium on productivity, being an advocate of functionality, creativity and versatility."}],
 "books":[
 {
-"id":91,
-"url":"",
-"guid":"C6B9FCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Pascal-Programming-230-Questions-and-Answers.html",
-"datalevel":8,
-"dataversion":1,
-"ispagetobuild":true,
-"name":"Pascal Programming: 230+ Questions and Answers",
-"lang":"en",
-"pubdate":"20180705",
-"thumb":""
-},{
-
 "id":92,
-"url":"",
 "guid":"2EBBFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Learning-Pascal-Programming-The-Beginners-Guide.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Learning Pascal Programming The Beginner's Guide",
 "lang":"en",
-"pubdate":"20120305",
-"thumb":""
+"pubdate":"20120305"
 },{
 
 "id":93,
-"url":"",
 "guid":"AABCFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Learning-Pascal-Programming-The-Beginners-Guide-1983089958.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Learning Pascal Programming: The Beginner's Guide",
 "lang":"en",
-"pubdate":"20180705",
-"thumb":""}]}
+"pubdate":"20180705"
+},{
+
+"id":91,
+"guid":"C6B9FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Pascal-Programming-230-Questions-and-Answers.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Pascal Programming: 230+ Questions and Answers",
+"lang":"en",
+"pubdate":"20180705"}]}

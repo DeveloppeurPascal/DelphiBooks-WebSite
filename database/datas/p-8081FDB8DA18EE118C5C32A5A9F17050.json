@@ -1,25 +1,19 @@
 ﻿{
 "id":30,
-"url":"",
 "guid":"8081FDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Inter-Editions.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Inter Editions",
-"website":"",
 "descriptions":[
 ],
 "books":[
 {
 "id":89,
-"url":"",
 "guid":"F6B6FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"La-programmation-en-Pascal.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"La programmation en Pascal",
 "lang":"fr",
-"pubdate":"19860301",
-"thumb":""}]}
+"pubdate":"19860301"}]}

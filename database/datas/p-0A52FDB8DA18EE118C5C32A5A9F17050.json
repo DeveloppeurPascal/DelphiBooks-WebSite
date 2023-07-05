@@ -1,25 +1,19 @@
 ﻿{
 "id":16,
-"url":"",
 "guid":"0A52FDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Coriolis-Group-Books.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Coriolis Group Books",
-"website":"",
 "descriptions":[
 ],
 "books":[
 {
 "id":52,
-"url":"",
 "guid":"5076FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Kick-Ass-Delphi-Programming.html",
 "datalevel":8,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Kick Ass Delphi Programming",
 "lang":"en",
-"pubdate":"19960901",
-"thumb":""}]}
+"pubdate":"19960901"}]}
