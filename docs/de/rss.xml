@@ -10,7 +10,7 @@
 			<link>https://delphi-books.com/de/</link>
 		</image>
 		<language>de</language>
-		<lastBuildDate>13 Jul 2022 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>5 Jul 2023 00:00:00 GMT</lastBuildDate>
 		<atom:link href="https://delphi-books.com/de/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
@@ -188,6 +188,12 @@
 			<pubDate>31 Jul 2018 00:00:00 GMT</pubDate>
 		</item>
 		<item>
+			<title>Delphi DataSnap Full Stack Development</title>
+			<link>https://delphi-books.com/de/Delphi-DataSnap-Full-Stack-Development.html</link>
+			<guid>https://delphi-books.com/de/Delphi-DataSnap-Full-Stack-Development.html</guid>
+			<pubDate>1 Jun 2023 00:00:00 GMT</pubDate>
+		</item>
+		<item>
 			<title>Delphi Event-based and Asynchronous Programming</title>
 			<link>https://delphi-books.com/de/Delphi-Event-based-and-Asynchronous-Programming.html</link>
 			<guid>https://delphi-books.com/de/Delphi-Event-based-and-Asynchronous-Programming.html</guid>
@@ -204,6 +210,12 @@
 			<link>https://delphi-books.com/de/Delphi-High-Performance.html</link>
 			<guid>https://delphi-books.com/de/Delphi-High-Performance.html</guid>
 			<pubDate>26 Feb 2018 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Delphi High Performance - Second Edition</title>
+			<link>https://delphi-books.com/de/Delphi-High-Performance-Second-Edition.html</link>
+			<guid>https://delphi-books.com/de/Delphi-High-Performance-Second-Edition.html</guid>
+			<pubDate>30 Jun 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Delphi Legacy Projects : Strategies and Survival Guide</title>
@@ -302,12 +314,6 @@
 			<pubDate>4 Apr 2000 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Delphi in depth : DataSnap</title>
-			<link>https://delphi-books.com/de/Delphi-in-depth-DataSnap.html</link>
-			<guid>https://delphi-books.com/de/Delphi-in-depth-DataSnap.html</guid>
-			<pubDate>29 Jul 2020 00:00:00 GMT</pubDate>
-		</item>
-		<item>
 			<title>Delphi memory management for classic and ARC compilers</title>
 			<link>https://delphi-books.com/de/Delphi-memory-management-for-classic-and-ARC-compilers.html</link>
 			<guid>https://delphi-books.com/de/Delphi-memory-management-for-classic-and-ARC-compilers.html</guid>
@@ -342,6 +348,12 @@
 			<link>https://delphi-books.com/de/DelphiMVCFramework.html</link>
 			<guid>https://delphi-books.com/de/DelphiMVCFramework.html</guid>
 			<pubDate>15 Sep 2020 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Delphi跨平台資料庫程式設計火速上手: 跨平台App製作的最佳入門書！</title>
+			<link>https://delphi-books.com/de/Delphi-App.html</link>
+			<guid>https://delphi-books.com/de/Delphi-App.html</guid>
+			<pubDate>1 Aug 2020 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Dependency Injection in Delphi</title>
@@ -468,6 +480,12 @@
 			<link>https://delphi-books.com/de/Introduktion-til-Delphi-5.html</link>
 			<guid>https://delphi-books.com/de/Introduktion-til-Delphi-5.html</guid>
 			<pubDate>1 Jan 2000 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>J'apprends à programmer en Pascal Objet avec l'environnement de développement Lazarus</title>
+			<link>https://delphi-books.com/de/Japprends-a-programmer-en-Pascal-Objet-avec-lenvironnement-de-developpement-Lazarus.html</link>
+			<guid>https://delphi-books.com/de/Japprends-a-programmer-en-Pascal-Objet-avec-lenvironnement-de-developpement-Lazarus.html</guid>
+			<pubDate>15 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Jeux et autres applications en Delphi</title>
@@ -702,6 +720,12 @@
 			<link>https://delphi-books.com/de/TMS-WEB-Core-Web-Application-Development-with-Delphi.html</link>
 			<guid>https://delphi-books.com/de/TMS-WEB-Core-Web-Application-Development-with-Delphi.html</guid>
 			<pubDate>26 Mar 2020 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>TMS WEB Core: Web Application Development with Delphi (second edition)</title>
+			<link>https://delphi-books.com/de/TMS-WEB-Core-Web-Application-Development-with-Delphi-second-edition.html</link>
+			<guid>https://delphi-books.com/de/TMS-WEB-Core-Web-Application-Development-with-Delphi-second-edition.html</guid>
+			<pubDate>24 Apr 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>TMS WEB Core: Webanwendungen mit Delphi entwickeln</title>

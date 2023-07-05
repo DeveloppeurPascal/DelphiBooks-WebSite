@@ -108,6 +108,9 @@
 		<loc>https://delphi-books.com/de/Delphi-Cookbook-Third-Edition.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
+		<loc>https://delphi-books.com/de/Delphi-DataSnap-Full-Stack-Development.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
 		<loc>https://delphi-books.com/de/Delphi-Event-based-and-Asynchronous-Programming.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
@@ -115,6 +118,9 @@
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/de/Delphi-High-Performance.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Delphi-High-Performance-Second-Edition.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/de/Delphi-Legacy-Projects-Strategies-and-Survival-Guide.html</loc>
@@ -165,9 +171,6 @@
 		<loc>https://delphi-books.com/de/Delphi-in-a-nutshell.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
-		<loc>https://delphi-books.com/de/Delphi-in-depth-DataSnap.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
 		<loc>https://delphi-books.com/de/Delphi-memory-management-for-classic-and-ARC-compilers.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
@@ -184,6 +187,9 @@
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/de/DelphiMVCFramework.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Delphi-App.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/de/Dependency-Injection-in-Delphi.html</loc>
@@ -247,6 +253,9 @@
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/de/Introduktion-til-Delphi-5.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Japprends-a-programmer-en-Pascal-Objet-avec-lenvironnement-de-developpement-Lazarus.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/de/Jeux-et-autres-applications-en-Delphi.html</loc>
@@ -364,6 +373,9 @@
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/de/TMS-WEB-Core-Web-Application-Development-with-Delphi.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/TMS-WEB-Core-Web-Application-Development-with-Delphi-second-edition.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/de/TMS-WEB-Core-Webanwendungen-mit-Delphi-entwickeln.html</loc>
@@ -512,142 +524,16 @@
 		<changefreq>monthly</changefreq>
 	</url>
 <url>
-		<loc>https://delphi-books.com/de/Blaise-Lusikila-Luambasu.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Credo-Ekoue-Gaba.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
 		<loc>https://delphi-books.com/de/-.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Fekri-Abdulwahab-Abdulghani.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Kim-Krarup-Andersen.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Loy-Anderson.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Ezel-Balkan.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Michel-Boillot.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Dr-Kevin-R-Bond.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/de/Ahcene-Bounceur.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
-		<loc>https://delphi-books.com/de/William-J-Buchanan.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Charlie-Calvert.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Marco-Cantu.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/David-M-Chess.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
 		<loc>https://delphi-books.com/de/Alister-Christie.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
-		<loc>https://delphi-books.com/de/Jeffrey-M-Cogswell.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Huw-Collingbourne.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/David-Cornelius.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/John-R-Cowell.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Jack-Crenshaw.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Nell-Dale.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/David-Drikse.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/William-Duarte.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Ted-Faison.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Dr-Holger-Flick.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Richard-Forsyth.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Primoz-Gabrijelcic.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Marco-Geuze.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Pawel-Glowacki.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Terence-Goggin.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Thierry-Grassia.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Peter-Grogono.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Paul-Hinks.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Ivan-Hladni.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Nick-Hodges.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Douglas-Horn.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/David-Intersimone.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Arjan-Jansen.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Cary-Jensen.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Dare-Jewell.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Jean-Claude-Joubert.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Reese-Kjeld.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Ray-Konopka.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/John-Kouraklis.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Ray-Lischner.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Brian-Long.html</loc>
+		<loc>https://delphi-books.com/de/Amdal-Steffensen.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/de/Andrea-Magni.html</loc>
@@ -656,118 +542,250 @@
 		<loc>https://delphi-books.com/de/Ano-Maki.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
-		<loc>https://delphi-books.com/de/Steven-L-Mandell.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Ewan-McNab.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/William-Meyer.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Jim-Mischel.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Dan-Miser.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Ole-Monrad.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Gabriel-Moraru.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Ole-Kristian-Mose.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Inger-Mnsted.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Xavier-Pacheco.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Bogdan-Patrut.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/John-Penman.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Hensley-Pink.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Dalija-Prasnikar.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Prasnikar-Neven-Jr.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Patrick-Premartin.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/David-Sampson.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Herbert-Sauro.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Mickey-Settle.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Jon-Shemitz.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Virender-Singh.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Jorn-Sloth.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Daniele-Spinetti.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Amdal-Steffensen.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Rufus-Stewart.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Tom-Swan.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Bob-Swart.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Don-Taylor.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Daniele-Teti.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Steve-Texeira.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Yoann-Thomas.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
-		<loc>https://delphi-books.com/de/Danny-Thorpe.html</loc>
+		<loc>https://delphi-books.com/de/Arjan-Jansen.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/de/Arne-Tolstrup-Madsen.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
-		<loc>https://delphi-books.com/de/Paul-Toth.html</loc>
+		<loc>https://delphi-books.com/de/Blaise-Lusikila-Luambasu.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
-		<loc>https://delphi-books.com/de/William-Wako.html</loc>
+		<loc>https://delphi-books.com/de/Bob-Swart.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Bogdan-Patrut.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Brian-Long.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Cary-Jensen.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Charlie-Calvert.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/de/Colin-Winning.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
+		<loc>https://delphi-books.com/de/Credo-Ekoue-Gaba.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Dalija-Prasnikar.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Dan-Miser.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Daniele-Spinetti.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Daniele-Teti.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Danny-Thorpe.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Dare-Jewell.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/David-Cornelius.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/David-Drikse.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/David-Intersimone.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/David-M-Chess.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/David-Sampson.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Don-Taylor.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Douglas-Horn.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Dr-Holger-Flick.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Dr-Kevin-R-Bond.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Eden-Wu.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Ewan-McNab.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Ezel-Balkan.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Fekri-Abdulwahab-Abdulghani.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Gabriel-Moraru.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Gilles-Vasseur.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Hensley-Pink.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Herbert-Sauro.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Huw-Collingbourne.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Inger-Mnsted.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Ivan-Hladni.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Jack-Crenshaw.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Jean-Claude-Joubert.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Jean-Luc-Gofflot.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Jeffrey-M-Cogswell.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Jim-Mischel.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/John-Kouraklis.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/John-Penman.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/John-R-Cowell.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Jon-Shemitz.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Jorn-Sloth.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Kim-Krarup-Andersen.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Loy-Anderson.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Marco-Cantu.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Marco-Geuze.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Michel-Boillot.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Mickey-Settle.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Nell-Dale.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Prasnikar-Neven-Jr.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Nick-Hodges.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Ole-Kristian-Mose.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Ole-Monrad.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
 		<loc>https://delphi-books.com/de/Ole-Witt-Hansen.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
-		<loc>https://delphi-books.com/de/Wu.html</loc>
+		<loc>https://delphi-books.com/de/Patrick-Premartin.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Paul-Hinks.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Paul-Toth.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Pawel-Glowacki.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Peter-Grogono.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Primoz-Gabrijelcic.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Ray-Konopka.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Ray-Lischner.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Reese-Kjeld.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Richard-Forsyth.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Rufus-Stewart.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Steve-Texeira.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Steven-L-Mandell.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Ted-Faison.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Terence-Goggin.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Thierry-Grassia.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Tom-Swan.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Virender-Singh.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/William-Duarte.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/William-J-Buchanan.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/William-Meyer.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/William-Wako.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Xavier-Pacheco.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/de/Yoann-Thomas.html</loc>
 		<changefreq>monthly</changefreq>
 	</url>
 <url>
@@ -795,6 +813,4 @@
 		<loc>https://delphi-books.com/de/Nihongo.html</loc>
 		<changefreq>monthly</changefreq>
 	</url>
-
-
 </urlset>
