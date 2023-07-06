@@ -1,12 +1,30 @@
 ﻿{
 "id":79,
 "guid":"2E4937B9DA18EE118C5C32A5A9F17050",
-"pagename":"-.html",
-"datalevel":6,
+"pagename":"Howard-Page-Clark.html",
+"datalevel":9,
 "dataversion":1,
-"lastname":"-",
-"firstname":"-",
+"lastname":"Page-Clark",
+"firstname":"Howard",
 "descriptions":[
 ],
 "books":[
-]}
+{
+"id":134,
+"guid":"B968B720A1484DA1A6CBB6E310B52E53",
+"pagename":"Lazarus-Handbook.html",
+"datalevel":9,
+"dataversion":1,
+"name":"Lazarus Handbook",
+"lang":"en",
+"pubdate":"20210407"
+},{
+
+"id":131,
+"guid":"73C2168279044AC2AA5B1B957ADF6FC8",
+"pagename":"Learn-To-Program-Using-Lazarus.html",
+"datalevel":7,
+"dataversion":1,
+"name":"Learn To Program Using Lazarus",
+"lang":"en",
+"pubdate":"20130000"}]}

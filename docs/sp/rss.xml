@@ -10,7 +10,7 @@
 			<link>https://delphi-books.com/sp/</link>
 		</image>
 		<language>sp</language>
-		<lastBuildDate>5 Jul 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>6 Jul 2023 00:00:00 GMT</lastBuildDate>
 		<atom:link href="https://delphi-books.com/sp/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
@@ -54,6 +54,12 @@
 			<link>https://delphi-books.com/sp/Computer-math-games-in-Pascal.html</link>
 			<guid>https://delphi-books.com/sp/Computer-math-games-in-Pascal.html</guid>
 			<pubDate>2 Aug 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DELPHI IN DEPTH DATASNAP 網站應用程式全端開發: 晋升全端開發領域的最佳指南！</title>
+			<link>https://delphi-books.com/sp/DELPHI-IN-DEPTH-DATASNAP.html</link>
+			<guid>https://delphi-books.com/sp/DELPHI-IN-DEPTH-DATASNAP.html</guid>
+			<pubDate>29 Jul 2020 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Delphi - Concurrent developments guide for iOS and Android Vol1: Development environment construction guide - From start to build Mastering DELPHI</title>
@@ -191,7 +197,7 @@
 			<title>Delphi DataSnap Full Stack Development</title>
 			<link>https://delphi-books.com/sp/Delphi-DataSnap-Full-Stack-Development.html</link>
 			<guid>https://delphi-books.com/sp/Delphi-DataSnap-Full-Stack-Development.html</guid>
-			<pubDate>1 Jun 2023 00:00:00 GMT</pubDate>
+			<pubDate>1 May 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Delphi Event-based and Asynchronous Programming</title>
@@ -353,7 +359,7 @@
 			<title>Delphi跨平台資料庫程式設計火速上手: 跨平台App製作的最佳入門書！</title>
 			<link>https://delphi-books.com/sp/Delphi-App.html</link>
 			<guid>https://delphi-books.com/sp/Delphi-App.html</guid>
-			<pubDate>1 Aug 2020 00:00:00 GMT</pubDate>
+			<pubDate>1 Aug 2017 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Dependency Injection in Delphi</title>
@@ -512,6 +518,12 @@
 			<pubDate>9 Dec 2013 00:00:00 GMT</pubDate>
 		</item>
 		<item>
+			<title>Lazarus Handbook</title>
+			<link>https://delphi-books.com/sp/Lazarus-Handbook.html</link>
+			<guid>https://delphi-books.com/sp/Lazarus-Handbook.html</guid>
+			<pubDate>7 Apr 2021 00:00:00 GMT</pubDate>
+		</item>
+		<item>
 			<title>Learn Delphi 2 Database Programming Today</title>
 			<link>https://delphi-books.com/sp/Learn-Delphi-2-Database-Programming-Today.html</link>
 			<guid>https://delphi-books.com/sp/Learn-Delphi-2-Database-Programming-Today.html</guid>
@@ -522,6 +534,12 @@
 			<link>https://delphi-books.com/sp/Learn-Pascal-Programming.html</link>
 			<guid>https://delphi-books.com/sp/Learn-Pascal-Programming.html</guid>
 			<pubDate>21 May 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Learn To Program Using Lazarus</title>
+			<link>https://delphi-books.com/sp/Learn-To-Program-Using-Lazarus.html</link>
+			<guid>https://delphi-books.com/sp/Learn-To-Program-Using-Lazarus.html</guid>
+			<pubDate>1 Jan 2013 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Learning Pascal Programming The Beginner's Guide</title>

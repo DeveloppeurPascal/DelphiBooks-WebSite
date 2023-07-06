@@ -1,0 +1,20 @@
+﻿{
+"id":94,
+"guid":"086FA2B2EFEB4A09A060BCC48DF5BA34",
+"pagename":"Werner-Pamler.html",
+"datalevel":4,
+"dataversion":1,
+"lastname":"Pamler",
+"firstname":"Werner",
+"descriptions":[
+],
+"books":[
+{
+"id":134,
+"guid":"B968B720A1484DA1A6CBB6E310B52E53",
+"pagename":"Lazarus-Handbook.html",
+"datalevel":9,
+"dataversion":1,
+"name":"Lazarus Handbook",
+"lang":"en",
+"pubdate":"20210407"}]}

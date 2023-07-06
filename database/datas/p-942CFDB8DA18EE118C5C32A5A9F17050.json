@@ -7,7 +7,13 @@
 "label":"Blaise Pascal Magazine",
 "website":"https:\/\/www.blaisepascalmagazine.eu",
 "descriptions":[
-],
+{
+"guid":"05B6406D5AB94A2CB84DAA385B2ECEB9",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"BLAISE PASCAL MAGAZINE aims to inspire and inform people who develop apps using Pascal.\r\nPascal was designed specifically to teach students how to program well, (being modular and strongly typed). \r\nThe language vocabulary is a simple subset of self-descriptive English, so easy for people the world over to understand.\r\n\r\nIts apparent simplicity hides surprising power and a huge range of possibilities.\r\nMost Pascal compilers are written in Pascal!\r\nBlaise Pascal Magazine caters for the two principal modern implementations of Object Pascal: \r\nDelphi and Lazarus\/Free Pascal. \r\nWe highlight new ideas, create new extensions for the language (Pas2JS) \r\n\u2013a compiler that enables you to code in pascal and create HTML and JavaScript \u2013\r\nrecent extensions to the language and provide numerous example programs and solutions to current challenges. \r\n\r\nDelphi is a fully commercial IDE and support framework bundle. \r\n\r\nLazarus is the IDE and cross-platform GUI library for the fully open source Free Pascal Compiler (FPC),\r\nwhich includes a Delphi-compatible language mode.\r\nThe magazine encourages new authors and innovators working in either sphere (or both), \r\nas well as publishing cutting edge articles by established authors.\r\nWe are open to fresh ideas and to people who want to share their inspiration and inventive ideas and solutions, and the fruit of their experience.\r\nWe offer numerous examples as well as tutorials and industry news, debate with\r\n \r\nThe latest example is the future of the Internet: \r\n(Quantum Internet) and the creating of applications written in Pascal for this.\r\n \r\nWe organize events and courses Even in this time of Corona."}],
 "books":[
 {
 "id":25,
@@ -17,4 +23,24 @@
 "dataversion":1,
 "name":"Computer math and games in Pascal",
 "lang":"en",
-"pubdate":"20150802"}]}
+"pubdate":"20150802"
+},{
+
+"id":134,
+"guid":"B968B720A1484DA1A6CBB6E310B52E53",
+"pagename":"Lazarus-Handbook.html",
+"datalevel":9,
+"dataversion":1,
+"name":"Lazarus Handbook",
+"lang":"en",
+"pubdate":"20210407"
+},{
+
+"id":131,
+"guid":"73C2168279044AC2AA5B1B957ADF6FC8",
+"pagename":"Learn-To-Program-Using-Lazarus.html",
+"datalevel":7,
+"dataversion":1,
+"name":"Learn To Program Using Lazarus",
+"lang":"en",
+"pubdate":"20130000"}]}

@@ -1,0 +1,20 @@
+﻿{
+"id":92,
+"guid":"EDD52D779A164D9AA66AF7A8E49190E8",
+"pagename":"Mattias-Gartner.html",
+"datalevel":4,
+"dataversion":1,
+"lastname":"G\u00E4rtner",
+"firstname":"Mattias",
+"descriptions":[
+],
+"books":[
+{
+"id":134,
+"guid":"B968B720A1484DA1A6CBB6E310B52E53",
+"pagename":"Lazarus-Handbook.html",
+"datalevel":9,
+"dataversion":1,
+"name":"Lazarus Handbook",
+"lang":"en",
+"pubdate":"20210407"}]}

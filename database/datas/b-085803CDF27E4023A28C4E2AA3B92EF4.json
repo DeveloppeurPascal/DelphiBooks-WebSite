@@ -1,0 +1,49 @@
+﻿{
+"id":133,
+"guid":"085803CDF27E4023A28C4E2AA3B92EF4",
+"pagename":"DELPHI-IN-DEPTH-DATASNAP.html",
+"datalevel":8,
+"dataversion":1,
+"name":"DELPHI IN DEPTH DATASNAP \u7DB2\u7AD9\u61C9\u7528\u7A0B\u5F0F\u5168\u7AEF\u958B\u767C: \u664B\u5347\u5168\u7AEF\u958B\u767C\u9818\u57DF\u7684\u6700\u4F73\u6307\u5357\uFF01",
+"lang":"cn",
+"pubdate":"20200729",
+"isbn10":"9789869530019",
+"isbn13":"9789869530019",
+"website":"https:\/\/books.google.fr\/books?id=jr30dwaaqbaj",
+"authors":[
+{
+"id":80,
+"guid":"36DBFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Eden-Wu.html",
+"datalevel":7,
+"dataversion":1}],
+"publishers":[
+],
+"descriptions":[
+{
+"guid":"04BF4AE1C5024A75811BCF4F05454E0E",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"cn",
+"text":"\u5167\u5BB9\u7C21\u4ECB\r\n\r\n\u8B93\u4F60\u5F9E 0 \u5230 1 \u9032\u5165\u5168\u7AEF\u958B\u767C\u9818\u57DF\uFF0C\u638C\u63E1\u5F8C\u7AEF\u77E5\u8B58\u540C\u6642\u4E5F\u5B78\u6703\u524D\u7AEF\u958B\u767C\u8A23\u7AC5\uFF0C\u9EDE\u958B Web \u958B\u767C\u65B0\u6280\u80FD\r\n\r\n\r\n\r\nDelphi \u9032\u968E\u6846\u67B6 -- DataSnap \u5168\u65B9\u4F4D\u69CB\u7BC9\u5F8C\u7AEF\u77E5\u8B58\u3002\r\n\r\njQuery EasyUI \u524D\u7AEF\u6280\u8853\u5167\u6DB5\u53CA\u63A5\u8FD1 VCL \u5143\u4EF6\u7684\u64CD\u4F5C\u6982\u5FF5\u3002\r\n\r\n\u8CC7\u6599\u5EAB\u5E38\u7528\u64CD\u4F5C\u3002\r\n\r\n\u6DB5\u84CB\u8A9E\u6CD5\u5165\u9580\uFF0C\u5143\u4EF6\u4ECB\u7D39\u7B49\u524D\u5F8C\u7AEF\u6574\u5408\u5BE6\u6230\u61C9\u7528\u3002\r\n\r\n\r\n\r\n\u7D66\u9700\u8981\u672C\u66F8\u7684\u4EBA\uFF1A\r\n\r\n\u2605\u6709\u63A5\u89F8\u904E JavaScript \u537B\u4E0D\u77E5\u9053\u5982\u4F55\u958B\u59CB\u624D\u80FD\u9EDE\u958B\u5F8C\u7AEF\u6280\u80FD\u7684\u4EBA\r\n\r\n\u2605\u6709\u63A5\u89F8\u904E Delphi \u4F46\u53C8\u4E0D\u60F3\u6253\u6389\u91CD\u7DF4\u7684\u4EBA\r\n\r\n\u2605\u8001\u662F\u5BEB\u4E0D\u597D Delphi \u7A0B\u5F0F\u7684\u4EBA\r\n\r\n\u2605\u60F3\u904B\u7528 DataSnap \u958B\u767C\u5168\u7AEF\u5C08\u6848\u7684\u4EBA\r\n\r\n\r\n\r\n\r\n\r\n\u672C\u66F8\u7279\u8272\r\n\r\n\r\n\r\n1.\u672C\u66F8\u63A1\u6F38\u9032\u5F0F\u958B\u767C\u5F8C\u53F0\u7BA1\u7406\u7CFB\u7D71\u7684\u5168\u7AEF\u7DB2\u7AD9\u61C9\u7528\u7A0B\u5F0F\uFF0C\u8B93\u5B78\u7FD2\u8005\u80FD\u99AC\u4E0A\u505A\uFF0C\u7ACB\u5373\u5B78\u3002\r\n\r\n2.\u5168\u66F8\u7A0B\u5F0F\u78BC\u6BEB\u7121\u4FDD\u7559\u7684\u5448\u73FE\uFF0C\u91CD\u9EDE\u8655\u9084\u6703\u7BC0\u9304\u518D\u8AAA\u660E\uFF0C\u66F4\u52A0\u5F37\u5316\u7406\u89E3\u8207\u8A18\u61B6\u5167\u5BB9\u3002\r\n\r\n3.\u63D0\u4F9B\u95DC\u65BC\u6846\u67B6\u539F\u7406\u7684\u5716\u8AAA\uFF0C\u8B93\u8B80\u8005\u66F4\u80FD\u805A\u7126\u5B78\u7FD2\u91CD\u9EDE\u4E0A\u3002\r\n\r\n4.\u5BE6\u4F5C\u6210\u54C1\u80FD\u7ACB\u5373\u61C9\u7528\u5728\u5BE6\u6230\u4E2D\uFF0C\u5BE6\u73FE\u8D85\u901F\u5B78\u7FD2\u6210\u679C\u3002\r\n\r\n\r\n\r\n\u5C08\u6587\u63A8\u85A6\r\n\r\n\r\n\r\nEden \u662F\u6211\u898B\u904E\u5C0D Delphi \u6700\u6709\u611B\u7684\u5DE5\u7A0B\u5E2B\uFF0C\u6C92\u6709\u4E4B\u4E00\u3002__\u3010Delphi.KTOP \u8CC7\u6DF1\u7248\u4E3B Jason Wong\u3011\r\n\r\n\r\n\r\nEden \u7684\u5805\u6301\uFF0C\u662F\u76EE\u524D\u53F0\u7063\u5730\u5340 Delphi \u4E0D\u53EF\u6216\u7F3A\u7684\u7CBE\u795E\uFF0C\u6211\u5F9E\u9019\u672C\u66F8\u88E1\u9762\u770B\u5230 Eden \u7684\u7528\u5FC3\u3002__\u3010Indy TIdDNSServer\u3001Delphi \/ Kylix -Indy \u7DB2\u8DEF\u7A0B\u5F0F\u8A2D\u8A08\u4F5C\u8005 \u5F35\u5B50\u4EC1\u3011\r\n\r\n\r\n\r\n\u672C\u66F8\u5F9E\u524D\u7AEF\u7684 Javascript \u8AAA\u8D77\uFF0C\u6F38\u8FD1\u5730\u6DF1\u5165\u5F8C\u7AEF DataSnap \u5BE6\u4F5C\uFF0C\u6700\u5F8C\u5C07\u524D\u5F8C\u7AEF\u4E32\u8D77\u4F86\uFF0C\u9019\u6A23\u7684\u4F48\u5C40\uFF0C\u5C24\u5176\u5C0D\u5168\u7AEF\u4E0D\u719F\u7684\u958B\u767C\u8005\u800C\u8A00\uFF0C\u76F8\u4FE1\u53EF\u4EE5\u5F88\u5FEB\u901F\u7684\u5165\u9580\u8207\u61C9\u7528 \uFF01__\u3010Delphi.KTOP \u526F\u7AD9\u9577 \u856D\u6C96\u3011"
+},{
+
+"guid":"154D716675CE4870B3758C55B84D7CC0",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"Content introduction\r\n\r\nLet you enter the full-end development field from 0 to 1, master the back-end knowledge and learn the front-end development tips at the same time, and click on the new skills of Web development.\r\n\r\nDelphi advanced framework -- DataSnap builds back-end knowledge in an all-round way.\r\n\r\njQuery EasyUI front-end technical connotation and operation concept close to VCL components.\r\n\r\nCommon operation of database.\r\n\r\nIt covers the front-end and back-end integrated practical applications such as grammar introduction, component introduction, etc.\r\n\r\nFor those who need this book:\r\n\r\n\u2605 People who have been exposed to JavaScript but don't know how to start to click on back-end skills\r\n\r\n\u2605 There are people who have been in contact with Delphi but don't want to kill the retraining.\r\n\r\n\u2605 People who can't write Delphi programs well\r\n\r\n\u2605 People who want to use DataSnap to develop full-end projects\r\n\r\nFeatures of this book\r\n\r\n1. This book adopts the progressive development of the full-end website application of the back-end management system, so that learners can do it immediately and learn immediately.\r\n\r\n2. The code of the whole book is presented without reservation, and the key points will be excerpted and explained to strengthen the understanding and memory content.\r\n\r\n3. Provide diagrams about the principle of the framework, so that readers can focus more on learning.\r\n\r\n4. The actual product can be immediately applied to the actual battle to achieve the results of speeding learning.\r\n\r\nRecommendation of articles\r\n\r\nEden is one of the most loving engineers I have ever seen for Delphi. __[Delphi.KTOP Senior Moderator Jason Wong]\r\n\r\nEden's persistence is the indispensable spirit of Delphi in Taiwan at present. I can see Eden's intentions in this book. __ [Indy TIdDNSServer, Delphi \/ Kylix -Indy Network Programming Author Zhang Ziren]\r\n\r\nThis book starts with the front-end Javascript, gradually goes deep into the back-end DataSnap implementation, and finally strings the front and back ends. Such a layout, especially for developers who are not familiar with the whole end, is believed to be a very fast start and application! __[Delphi.KTOP Deputy Station Manager Xiao Chong]"
+},{
+
+"guid":"2282737AF67D4C7E904F987D77C2BC28",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"fr",
+"text":"Introduction du contenu\r\n\r\nLaissez-vous entrer dans le domaine du d\u00E9veloppement complet de 0 \u00E0 1, ma\u00EEtrisez les connaissances du back-end et apprenez les conseils de d\u00E9veloppement front-end en m\u00EAme temps, et cliquez sur les nouvelles comp\u00E9tences du d\u00E9veloppement Web.\r\n\r\nCadre avanc\u00E9 Delphi -- DataSnap construit les connaissances back-end de mani\u00E8re globale.\r\n\r\nConnotation technique frontale jQuery EasyUI et concept d'exploitation proche des composants VCL.\r\n\r\nFonctionnement commun de la base de donn\u00E9es.\r\n\r\nIl couvre les applications pratiques int\u00E9gr\u00E9es front-end et back-end telles que l'introduction de la grammaire, l'introduction de composants, etc.\r\n\r\nPour ceux qui ont besoin de ce livre :\r\n\r\n\u2605 Les personnes qui ont \u00E9t\u00E9 expos\u00E9es \u00E0 JavaScript mais qui ne savent pas comment commencer \u00E0 cliquer sur les comp\u00E9tences du back-end\r\n\r\n\u2605 Il y a des gens qui ont \u00E9t\u00E9 en contact avec Delphi mais qui ne veulent pas tuer le recyclage.\r\n\r\n\u2605 Les personnes qui ne peuvent pas bien \u00E9crire les programmes Delphi\r\n\r\n\u2605 Les personnes qui veulent utiliser DataSnap pour d\u00E9velopper des projets complets\r\n\r\nCaract\u00E9ristiques de ce livre\r\n\r\n1. Ce livre adopte le d\u00E9veloppement progressif de l'application de site Web compl\u00E8te du syst\u00E8me de gestion back-end, afin que les apprenants puissent le faire imm\u00E9diatement et apprendre imm\u00E9diatement.\r\n\r\n2. Le code de l'ensemble du livre est pr\u00E9sent\u00E9 sans r\u00E9serve, et les points cl\u00E9s seront extraits et expliqu\u00E9s pour renforcer la compr\u00E9hension et le contenu de la m\u00E9moire.\r\n\r\n3. Fournir des diagrammes sur le principe du cadre, afin que les lecteurs puissent se concentrer davantage sur l'apprentissage.\r\n\r\n4. Le produit r\u00E9el peut \u00EAtre imm\u00E9diatement appliqu\u00E9 \u00E0 la bataille r\u00E9elle pour obtenir les r\u00E9sultats de l'apprentissage acc\u00E9l\u00E9r\u00E9.\r\n\r\nRecommandation d'articles\r\n\r\nEden est l'un des ing\u00E9nieurs les plus aimants que j'aie jamais vus pour Delphes. __[Delphi.KTOP Mod\u00E9rateur principal Jason Wong]\r\n\r\nLa pers\u00E9v\u00E9rance d'Eden est l'esprit indispensable de Delphes \u00E0 Ta\u00EFwan \u00E0 l'heure actuelle. Je peux voir les intentions d'Eden dans ce livre. __ [Indy TIdDNSServer, Delphi \/ Kylix -Indy Network Programming Author Zhang Ziren]\r\n\r\nCe livre commence par le Javascript frontal, approfondit progressivement l'impl\u00E9mentation Back-end de DataSnap, et enfin encha\u00EEne les front et les back-ends. Une telle mise en page, en particulier pour les d\u00E9veloppeurs qui ne sont pas familiers avec toute la fin, est consid\u00E9r\u00E9e comme un d\u00E9marrage et une application tr\u00E8s rapides ! __[Delphi.KTOP Directeur adjoint de la station Xiao Chong]"}],
+"tocs":[
+],
+"keywords":[
+]}

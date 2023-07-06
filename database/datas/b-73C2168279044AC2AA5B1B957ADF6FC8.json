@@ -1,0 +1,38 @@
+﻿{
+"id":131,
+"guid":"73C2168279044AC2AA5B1B957ADF6FC8",
+"pagename":"Learn-To-Program-Using-Lazarus.html",
+"datalevel":7,
+"dataversion":1,
+"name":"Learn To Program Using Lazarus",
+"lang":"en",
+"pubdate":"20130000",
+"isbn13":"9789490968021",
+"website":"https:\/\/www.blaisepascalmagazine.eu\/product\/learn-program-using-lazarus-electronic-pdf\/",
+"authors":[
+{
+"id":79,
+"guid":"2E4937B9DA18EE118C5C32A5A9F17050",
+"pagename":"Howard-Page-Clark.html",
+"datalevel":9,
+"dataversion":1}],
+"publishers":[
+{
+"id":8,
+"guid":"942CFDB8DA18EE118C5C32A5A9F17050",
+"pagename":"Blaise-Pascal-Magazine.html",
+"datalevel":4,
+"dataversion":1,
+"label":"Blaise Pascal Magazine"}],
+"descriptions":[
+],
+"tocs":[
+{
+"guid":"1AD2332422A24855A5989662F80953E1",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"1 Starting to program\r\n2 Lazarus and Pascal\r\n3 Types, variables, constants and assignments\r\n4 Structured types\r\n5 Expressions and operators\r\n6 Pascal statements\r\n7 Routines: functions and procedures\r\n8 Class: An elaborate type\r\n9 Polymorphism\r\n10 Units, GUI programs and the IDE\r\n11 Display Controls\r\n12 GUI Edit controls\r\n13 Lazarus GUI projects\r\n14 Component Containers\r\n15 Non-visual GUI Support classes\r\n16 Files and Errors\r\n17 Working within known limits\r\n18 Algorithms and Unit tests\r\n19 Debugging techniques\r\n20 Further resources"}],
+"keywords":[
+]}

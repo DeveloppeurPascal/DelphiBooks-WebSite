@@ -1,0 +1,20 @@
+﻿{
+"id":89,
+"guid":"ADE3FE1E51D847B88CCDF69433809268",
+"pagename":"Detlef-Overbeek.html",
+"datalevel":4,
+"dataversion":1,
+"lastname":"Overbeek",
+"firstname":"Detlef",
+"descriptions":[
+],
+"books":[
+{
+"id":134,
+"guid":"B968B720A1484DA1A6CBB6E310B52E53",
+"pagename":"Lazarus-Handbook.html",
+"datalevel":9,
+"dataversion":1,
+"name":"Lazarus Handbook",
+"lang":"en",
+"pubdate":"20210407"}]}

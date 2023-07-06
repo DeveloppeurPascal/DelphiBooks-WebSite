@@ -17,21 +17,31 @@
 "text":"I am your guide to realizing your Delphi full-stack development dreams, from front-end basics to back-end expertise. Together, let's embark on the path to success in web development.\r\n\r\nEmbarcadero Delphi MVP\r\n\r\nAuthor of the Grand Master's Wind blog: <a href=\"https:\/\/grandruru.blogspot.com\">\u5927\u5320\u4E4B\u98A8<\/a>"}],
 "books":[
 {
+"id":133,
+"guid":"085803CDF27E4023A28C4E2AA3B92EF4",
+"pagename":"DELPHI-IN-DEPTH-DATASNAP.html",
+"datalevel":8,
+"dataversion":1,
+"name":"DELPHI IN DEPTH DATASNAP \u7DB2\u7AD9\u61C9\u7528\u7A0B\u5F0F\u5168\u7AEF\u958B\u767C: \u664B\u5347\u5168\u7AEF\u958B\u767C\u9818\u57DF\u7684\u6700\u4F73\u6307\u5357\uFF01",
+"lang":"cn",
+"pubdate":"20200729"
+},{
+
 "id":127,
 "guid":"1760FE523CD049429B12FBCCA59D8E77",
 "pagename":"Delphi-DataSnap-Full-Stack-Development.html",
-"datalevel":7,
+"datalevel":9,
 "dataversion":1,
 "name":"Delphi DataSnap Full Stack Development",
 "lang":"en",
-"pubdate":"20230600"
+"pubdate":"20230500"
 },{
 
 "id":115,
 "guid":"90DBFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Delphi-App.html",
-"datalevel":14,
+"datalevel":16,
 "dataversion":1,
 "name":"Delphi\u8DE8\u5E73\u53F0\u8CC7\u6599\u5EAB\u7A0B\u5F0F\u8A2D\u8A08\u706B\u901F\u4E0A\u624B: \u8DE8\u5E73\u53F0App\u88FD\u4F5C\u7684\u6700\u4F73\u5165\u9580\u66F8\uFF01",
 "lang":"cn",
-"pubdate":"20200801"}]}
+"pubdate":"20170801"}]}

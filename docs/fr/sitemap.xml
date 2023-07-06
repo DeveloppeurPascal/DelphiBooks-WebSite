@@ -42,6 +42,9 @@
 		<loc>https://delphi-books.com/fr/Computer-math-games-in-Pascal.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
+		<loc>https://delphi-books.com/fr/DELPHI-IN-DEPTH-DATASNAP.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
 		<loc>https://delphi-books.com/fr/Delphi-Concurrent-developments-guide-for-iOS-and-Android-Vol1-Development-environment-construction-guide-From-start-to-build-Mastering-DELPHI.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
@@ -270,10 +273,16 @@
 		<loc>https://delphi-books.com/fr/Langage-Pascal-exercices-corriges.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
+		<loc>https://delphi-books.com/fr/Lazarus-Handbook.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
 		<loc>https://delphi-books.com/fr/Learn-Delphi-2-Database-Programming-Today.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/fr/Learn-Pascal-Programming.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/fr/Learn-To-Program-Using-Lazarus.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/fr/Learning-Pascal-Programming-The-Beginners-Guide.html</loc>
@@ -524,9 +533,6 @@
 		<changefreq>monthly</changefreq>
 	</url>
 <url>
-		<loc>https://delphi-books.com/fr/-.html</loc>
-		<changefreq>monthly</changefreq>
-	</url><url>
 		<loc>https://delphi-books.com/fr/Ahcene-Bounceur.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
@@ -605,6 +611,9 @@
 		<loc>https://delphi-books.com/fr/David-Sampson.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
+		<loc>https://delphi-books.com/fr/Detlef-Overbeek.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
 		<loc>https://delphi-books.com/fr/Don-Taylor.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
@@ -641,10 +650,16 @@
 		<loc>https://delphi-books.com/fr/Herbert-Sauro.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
+		<loc>https://delphi-books.com/fr/Howard-Page-Clark.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
 		<loc>https://delphi-books.com/fr/Huw-Collingbourne.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/fr/Inger-Mnsted.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/fr/Inoussa-Ouedraogo.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/fr/Ivan-Hladni.html</loc>
@@ -690,6 +705,15 @@
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/fr/Marco-Geuze.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/fr/Martin-Friebe.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/fr/Mattias-Gartner.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/fr/Michael-van-Canneyt.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/fr/Michel-Boillot.html</loc>
@@ -768,6 +792,9 @@
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/fr/Virender-Singh.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/fr/Werner-Pamler.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/fr/William-Duarte.html</loc>
