@@ -11,10 +11,10 @@
 {
 "guid":"0A2BFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"",
-"datalevel":3,
+"datalevel":4,
 "dataversion":1,
 "lang":"en",
-"text":"Alister Christie has been programming in Delphi since 1999, building and maintaining applications for the real estate, banking, racing, and legal industries here in New Zealand. In these roles, he has also used other technologies such a C#, Ruby on Rails, Android\/Java, but Delphi is his preferred environment.\n\nAlister loves to teach, and has also held training seminars on coding for his teammates, user training for clients, as well as producing the content found here. Most of his free videos also appear on YouTube, as at January 2020 have over 1.58 million views and around seven thousand subscribers.\n\nAlister has presented at numerous online CodeRage conferences. These conferences last for an entire week with thousands of participants. The replays for all his presentations are available on this site.\n\nAlister has been an international guest speaker at ADUG (Australasian Delphi Users Group) Symposia since his debut in 2013. Alister is honoured to be invited back to present again and again.\n\nIn 2012 Embarcadero invited Alister to join a select group of Delphi experts from around the world to form the Embarcadero MVP program for which he was the first from New Zealand.\n\nAlister\u2019s books \u201CCode Better in Delphi\u201D and \u201CCode Faster in Delphi\u201D will be out soon. Reserve an advance copy here.\n\nAlister holds a degree in Mathematics and Computer Science from Victoria University, Wellington. He lives near Wellington, New Zealand.\n\nWhen Alister isn\u2019t doing all that, he\u2019s investigating new technologies, hanging out with his family, playing guitar, investing in real estate, working out, farming his lifestyle block (hobby-farm), renovating, and running a B\u2019n\u2019B."}],
+"text":"<p>Alister Christie has been programming in Delphi since 1999, building and maintaining applications for the real estate, banking, racing, and legal industries here in New Zealand. In these roles, he has also used other technologies such a C#, Ruby on Rails, Android\/Java, but Delphi is his preferred environment.<\/p>\r\n<p>Alister loves to teach, and has also held training seminars on coding for his teammates, user training for clients, as well as producing the content found here. Most of his free videos also appear on YouTube, as at January 2020 have over 1.58 million views and around seven thousand subscribers.<\/p>\r\n<p>Alister has presented at numerous online CodeRage conferences. These conferences last for an entire week with thousands of participants. The replays for all his presentations are available on this site.<\/p>\r\n<p>Alister has been an international guest speaker at ADUG (Australasian Delphi Users Group) Symposia since his debut in 2013. Alister is honoured to be invited back to present again and again.<\/p>\r\n<p>In 2012 Embarcadero invited Alister to join a select group of Delphi experts from around the world to form the Embarcadero MVP program for which he was the first from New Zealand.<\/p>\r\n<p>Alister\u2019s books \u201CCode Better in Delphi\u201D and \u201CCode Faster in Delphi\u201D will be out soon. Reserve an advance copy here.<\/p>\r\n<p>Alister holds a degree in Mathematics and Computer Science from Victoria University, Wellington. He lives near Wellington, New Zealand.<\/p>\r\n<p>When Alister isn\u2019t doing all that, he\u2019s investigating new technologies, hanging out with his family, playing guitar, investing in real estate, working out, farming his lifestyle block (hobby-farm), renovating, and running a B\u2019n\u2019B.<\/p>"}],
 "books":[
 {
 "id":20,
@@ -24,4 +24,14 @@
 "dataversion":1,
 "name":"Code Faster in Delphi",
 "lang":"en",
-"pubdate":"20200926"}]}
+"pubdate":"20200926"
+},{
+
+"id":135,
+"guid":"4B535D85F6DC493ABEA067D4794BF0F4",
+"pagename":"Code-better-in-Delphi.html",
+"datalevel":6,
+"dataversion":1,
+"name":"Code better in Delphi",
+"lang":"en",
+"pubdate":"20230710"}]}
