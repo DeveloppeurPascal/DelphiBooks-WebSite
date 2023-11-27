@@ -2,12 +2,19 @@
 "id":51,
 "guid":"A08AFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Gabriel-Moraru.html",
-"datalevel":6,
+"datalevel":7,
 "dataversion":1,
 "lastname":"Moraru",
 "firstname":"Gabriel",
+"website":"https:\/\/gabrielmoraru.com",
 "descriptions":[
-],
+{
+"guid":"9657A0B6B42948EBA77C4A7E25C703C2",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"Embark on a journey through Delphi programming with Gabriel Moraru. With over two decades of experience as a senior software architect, he has been immersed in the world of Pascal and Delphi since 1995. His academic background in applied electronics and computer science has laid the foundation for crafting innovative software solutions.\r\n\r\nHis expertise spans medical, big data, e-commerce, bioinformatics, and robotics domains, reflecting a passion for versatile creation. Active in the Stack Overflow community, he enjoy sharing knowledge and have contributed free and commercial Delphi libraries.\r\n\r\nIf you have feedback about his books, he is open to exchanging thoughts at <a href=\"https:\/\/gabrielmoraru.com\">www.GabrielMoraru.com<\/a>."}],
 "books":[
 {
 "id":63,
