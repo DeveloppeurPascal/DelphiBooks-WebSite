@@ -10,7 +10,7 @@
 			<link>https://delphi-books.com/tr/</link>
 		</image>
 		<language>tr</language>
-		<lastBuildDate>18 Jul 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>27 Nov 2023 00:00:00 GMT</lastBuildDate>
 		<atom:link href="https://delphi-books.com/tr/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
@@ -32,7 +32,7 @@
 			<pubDate>1 Mar 1993 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Building GUI applications... in no time</title>
+			<title>Building modern GUI applications... in no time</title>
 			<link>https://delphi-books.com/tr/Building-GUI-applications-in-no-time.html</link>
 			<guid>https://delphi-books.com/tr/Building-GUI-applications-in-no-time.html</guid>
 			<pubDate>19 Nov 2019 00:00:00 GMT</pubDate>
@@ -324,6 +324,12 @@
 			<link>https://delphi-books.com/tr/Delphi-in-a-nutshell.html</link>
 			<guid>https://delphi-books.com/tr/Delphi-in-a-nutshell.html</guid>
 			<pubDate>4 Apr 2000 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Delphi in all its glory</title>
+			<link>https://delphi-books.com/tr/Delphi-in-all-its-glory.html</link>
+			<guid>https://delphi-books.com/tr/Delphi-in-all-its-glory.html</guid>
+			<pubDate>29 Mar 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Delphi memory management for classic and ARC compilers</title>
