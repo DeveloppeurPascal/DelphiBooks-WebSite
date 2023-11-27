@@ -20,8 +20,18 @@
 "id":63,
 "guid":"F08AFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Building-GUI-applications-in-no-time.html",
-"datalevel":8,
+"datalevel":10,
 "dataversion":1,
-"name":"Building GUI applications... in no time",
+"name":"Building modern GUI applications... in no time",
 "lang":"en",
-"pubdate":"20191119"}]}
+"pubdate":"20191119"
+},{
+
+"id":136,
+"guid":"CA8AAB38920C483DB2E51457E4F9F604",
+"pagename":"Delphi-in-all-its-glory.html",
+"datalevel":7,
+"dataversion":1,
+"name":"Delphi in all its glory",
+"lang":"en",
+"pubdate":"20230329"}]}
