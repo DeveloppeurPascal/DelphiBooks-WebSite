@@ -222,6 +222,9 @@
 		<loc>https://delphi-books.com/tr/Expert-Delphi.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
+		<loc>https://delphi-books.com/tr/Expert-Delphi-second-edition.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
 		<loc>https://delphi-books.com/tr/Fearless-Cross-Platform-Development-with-Delphi.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
@@ -328,6 +331,9 @@
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/tr/Mastering-Turbo-Pascal-6.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/tr/Modern-Software-Development-with-Delphi.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/tr/More-Coding-in-Delphi.html</loc>

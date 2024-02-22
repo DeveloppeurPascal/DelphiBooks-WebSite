@@ -17,6 +17,16 @@
 "text":"<p>Marco is the author of over 20 books on Delphi and the Object Pascal language, including the best-selling Mastering Delphi series and a number of more recent self-published Delphi Handbooks. He also has written books on C++ and other technologies.<\/p>\n<p>Marco lives in Italy and has given Delphi-related and general development sessions at countless conferences in Europe and around the world, including Borland Conferences, the SD West Conference, CodeRage online conferences, Delphi Tage, EKON, and many others.<\/p>\n<p>Marco is one of the RAD Studio Product Managers at Embarcadero, focused on Delphi. For more information, see his web site, <a href=\"www.marcocantu.com\">www.marcocantu.com<\/a>.<\/p>"}],
 "books":[
 {
+"id":137,
+"guid":"0C450101D66049A3A55ECDD8E336CA43",
+"pagename":"Expert-Delphi-second-edition.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Expert Delphi (second edition)",
+"lang":"en",
+"pubdate":"20240223"
+},{
+
 "id":60,
 "guid":"8686FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Mastering-Borland-Delphi-2005.html",

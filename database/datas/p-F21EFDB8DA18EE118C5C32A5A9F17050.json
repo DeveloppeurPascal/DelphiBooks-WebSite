@@ -13,7 +13,7 @@
 "id":15,
 "guid":"2623FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Hands-on-with-Delphi-Volume-1.html",
-"datalevel":8,
+"datalevel":9,
 "dataversion":1,
 "name":"Hands-on with Delphi - Volume 1",
 "lang":"en",
@@ -23,7 +23,7 @@
 "id":16,
 "guid":"AC24FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Hands-on-with-Delphi-Volume-2.html",
-"datalevel":8,
+"datalevel":9,
 "dataversion":1,
 "name":"Hands-on with Delphi - Volume 2",
 "lang":"en",
@@ -33,11 +33,21 @@
 "id":116,
 "guid":"70DDFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Hands-on-with-Delphi-Volume-3.html",
-"datalevel":8,
+"datalevel":9,
 "dataversion":1,
 "name":"Hands-on with Delphi - Volume 3",
 "lang":"en",
 "pubdate":"20210722"
+},{
+
+"id":138,
+"guid":"2C528891895847509D51F5AC36A80E21",
+"pagename":"Modern-Software-Development-with-Delphi.html",
+"datalevel":7,
+"dataversion":1,
+"name":"Modern Software Development with Delphi",
+"lang":"en",
+"pubdate":"20231219"
 },{
 
 "id":18,
@@ -53,7 +63,7 @@
 "id":129,
 "guid":"3CA9FF113A1A4FFC8B5BF09F35F0C667",
 "pagename":"TMS-WEB-Core-Web-Application-Development-with-Delphi-second-edition.html",
-"datalevel":7,
+"datalevel":8,
 "dataversion":1,
 "name":"TMS WEB Core: Web Application Development with Delphi (second edition)",
 "lang":"en",
