@@ -1,0 +1,42 @@
+﻿{
+"id":139,
+"guid":"DFE6311793644D24B8E74FBDB30106B9",
+"pagename":"Delphi-Succinctly.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi Succinctly",
+"lang":"en",
+"pubdate":"20160229",
+"isbn13":"9781642001013",
+"website":"https:\/\/www.syncfusion.com\/succinctly-free-ebooks\/delphi",
+"authors":[
+{
+"guid":"E2687EF9805E4BFD957BF98A809F8923",
+"pagename":"Marco-Breveglieri.html",
+"datalevel":5,
+"dataversion":1}],
+"publishers":[
+{
+"guid":"A1DFE3783A504A82A882B10650A029A3",
+"pagename":"Syncfusion.html",
+"datalevel":4,
+"dataversion":1,
+"label":"Syncfusion"}],
+"descriptions":[
+{
+"guid":"667DBF91601C410697170DDA48F38BC8",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"<p>Learn the fundamentals of Delphi to build a variety of solutions for many devices and platforms. Author Marco Breveglieri will provide you with an overview of Delphi, its principles, its environment, and its use of Object Pascal language so that you can harness its versatility. With Delphi Succinctly, the power of Delphi is at your fingertips. <\/p>"}],
+"tocs":[
+{
+"guid":"87DAD7A3A9E34FDE8A5A64ACC75D8D05",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"<p>The Story behind the Succinctly Series of Books<\/p><p>About the Author<\/p><p>Chapter 1 A First Glance at Delphi<\/p><p>A Look Inside the Box<br\/>Libraries and Frameworks<br\/>One Language, Many Projects<br\/>Installing Delphi<br\/>Launching Delphi<br\/>Summary<\/p><p>Chapter 2 Your First Application<\/p><p>Creating a New Project<br\/>Adding Controls<br\/>Responding to Events<br\/>Run Your Application<br\/>Deploy Your Application<br\/>Summary<\/p><p>Chapter 3 Exploring the IDE<\/p><p>The Tool Palette<br\/>The Form Designer<br\/>The Code Editor<br\/>Structure View<br\/>The Object Inspector<br\/>The Project Manager<br\/>Other Panels<br\/>Summary<\/p><p>Chapter 4 The Object Pascal Language<\/p><p>Fundamental Elements<br\/>Variable Declarations<br\/>Variable Assignments<br\/>Basic Data Types<br\/>Record Types<br\/>Operators<br\/>Structured Statements<br\/>Exception Handling<br\/>Summary<\/p><p>Chapter 5 Object-Oriented Programming with Delphi<\/p><p>Classes and Objects<br\/>Instantiating Objects<br\/>Type Checking<br\/>Interfaces<br\/>Class Reference Types<br\/>Summary<\/p><p>Chapter 6 Making Real-World Applications<\/p><p>Introducing the VCL<br\/>Setting Up the Project<br\/>Customize the Main Form<br\/>Creating a Main Menu<br\/>Adding a Main Toolbar<br\/>Defining Commands<br\/>Using Images<br\/>Adding a Rich Text Editor<br\/>Using Standard Actions<br\/>Summary<\/p><p>Chapter 7 Cross-Platform Development with FireMonkey<\/p><p>Creating a Multi-Device Application<br\/>Displaying a List<br\/>Defining a Data Source<br\/>Using LiveBindings<br\/>Accessing Data Using FireDAC<br\/>Adding Commands<br\/>Responding to User Actions<br\/>Running the Application<br\/>Summary<\/p>"}],
+"keywords":[
+]}

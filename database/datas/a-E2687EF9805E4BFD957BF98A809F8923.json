@@ -1,0 +1,27 @@
+﻿{
+"id":95,
+"guid":"E2687EF9805E4BFD957BF98A809F8923",
+"pagename":"Marco-Breveglieri.html",
+"datalevel":5,
+"dataversion":1,
+"lastname":"Breveglieri",
+"firstname":"Marco",
+"website":"https:\/\/www.breveglieri.it\/",
+"descriptions":[
+{
+"guid":"A675D3988B1A4321877D61497E5EB688",
+"pagename":"",
+"datalevel":4,
+"dataversion":1,
+"lang":"en",
+"text":"<p>Marco Breveglieri is an Italian software and web developer. He started programming when he was 14 and got his first home personal computer, a beloved Commodore 16. There were not a lot of games to play with, so he started writing some simple programs using BASIC language. These included a bare calculator, a fake harmless OS, a text-based adventure game, and a music cassette database. Marco spent a lot of time in front of a white and black screen creating software routines, many of which might have seemed useless to everyone but him.<\/p>\r\n<p>Going forward\u2014and getting serious\u2014years later he attended secondary school focusing on computer science, continuing that learning path and taking his first steps from BASIC to Pascal and C++. He earned his diploma and left school saying, \u201CI am so sick, I don\u2019t want to see another line of Pascal code!\u201D Then he met Delphi, and he loved it. Cosmic irony.<\/p>\r\n<p><a href=\"https:\/\/www.syncfusion.com\/succinctly-free-ebooks\/delphi\/about-the-author\">More on this page<\/a><\/p>"}],
+"books":[
+{
+"id":139,
+"guid":"DFE6311793644D24B8E74FBDB30106B9",
+"pagename":"Delphi-Succinctly.html",
+"datalevel":8,
+"dataversion":1,
+"name":"Delphi Succinctly",
+"lang":"en",
+"pubdate":"20160229"}]}

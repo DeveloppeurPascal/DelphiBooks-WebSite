@@ -10,7 +10,7 @@
 			<link>https://delphi-books.com/tr/</link>
 		</image>
 		<language>tr</language>
-		<lastBuildDate>22 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>23 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<atom:link href="https://delphi-books.com/tr/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
@@ -270,6 +270,12 @@
 			<link>https://delphi-books.com/tr/Delphi-Quick-Syntax-Reference.html</link>
 			<guid>https://delphi-books.com/tr/Delphi-Quick-Syntax-Reference.html</guid>
 			<pubDate>5 Aug 2020 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Delphi Succinctly</title>
+			<link>https://delphi-books.com/tr/Delphi-Succinctly.html</link>
+			<guid>https://delphi-books.com/tr/Delphi-Succinctly.html</guid>
+			<pubDate>29 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Delphi Thread Safety Patterns</title>

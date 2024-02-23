@@ -150,6 +150,9 @@
 		<loc>https://delphi-books.com/jp/Delphi-Quick-Syntax-Reference.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
+		<loc>https://delphi-books.com/jp/Delphi-Succinctly.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
 		<loc>https://delphi-books.com/jp/Delphi-Thread-Safety-Patterns.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
@@ -526,6 +529,9 @@
 		<loc>https://delphi-books.com/jp/Sybex.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
+		<loc>https://delphi-books.com/jp/Syncfusion.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
 		<loc>https://delphi-books.com/jp/Systime.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
@@ -711,6 +717,9 @@
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/jp/Loy-Anderson.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/jp/Marco-Breveglieri.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/jp/Marco-Cantu.html</loc>
