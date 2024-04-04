@@ -1,0 +1,20 @@
+﻿{
+"id":96,
+"guid":"57C8EA31594B4F90A881D95305D156BF",
+"pagename":"Antonio-Zapater.html",
+"datalevel":4,
+"dataversion":1,
+"lastname":"Zapater",
+"firstname":"Antonio",
+"descriptions":[
+],
+"books":[
+{
+"id":140,
+"guid":"5E058442BD364C838F7680BF73E83F31",
+"pagename":"RAD-Server-Technical-Guide.html",
+"datalevel":6,
+"dataversion":1,
+"name":"RAD Server Technical Guide",
+"lang":"en",
+"pubdate":"20230915"}]}
