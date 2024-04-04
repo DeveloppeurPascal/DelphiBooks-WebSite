@@ -10,7 +10,7 @@
 			<link>https://delphi-books.com/en/</link>
 		</image>
 		<language>en</language>
-		<lastBuildDate>23 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>4 Apr 2024 00:00:00 GMT</lastBuildDate>
 		<atom:link href="https://delphi-books.com/en/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
@@ -756,6 +756,12 @@
 			<link>https://delphi-books.com/en/Programming-in-Pascal-second-edition.html</link>
 			<guid>https://delphi-books.com/en/Programming-in-Pascal-second-edition.html</guid>
 			<pubDate>1 Mar 1984 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>RAD Server Technical Guide</title>
+			<link>https://delphi-books.com/en/RAD-Server-Technical-Guide.html</link>
+			<guid>https://delphi-books.com/en/RAD-Server-Technical-Guide.html</guid>
+			<pubDate>15 Sep 2023 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Réalisation d'une application de supervision des charges électriques</title>

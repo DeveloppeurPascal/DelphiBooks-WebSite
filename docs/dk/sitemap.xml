@@ -393,6 +393,9 @@
 		<loc>https://delphi-books.com/dk/Programming-in-Pascal-second-edition.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
+		<loc>https://delphi-books.com/dk/RAD-Server-Technical-Guide.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
 		<loc>https://delphi-books.com/dk/Realisation-dune-application-de-supervision-des-charges-electriques.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
@@ -564,6 +567,9 @@
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/dk/Ano-Maki.html</loc>
+		<changefreq>monthly</changefreq>
+	</url><url>
+		<loc>https://delphi-books.com/dk/Antonio-Zapater.html</loc>
 		<changefreq>monthly</changefreq>
 	</url><url>
 		<loc>https://delphi-books.com/dk/Arjan-Jansen.html</loc>
