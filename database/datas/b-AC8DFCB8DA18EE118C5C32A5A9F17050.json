@@ -1,55 +1,27 @@
 ﻿{
 "id":65,
-"url":"",
 "guid":"AC8DFCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-Concurrent-developments-guide-for-iOS-and-Android-Vol1-Development-environment-construction-guide-From-start-to-build-Mastering-DELPHI.html",
-"datalevel":8,
+"pagename":"Delphi-Concurrent-developments-guide-for-iOS-and-Android-Vol1.html",
+"datalevel":10,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi - Concurrent developments guide for iOS and Android Vol1: Development environment construction guide - From start to build Mastering DELPHI",
 "lang":"jp",
 "pubdate":"20200229",
-"thumb":"",
-"isbn10":"",
-"isbn13":"",
-"website":"https:\/\/amzn.to\/3mI8YAX",
-"cover":"",
-"cover_100w":"",
-"cover_150w":"",
-"cover_200w":"",
-"cover_300w":"",
-"cover_400w":"",
-"cover_500w":"",
-"cover_100h":"",
-"cover_200h":"",
-"cover_300h":"",
-"cover_400h":"",
-"cover_500h":"",
-"cover_100x100":"",
-"cover_200x200":"",
-"cover_300x300":"",
-"cover_400x400":"",
-"cover_500x500":"",
-"cover_130x110":"",
+"website":"https:\/\/amzn.to\/3mi8yax",
 "authors":[
 {
 "id":54,
-"url":"",
 "guid":"3E8DFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Ano-Maki.html",
 "datalevel":6,
-"dataversion":1,
-"ispagetobuild":true,
-"name":""}],
+"dataversion":1}],
 "publishers":[
 {
 "id":7,
-"url":"",
 "guid":"682BFDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Amazon-Kindle.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Amazon"}],
 "descriptions":[
 {
@@ -57,7 +29,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"<p>Mobile app development is now an integral part of any business. In the past, it took a lot of time and money to support both iOS and Android devices such as the iPhone. However, Delphi allows you to create apps that work in two different mobile environments with almost the same code. This means a significant cost savings. Furthermore, the screen can be created intuitively with the GUI, and the handling of variables is as simple and clear as a general program language. It already has the various features you need for mobile, and it's easy to add features.<\/p>\n<p>This book was written to help business users who are considering deploying Delphi for mobile development do the validation without spending money and time.<br>\nIn addition, it enables individual developers and hobby programmers who want to develop mobile apps at the lowest possible cost to build a development environment smoothly in a short time. You can avoid the stumbling blocks that often occur with the introduction of Delphi and start programming comfortably.<\/p>\n<p>Delphi saves time! Easy! Cost saving! !!<\/p>\n<p>Note) This book is not a manual about language grammar and basic operation methods.<\/p>"
 },{
@@ -66,7 +37,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"fr",
 "text":"Le d\u00E9veloppement d'applications mobiles fait d\u00E9sormais partie int\u00E9grante de toute entreprise. Dans le pass\u00E9, il fallait beaucoup de temps et d'argent pour prendre en charge les appareils iOS et Android tels que l'iPhone. Mais avec presque le m\u00EAme code, Delphi vous permet de cr\u00E9er des applications qui fonctionnent dans deux environnements mobiles diff\u00E9rents. Cela signifie des \u00E9conomies de co\u00FBts significatives. De plus, l'\u00E9cran peut \u00EAtre cr\u00E9\u00E9 intuitivement avec l'interface graphique, et la gestion des variables est aussi simple et claire qu'un langage de programmation g\u00E9n\u00E9ral. Il dispose d\u00E9j\u00E0 des diff\u00E9rentes fonctionnalit\u00E9s dont vous avez besoin pour mobile et il est facile d'ajouter des fonctionnalit\u00E9s.\n\nCe livre a \u00E9t\u00E9 \u00E9crit pour aider les utilisateurs professionnels qui envisagent de d\u00E9ployer Delphi pour le d\u00E9veloppement mobile \u00E0 le v\u00E9rifier sans perdre de temps et d'argent.\nEn outre, il permet aux d\u00E9veloppeurs individuels et aux amateurs qui souhaitent d\u00E9velopper des applications mobiles au co\u00FBt le plus bas possible de cr\u00E9er un environnement de d\u00E9veloppement en douceur en peu de temps. Vous pouvez commencer \u00E0 programmer confortablement, en \u00E9vitant les obstacles qui se produisent souvent avec l'introduction de Delphi.\n\nDelphi fait gagner du temps! Facile! R\u00E9duction des co\u00FBts! !!\n\nNote) Ce livre n'est pas un manuel sur la grammaire du langage et les m\u00E9thodes de fonctionnement de base."
 },{
@@ -75,7 +45,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"jp",
 "text":"<p>\u30E2\u30D0\u30A4\u30EB\u30A2\u30D7\u30EA\u958B\u767A\u306F\u4ECA\u3084\u3042\u3089\u3086\u308B\u30D3\u30B8\u30CD\u30B9\u306B\u5FC5\u9808\u306E\u8981\u7D20\u3067\u3059\u3002\u3053\u308C\u307E\u3067\u306FiPhone\u306A\u3069\u306EiOS\u3068Android\u306E\u4E21\u30C7\u30D0\u30A4\u30B9\u306B\u5BFE\u5FDC\u3059\u308B\u305F\u3081\u306B\u591A\u304F\u306E\u6642\u9593\u3084\u30B3\u30B9\u30C8\u304C\u5FC5\u8981\u3067\u3057\u305F\u3002\u3057\u304B\u3057Delphi\u306F\u307B\u3068\u3093\u3069\u540C\u4E00\u306E\u30B3\u30FC\u30C9\u3067\u3001\uFF12\u7A2E\u985E\u306E\u30E2\u30D0\u30A4\u30EB\u74B0\u5883\u3067\u52D5\u4F5C\u3059\u308B\u30A2\u30D7\u30EA\u3092\u4F5C\u6210\u3059\u308B\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002\u3053\u308C\u306F\u30B3\u30B9\u30C8\u306E\u5927\u5E45\u306A\u7BC0\u7D04\u3092\u610F\u5473\u3057\u307E\u3059\u3002\u3055\u3089\u306BGUI\u3067\u753B\u9762\u3092\u76F4\u611F\u7684\u306B\u4F5C\u6210\u3067\u304D\u3001\u5909\u6570\u306E\u6271\u3044\u3082\u4E00\u822C\u7684\u306A\u30D7\u30ED\u30B0\u30E9\u30E0\u8A00\u8A9E\u3068\u540C\u69D8\u306B\u5358\u7D14\u660E\u89E3\u3067\u3059\u3002\u30E2\u30D0\u30A4\u30EB\u306B\u5FC5\u8981\u306A\u69D8\u3005\u306A\u6A5F\u80FD\u304C\u65E2\u306B\u7D44\u307F\u8FBC\u307E\u308C\u3066\u3044\u307E\u3059\u3057\u3001\u6A5F\u80FD\u3092\u8FFD\u52A0\u3059\u308B\u306E\u3082\u5BB9\u6613\u3067\u3059\u3002<\/p>\n<p>\u672C\u66F8\u306F\u30E2\u30D0\u30A4\u30EB\u958B\u767A\u306E\u305F\u3081\u306BDelphi\u306E\u5C0E\u5165\u3092\u691C\u8A0E\u3057\u3066\u3044\u308B\u30D3\u30B8\u30CD\u30B9\u30E6\u30FC\u30B6\u304C\u3001\u304A\u91D1\u3068\u6642\u9593\u3092\u304B\u3051\u305A\u306B\u691C\u8A3C\u3092\u884C\u3046\u4E00\u52A9\u3068\u3057\u3066\u66F8\u304B\u308C\u307E\u3057\u305F\u3002<br>\n\u3055\u3089\u306B\u3001\u3067\u304D\u308B\u3060\u3051\u30ED\u30FC\u30B3\u30B9\u30C8\u3067\u30E2\u30D0\u30A4\u30EB\u30A2\u30D7\u30EA\u3092\u958B\u767A\u3057\u305F\u3044\u3068\u8003\u3048\u3066\u3044\u308B\u500B\u4EBA\u958B\u767A\u8005\u3001\u8DA3\u5473\u306E\u30D7\u30ED\u30B0\u30E9\u30DE\u304C\u3001\u77ED\u6642\u9593\u3067\u30B9\u30E0\u30FC\u30BA\u306B\u958B\u767A\u74B0\u5883\u3092\u69CB\u7BC9\u3059\u308B\u306E\u3092\u53EF\u80FD\u306B\u3057\u307E\u3059\u3002Delphi\u306E\u5C0E\u5165\u3067\u8D77\u304D\u304C\u3061\u306A\u3064\u307E\u305A\u304D\u3092\u907F\u3051\u3001\u5FEB\u9069\u306B\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u3092\u59CB\u3081\u308B\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002<\/p>\n<p>Delphi\u306F\u6642\u77ED\uFF01\u7C21\u5358\uFF01\u7701\u30B3\u30B9\u30C8\uFF01\uFF01<\/p>\n<p>\u6CE8\uFF09\u3053\u306E\u66F8\u7C4D\u306F\u8A00\u8A9E\u6587\u6CD5\u3084\u57FA\u672C\u64CD\u4F5C\u65B9\u6CD5\u306B\u3064\u3044\u3066\u306E\u89E3\u8AAC\u66F8\u3067\u306F\u3042\u308A\u307E\u305B\u3093\u3002<\/p>"}],
 "tocs":[
@@ -84,7 +53,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"<p>1. Delphi Advantages<\/p>\n<p>2. Create a development environment<br>\n(1) What you need<br>\n(2) Installation of standard tools<br>\n(3) Install Delphi itself<br>\n(4) Install the patch<\/p>\n<p>3. Preparing for mobile development<br>\n(1) Settings for Android<br>\n(2) Mac settings<br>\n(3) Connect a mobile device (iPhone, iPad) to your Mac<br>\n(4) Temporarily generate an app with Xcode<br>\n(5) About Apple's developer registration<br>\n(6) About lifting restrictions on execution on iOS devices<br>\n(7) Link setting with Mac<\/p>\n<p>4. Build and check the operation of the app<br>\n(1) Creating an Android application<br>\n(2) Creating an iOS app<\/p>\n<p>After the build<\/p>"
 },{
@@ -93,7 +61,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"fr",
 "text":"1. Avantage Delphi\n2. Cr\u00E9er un environnement de d\u00E9veloppement\n(1) Ce dont vous avez besoin\n(2) Installation d'outils standards\n(3) Installez Delphi lui-m\u00EAme\n(4) Installez le patch\n3. Pr\u00E9paration au d\u00E9veloppement mobile\n(1) Param\u00E8tres pour Android\n(2) Param\u00E8tres Mac\n(3) Connectez un appareil mobile (iPhone, iPad) \u00E0 votre Mac\n(4) G\u00E9n\u00E9rer temporairement une application avec Xcode\n(5) \u00C0 propos de l'enregistrement des d\u00E9veloppeurs Apple\n(6) \u00C0 propos de la lev\u00E9e des restrictions d'ex\u00E9cution sur les appareils iOS\n(7) Param\u00E8tres de liaison avec Mac\n4. Construisez et v\u00E9rifiez le fonctionnement de l'application\n(1) Cr\u00E9er une application Android\n(2) Cr\u00E9ation d'une application iOS\nApr\u00E8s la construction"
 },{
@@ -102,7 +69,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"jp",
 "text":"<p>1. Delphi\u306E\u30A2\u30C9\u30D0\u30F3\u30C6\u30FC\u30B8<\/p>\n<p>2. \u958B\u767A\u74B0\u5883\u3092\u4F5C\u6210\u3059\u308B<br>\n\uFF081\uFF09\u5FC5\u8981\u306A\u3082\u306E<br>\n\uFF082\uFF09\u6A19\u6E96\u30C4\u30FC\u30EB\u306E\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB<br>\n\uFF083\uFF09Delphi\u672C\u4F53\u3092\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\u3059\u308B<br>\n\uFF084\uFF09\u30D1\u30C3\u30C1\u3092\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\u3059\u308B<\/p>\n<p>3. \u30E2\u30D0\u30A4\u30EB\u958B\u767A\u306E\u6E96\u5099<br>\n\uFF081\uFF09Android\u306E\u305F\u3081\u306E\u8A2D\u5B9A<br>\n\uFF082\uFF09Mac\u306E\u8A2D\u5B9A<br>\n\uFF083\uFF09Mac\u306B\u30E2\u30D0\u30A4\u30EB\u30C7\u30D0\u30A4\u30B9(iPhone\u3001iPad)\u3092\u3064\u306A\u3050<br>\n\uFF084\uFF09Xcode\u3067\u30A2\u30D7\u30EA\u3092\u4EEE\u751F\u6210\u3059\u308B<br>\n\uFF085\uFF09Apple\u306E\u958B\u767A\u8005\u767B\u9332\u306B\u3064\u3044\u3066<br>\n\uFF086\uFF09iOS\u30C7\u30D0\u30A4\u30B9\u3067\u306E\u5B9F\u884C\u5236\u9650\u306E\u89E3\u9664\u306B\u3064\u3044\u3066<br>\n\uFF087\uFF09Mac\u3068\u306E\u9023\u643A\u8A2D\u5B9A<\/p>\n<p>4. \u30A2\u30D7\u30EA\u306E\u30D3\u30EB\u30C9\u3068\u52D5\u4F5C\u78BA\u8A8D<br>\n\uFF081\uFF09Android\u30A2\u30D7\u30EA\u306E\u4F5C\u6210<br>\n\uFF082\uFF09iOS\u30A2\u30D7\u30EA\u306E\u4F5C\u6210<\/p>\n<p>\u30D3\u30EB\u30C9\u3092\u7D42\u3048\u3066<\/p>"}],
 "keywords":[
