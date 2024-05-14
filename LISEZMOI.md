@@ -36,7 +36,7 @@ Vous pouvez aussi cloner ce dépôt de code et participer à ses évolutions en 
 
 ## Licence
 
-Ce projet est distribué sous licence [MIT license] (https://choosealicense.com/licenses/mit/).
+Ce projet est distribué sous licence [MIT license](https://choosealicense.com/licenses/mit/).
 
 Les données fournies sont des données publiques. Elles peuvent être utilisées en direct (en spécifiant la provenance "delphi-books.com") ou par l'intermédiaire de l'[API du site Internet](https://delphi-books.com/opendata.html).
 
