@@ -1,55 +1,27 @@
 ﻿{
 "id":66,
-"url":"",
 "guid":"D28FFCB8DA18EE118C5C32A5A9F17050",
-"pagename":"Delphi-Concurrent-developments-guide-for-iOS-and-Android-Vol2-Development-guide-I-Tips-for-commonality-Mastering-DELPHI.html",
-"datalevel":8,
+"pagename":"Delphi-Concurrent-developments-guide-for-iOS-and-Android-Vol2.html",
+"datalevel":10,
 "dataversion":1,
-"ispagetobuild":true,
 "name":"Delphi - Concurrent developments guide for iOS and Android Vol2: Development guide I - Tips for commonality Mastering DELPHI",
 "lang":"jp",
 "pubdate":"20200405",
-"thumb":"",
-"isbn10":"",
-"isbn13":"",
-"website":"https:\/\/amzn.to\/3kDdiAK",
-"cover":"",
-"cover_100w":"",
-"cover_150w":"",
-"cover_200w":"",
-"cover_300w":"",
-"cover_400w":"",
-"cover_500w":"",
-"cover_100h":"",
-"cover_200h":"",
-"cover_300h":"",
-"cover_400h":"",
-"cover_500h":"",
-"cover_100x100":"",
-"cover_200x200":"",
-"cover_300x300":"",
-"cover_400x400":"",
-"cover_500x500":"",
-"cover_130x110":"",
+"website":"https:\/\/amzn.to\/3kddiak",
 "authors":[
 {
 "id":54,
-"url":"",
 "guid":"3E8DFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Ano-Maki.html",
 "datalevel":6,
-"dataversion":1,
-"ispagetobuild":true,
-"name":""}],
+"dataversion":1}],
 "publishers":[
 {
 "id":7,
-"url":"",
 "guid":"682BFDB8DA18EE118C5C32A5A9F17050",
 "pagename":"Amazon-Kindle.html",
 "datalevel":4,
 "dataversion":1,
-"ispagetobuild":true,
 "label":"Amazon"}],
 "descriptions":[
 {
@@ -57,7 +29,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"<p>Mobile app development is now an integral part of any business. In the past, it took a lot of time and money to support both iOS and Android devices such as the iPhone. However, Delphi allows you to create apps that work in two different mobile environments with almost the same code. This means that significant cost savings are possible. Furthermore, the screen can be created intuitively with the GUI, and the handling of variables is as simple and clear as a general program language. It already has the various features you need for mobile, and it's easy to add features.<\/p>\n<p>This book was written as a hint for users who are new to or are considering using Delphi for mobile development.<br>\nThrough concrete examples, we provide information on what Delphi can do and why it is worth using for mobile app development.<\/p>\n<p>Delphi saves time! Easy! Cost saving! !!<\/p>\n<p>Note) This book is not a manual or reference for language grammar and basic operation methods.<\/p>"
 },{
@@ -66,7 +37,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"fr",
 "text":"Le d\u00E9veloppement d'applications mobiles fait d\u00E9sormais partie int\u00E9grante de toute entreprise. Dans le pass\u00E9, il fallait beaucoup de temps et d'argent pour prendre en charge les appareils iOS et Android tels que l'iPhone. Mais avec presque le m\u00EAme code, Delphi vous permet de cr\u00E9er des applications qui fonctionnent dans deux environnements mobiles diff\u00E9rents. Cela signifie que des \u00E9conomies de co\u00FBts significatives sont possibles. De plus, l'\u00E9cran peut \u00EAtre cr\u00E9\u00E9 intuitivement avec l'interface graphique, et la gestion des variables est aussi simple et claire qu'un langage de programmation g\u00E9n\u00E9ral. Il dispose d\u00E9j\u00E0 des diff\u00E9rentes fonctionnalit\u00E9s dont vous avez besoin pour mobile et il est facile d'ajouter des fonctionnalit\u00E9s.\n\nCe livre a \u00E9t\u00E9 \u00E9crit comme un conseil pour les utilisateurs qui sont nouveaux ou envisagent d'utiliser Delphi pour le d\u00E9veloppement mobile.\n\u00C0 travers des exemples concrets, nous fournissons des informations sur ce que vous pouvez faire avec Delphi et pourquoi cela vaut la peine de l'utiliser pour le d\u00E9veloppement d'applications mobiles.\n\nDelphi fait gagner du temps! Facile! R\u00E9duction des co\u00FBts! !!\n\nNote) Ce livre n'est pas un manuel ou une r\u00E9f\u00E9rence pour la grammaire du langage et les m\u00E9thodes de fonctionnement de base."
 },{
@@ -75,7 +45,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"jp",
 "text":"<p>\u30E2\u30D0\u30A4\u30EB\u30A2\u30D7\u30EA\u958B\u767A\u306F\u4ECA\u3084\u3042\u3089\u3086\u308B\u30D3\u30B8\u30CD\u30B9\u306B\u5FC5\u9808\u306E\u8981\u7D20\u3067\u3059\u3002\u3053\u308C\u307E\u3067\u306FiPhone\u306A\u3069\u306EiOS\u3068Android\u306E\u4E21\u30C7\u30D0\u30A4\u30B9\u306B\u5BFE\u5FDC\u3059\u308B\u305F\u3081\u306B\u591A\u304F\u306E\u6642\u9593\u3084\u30B3\u30B9\u30C8\u304C\u5FC5\u8981\u3067\u3057\u305F\u3002\u3057\u304B\u3057Delphi\u306F\u307B\u3068\u3093\u3069\u540C\u4E00\u306E\u30B3\u30FC\u30C9\u3067\u3001\uFF12\u7A2E\u985E\u306E\u30E2\u30D0\u30A4\u30EB\u74B0\u5883\u3067\u52D5\u4F5C\u3059\u308B\u30A2\u30D7\u30EA\u3092\u4F5C\u6210\u3059\u308B\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002\u3053\u308C\u306F\u30B3\u30B9\u30C8\u306E\u5927\u5E45\u306A\u7BC0\u7D04\u304C\u53EF\u80FD\u3067\u3042\u308B\u3053\u3068\u3092\u610F\u5473\u3057\u307E\u3059\u3002\u3055\u3089\u306BGUI\u3067\u753B\u9762\u3092\u76F4\u611F\u7684\u306B\u4F5C\u6210\u3067\u304D\u3001\u5909\u6570\u306E\u6271\u3044\u3082\u4E00\u822C\u7684\u306A\u30D7\u30ED\u30B0\u30E9\u30E0\u8A00\u8A9E\u3068\u540C\u69D8\u306B\u5358\u7D14\u660E\u89E3\u3067\u3059\u3002\u30E2\u30D0\u30A4\u30EB\u306B\u5FC5\u8981\u306A\u69D8\u3005\u306A\u6A5F\u80FD\u304C\u65E2\u306B\u7D44\u307F\u8FBC\u307E\u308C\u3066\u3044\u307E\u3059\u3057\u3001\u6A5F\u80FD\u3092\u8FFD\u52A0\u3059\u308B\u306E\u3082\u5BB9\u6613\u3067\u3059\u3002<\/p>\n<p>\u672C\u66F8\u306F\u30E2\u30D0\u30A4\u30EB\u958B\u767A\u306BDelphi\u3092\u4F7F\u3044\u59CB\u3081\u3066\u3044\u308B\u3001\u3042\u308B\u3044\u306F\u4F7F\u3046\u3053\u3068\u3092\u691C\u8A0E\u3057\u3066\u3044\u308B\u30E6\u30FC\u30B6\u306E\u305F\u3081\u306E\u30D2\u30F3\u30C8\u3068\u3057\u3066\u57F7\u7B46\u3055\u308C\u307E\u3057\u305F\u3002<br>\n\u5177\u4F53\u4F8B\u3092\u901A\u3057\u3066Delphi\u3067\u4F55\u304C\u3067\u304D\u308B\u304B\u3001\u306A\u305C\u30E2\u30D0\u30A4\u30EB\u30A2\u30D7\u30EA\u958B\u767A\u306B\u4F7F\u3046\u4FA1\u5024\u304C\u3042\u308B\u306E\u304B\u60C5\u5831\u3092\u63D0\u4F9B\u3057\u3066\u3044\u307E\u3059\u3002<\/p>\n<p>Delphi\u306F\u6642\u77ED\uFF01\u7C21\u5358\uFF01\u7701\u30B3\u30B9\u30C8\uFF01\uFF01<\/p>\n<p>\u6CE8\uFF09\u3053\u306E\u66F8\u7C4D\u306F\u8A00\u8A9E\u6587\u6CD5\u3084\u57FA\u672C\u64CD\u4F5C\u65B9\u6CD5\u306B\u3064\u3044\u3066\u306E\u89E3\u8AAC\u66F8\u30FB\u30EA\u30D5\u30A1\u30EC\u30F3\u30B9\u3067\u306F\u3042\u308A\u307E\u305B\u3093\u3002<\/p>"}],
 "tocs":[
@@ -84,7 +53,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"en",
 "text":"<p>1. Delphi Advantages<br>\n(1) Many components<br>\n(2) Screen design by GUI<br>\n(3) Many classes<br>\n(4) Coding for each device is possible<\/p>\n<p>2. Isolation of uses clause<br>\n(1) What is the uses clause?<br>\n(2) When the uses clause is different for each device<br>\n(3) When the file structure of the project changes for each device<\/p>\n<p>3. Fill in device differences<br>\n(1) On Android, draw the screen with the UI thread<br>\n(2) Run a background process on iOS<\/p>\n<p>4. Common enhancements<br>\n(1) Create an in-app web browser<br>\n(2) Add functions to components<br>\n(3) Create by inheriting existing components<br>\n(4) Describe the processing of the control<br>\n(5) Build the control<br>\n(6) Use the created control<\/p>\n<p>5. Responsive design of app screen<br>\n(1) Actual screen design<br>\nUse of layout components<br>\nBasics of layout component placement<br>\nTypes of layout components<br>\n(2) Use Fire UI<br>\nSettings on the PC side<br>\nSettings on the mobile device side<\/p>"
 },{
@@ -93,7 +61,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"fr",
 "text":"1. Avantage Delphi\n(1) De nombreux composants\n(2) Conception d'\u00E9cran par GUI\n(3) De nombreuses classes\n(4) Le codage pour chaque appareil est possible\n2. Clause d'isolement des usages\n(1) Quelle est la clause uses?\n(2) Lorsque la clause uses est diff\u00E9rente pour chaque appareil\n(3) Lorsque la structure des fichiers du projet change pour chaque appareil\n3. Remplissez les diff\u00E9rences entre les appareils\n(1) Sur Android, dessinez l'\u00E9cran avec le fil UI\n(2) Ex\u00E9cutez un processus d'arri\u00E8re-plan sur iOS\n4. Am\u00E9liorations courantes\n(1) Cr\u00E9er un navigateur Web int\u00E9gr\u00E9 \u00E0 l'application\nAjouter des fonctions aux composants\nCr\u00E9er en h\u00E9ritant des composants existants\nD\u00E9crivez le traitement du contr\u00F4le\nConstruisez le contr\u00F4le\nUtiliser le contr\u00F4le cr\u00E9\u00E9\n5. Conception r\u00E9active de l'\u00E9cran de l'application\n(1) Conception r\u00E9elle de l'\u00E9cran\nUtilisation des composants de mise en page\nPrincipes de base du placement des composants de pr\u00E9sentation\nTypes de composants de mise en page\n(2) Utiliser Fire UI\nParam\u00E8tres c\u00F4t\u00E9 PC\nParam\u00E8tres c\u00F4t\u00E9 appareil mobile"
 },{
@@ -102,7 +69,6 @@
 "pagename":"",
 "datalevel":3,
 "dataversion":1,
-"ispagetobuild":true,
 "lang":"jp",
 "text":"1. Delphi\u306E\u30A2\u30C9\u30D0\u30F3\u30C6\u30FC\u30B8\n\uFF081\uFF09\u591A\u6570\u306E\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8\n\uFF082\uFF09GUI\u306B\u3088\u308B\u753B\u9762\u8A2D\u8A08\n\uFF083\uFF09\u591A\u6570\u306E\u30AF\u30E9\u30B9\n\uFF084\uFF09\u30C7\u30D0\u30A4\u30B9\u3054\u3068\u306E\u30B3\u30FC\u30C7\u30A3\u30F3\u30B0\u304C\u53EF\u80FD\n2.uses\u53E5\u306E\u5207\u308A\u5206\u3051\n\uFF081\uFF09uses\u53E5\u3068\u306F\n\uFF082\uFF09uses\u53E5\u304C\u30C7\u30D0\u30A4\u30B9\u3054\u3068\u306B\u7570\u306A\u308B\u5834\u5408\n\uFF083\uFF09\u30C7\u30D0\u30A4\u30B9\u3054\u3068\u306B\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\u306E\u30D5\u30A1\u30A4\u30EB\u69CB\u6210\u304C\u5909\u308F\u308B\u5834\u5408\n3.\u30C7\u30D0\u30A4\u30B9\u306E\u5DEE\u7570\u3092\u57CB\u3081\u308B\n\uFF081\uFF09Android\u3067\u306FUI\u30B9\u30EC\u30C3\u30C9\u3067\u753B\u9762\u3092\u63CF\u753B\u3059\u308B\n\uFF082\uFF09iOS\u3067\u30D0\u30C3\u30AF\u30B0\u30E9\u30A6\u30F3\u30C9\u30D7\u30ED\u30BB\u30B9\u3092\u5B9F\u884C\u3059\u308B\n4.\u5171\u901A\u306E\u6A5F\u80FD\u62E1\u5F35\n\uFF081\uFF09\u30A2\u30D7\u30EA\u5185\u30A6\u30A7\u30D6\u30D6\u30E9\u30A6\u30B6\u3092\u4F5C\u6210\u3059\u308B\n\u3000\u3000\u3000\u3000\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8\u306B\u6A5F\u80FD\u3092\u8FFD\u52A0\u3059\u308B\n\u3000\u3000\u3000\u3000\u65E2\u5B58\u306E\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8\u3092\u7D99\u627F\u3057\u3066\u4F5C\u6210\u3059\u308B\n\u3000\u3000\u3000\u3000\u30B3\u30F3\u30C8\u30ED\u30FC\u30EB\u306E\u51E6\u7406\u3092\u8A18\u8FF0\u3059\u308B\n\u3000\u3000\u3000\u3000\u30B3\u30F3\u30C8\u30ED\u30FC\u30EB\u3092\u30D3\u30EB\u30C9\u3059\u308B\n\u3000\u3000\u3000\u3000\u4F5C\u3063\u305F\u30B3\u30F3\u30C8\u30ED\u30FC\u30EB\u3092\u4F7F\u7528\u3059\u308B\n5.\u30A2\u30D7\u30EA\u753B\u9762\u306E\u30EC\u30B9\u30DD\u30F3\u30B7\u30D6\u30C7\u30B6\u30A4\u30F3\n\uFF081\uFF09\u753B\u9762\u8A2D\u8A08\u306E\u5B9F\u969B\n\u3000\u3000\u3000\u3000\u30EC\u30A4\u30A2\u30A6\u30C8\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8\u306E\u4F7F\u7528\n\u3000\u3000\u3000\u3000\u30EC\u30A4\u30A2\u30A6\u30C8\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8\u306E\u914D\u7F6E\u306E\u57FA\u672C\n\u3000\u3000\u3000\u3000\u30EC\u30A4\u30A2\u30A6\u30C8\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8\u306E\u7A2E\u985E\n\uFF082\uFF09FireUI\u3092\u4F7F\u3046\n\u3000\u3000\u3000\u3000\uFF30\uFF23\u5074\u306E\u8A2D\u5B9A\n\u3000\u3000\u3000\u3000\u30E2\u30D0\u30A4\u30EB\u6A5F\u5668\u5074\u306E\u8A2D\u5B9A"}],
 "keywords":[
