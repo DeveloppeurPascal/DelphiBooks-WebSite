@@ -24,6 +24,7 @@ livre_langue_libelle
 livre_langue_code_iso
 livre_langue_nom_page
 livre_photo
+livre_datalevel
 if livre_a_photo
 
 liste_commentaires_par_livre
@@ -74,6 +75,7 @@ editeur_url_site
 if editeur_a_url_site
 editeur_nom_page
 editeur_photo
+editeur_datalevel
 if editeur_a_photo
 
 liste_descriptions_par_editeur
@@ -94,6 +96,7 @@ if auteur_a_url_site
 auteur_nom_page
 auteur_photo
 if auteur_a_photo
+auteur_datalevel
 
 liste_descriptions_par_auteur
 auteur_description
