@@ -1,6 +1,6 @@
 # Delphi-Books.com
 
-[This page in english.](README.md)
+[This page in English.](README.md)
 
 Source et service d'hébergement du site [Delphi-Books.com](https://delphi-books.com).
 
