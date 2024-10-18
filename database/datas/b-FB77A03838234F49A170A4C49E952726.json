@@ -1,0 +1,39 @@
+﻿{
+"guid":"FB77A03838234F49A170A4C49E952726",
+"pagename":"Pioneering-Simplicity.html",
+"datalevel":8,
+"dataversion":1,
+"hasnewimage":true,
+"name":"Pioneering Simplicity",
+"lang":"en",
+"pubdate":"20241002",
+"isbn10":"9083440311",
+"isbn13":"9789083440316",
+"website":"https:\/\/marcogeuze.com\/pioneering-simplicity",
+"authors":[
+{
+"id":85,
+"guid":"AEEAFCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Marco-Geuze.html",
+"datalevel":6,
+"dataversion":1}],
+"publishers":[
+],
+"descriptions":[
+{
+"guid":"4C584CB1A1CA4A82BCF74D1AA6527456",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"<p>The story behind the evolution of Pascal and Delphi<\/p><p>Step into the fascinating world of two programming languages that reshaped the digital landscape : Pascal and Delphi. From the innovative mind of Niklaus Wirth at Zurich\u2019s ETH to the global software revolutions powered by Borland\u2019s Turbo Pascal, Pioneering Simplicity unravels the story of how simplicity and efficiency became the core of modern software development.<\/p><p>Filled with behind-the-scenes stories from key players like Anders Hejlsberg, Zack Urlocker, Allen Bauer and Chuck Jazdzewski, this book dives deep into the heart of programming history and showcases the development environment that sparked the era of rapid application building.<\/p>"}],
+"tocs":[
+{
+"guid":"C286A9C19CA842298CF627059070C1D8",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"<p>1. Introduction<br>\r\n2. Blaise Pascal<br>\r\n3. The early days<br>\r\n4. Pascal<br>\r\n5. Turbo Pascal and Borland<br>\r\n6. The world changes<br>\r\n7. Delphi<br>\r\n8. Some mistakes were made<br>\r\n9. Recent history and the future<\/p>"}],
+"keywords":[
+]}
