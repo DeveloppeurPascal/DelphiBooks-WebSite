@@ -10,10 +10,20 @@
 ],
 "books":[
 {
+"id":143,
+"guid":"71E6BE3B031C44A3948C9CDF7732DF8B",
+"pagename":"HTMX-WebStencils-Fast-Web-Development-with-RAD-Studio.html",
+"datalevel":7,
+"dataversion":1,
+"name":"HTMX & WebStencils : Fast Web Development with RAD Studio",
+"lang":"en",
+"pubdate":"20241113"
+},{
+
 "id":140,
 "guid":"5E058442BD364C838F7680BF73E83F31",
 "pagename":"RAD-Server-Technical-Guide.html",
-"datalevel":6,
+"datalevel":8,
 "dataversion":1,
 "name":"RAD Server Technical Guide",
 "lang":"en",

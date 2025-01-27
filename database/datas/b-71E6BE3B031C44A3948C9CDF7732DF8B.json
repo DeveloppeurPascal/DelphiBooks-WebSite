@@ -1,0 +1,43 @@
+﻿{
+"id":143,
+"guid":"71E6BE3B031C44A3948C9CDF7732DF8B",
+"pagename":"HTMX-WebStencils-Fast-Web-Development-with-RAD-Studio.html",
+"datalevel":7,
+"dataversion":1,
+"name":"HTMX & WebStencils : Fast Web Development with RAD Studio",
+"lang":"en",
+"pubdate":"20241113",
+"website":"https:\/\/lp.embarcadero.com\/htmx-webstencils",
+"authors":[
+{
+"id":96,
+"guid":"57C8EA31594B4F90A881D95305D156BF",
+"pagename":"Antonio-Zapater.html",
+"datalevel":4,
+"dataversion":1}],
+"publishers":[
+{
+"id":23,
+"guid":"1A6AFDB8DA18EE118C5C32A5A9F17050",
+"pagename":"Embarcadero.html",
+"datalevel":4,
+"dataversion":1,
+"label":"Embarcadero"}],
+"descriptions":[
+{
+"guid":"E3F6454574F54AC9A8EBFC72E5A9F8A2",
+"pagename":"",
+"datalevel":4,
+"dataversion":1,
+"lang":"en",
+"text":"<p>This book focuses on a modern, streamlined approach to web development using HTMX and WebStencils.<br\/><br\/>HTMX is a lightweight JavaScript alternative for building dynamic web user interfaces and is becoming the goto solution for web developers as it helps them significantly reduce the amount of JavaScript they need to write, making the development process faster and more intuitive, simpler to read and debug and easier to maintain.<br\/><br\/>HTMX\u2019s simplicity aligns perfectly with RAD Studio\u2019s rapid application development ethos, allowing developers to focus more on application logic instead of struggling with complex front-end code.<br\/><br\/>The beauty of WebStencils lies in its template-driven architecture. Instead of reinventing the wheel, developers can expose existing business logic via reusable and customisable templates that seamlessly integrate with existing applications, reducing the friction of bringing older projects to the web. This not only accelerates development but also enhances collaboration between development teams, enabling them to work more closely with existing codebases.<br\/><br\/>By reading this book, you will learn how to leverage the power of HTMX and WebStencils to develop modern web applications with less effort and greater flexibility. Whether you are working on enhancing existing desktop applications for the web or building new, dynamic web projects, this book provides practical insights to help you get the most out of RAD Studio\u2019s evolving web development ecosystem.<br\/><br\/>You can learn more about RAD Studio or download a free trial to code along with the examples in this book from <a href=\"https:\/\/www.embarcadero.com\/products\/rad-studio\">https:\/\/www.embarcadero.com\/products\/rad-studio<\/a><br\/><br\/>Let\u2019s dive into how these technologies can simplify your workflow and take your web development projects to the next level!&nbsp;<\/p>"}],
+"tocs":[
+{
+"guid":"F50C8989EA59403989B905533B4D41F3",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"<p>Preface<\/p>\r\n<p>01 - Introduction to HTMX<\/p>\r\n<p>What is HTMX?<br>\r\nBrief Overview<br>\r\nComparison with Traditional JavaScript and AJAX<br>\r\nCore Concepts<br>\r\nhx-get: Fetching Content via GET Requests<br>\r\nhx-target: Specifying the Target Element for the Response<br>\r\nhx-post: Submitting Data via POST Requests<br>\r\nhx-put, hx-patch, hx-delete Requests<br>\r\nhx-swap: Controlling How Content is Swapped<br>\r\nAdditional Core Concepts<\/p>\r\n<p>02 - Introduction to WebBroker<\/p>\r\n<p>What is WebBroker?<br>\r\nKey Features of WebBroker<br>\r\nCore Concepts<br>\r\nComponents and Architecture<br>\r\nCreating a WebBroker Application<br>\r\nHandling Requests and Responses<br>\r\nDeployment and Scalability<br>\r\nSession Management in WebBroker<br>\r\nApproaches to Session Management<br>\r\nImplementing In-Memory Session Management<br>\r\nIntegrating Session Management into WebModule<br>\r\nSecurity Considerations<br>\r\nCSRF Protection<br>\r\nData Validation<br>\r\nCross-site Scripting (XSS)<br>\r\nOther Security Considerations<\/p>\r\n<p>03 - Developing your first web app using WebBroker<\/p>\r\n<p>Introduction<br>\r\nCreating a \"Hello World\" Application<br>\r\nBasic To-Do App<\/p>\r\n<p>04 - Advanced Attributes and Security Using HTMX<\/p>\r\n<p>Introduction<br>\r\nAdvanced Attributes<br>\r\nhx-put and hx-delete: Submitting Requests via PUT and DELETE<br>\r\nhx-trigger: Customizing Event Triggers<br>\r\nhx-select: Selecting Parts of the Server Response<br>\r\nhx-include: Including Additional Data in Requests<br>\r\nhx-push-url: Updating the Browser's URL<\/p>\r\n<p>05 - Introduction to WebStencils<\/p>\r\n<p>What is WebStencils?<br>\r\nCore Concept<br>\r\nIntegration with HTMX<br>\r\nCSS and JS Agnostic<br>\r\nWebStencils Syntax<br>\r\nThe @ Symbol<br>\r\nCurly Braces for Blocks { }<br>\r\nAccessing Values with the Dot Notation<br>\r\nWebStencils Keywords and Examples<br>\r\n@page<br>\r\n@query<br>\r\nComments (@*.*@)<br>\r\n@if and @else<br>\r\n@if not<br>\r\n@ForEach<br>\r\nConclusion<\/p>\r\n<p>06 - Components and Layouts Options<\/p>\r\n<p>Introduction<br>\r\nWebStencils Components<br>\r\nWebStencils Engine<br>\r\nWebStencils Processor<br>\r\nTWebStencilsEngine and WebBroker<br>\r\nAdding Data with AddVar<br>\r\nLayout and Content Placeholders<br>\r\n@RenderBody<br>\r\n@LayoutPage<br>\r\n@Import<br>\r\n@ExtraHeader and @RenderHeader<br>\r\nTemplate Patterns<br>\r\nStandard Layout<br>\r\nHeader\/Body\/Footer<br>\r\nReusable Components<br>\r\nConclusion<\/p>\r\n<p>07 - Migrating the T o-Do app to WebStencils<\/p>\r\n<p>Introduction<br>\r\nConverting HTML Constants to Templates<br>\r\nMain Layout Template<br>\r\nTo-Do List Template<br>\r\nUpdating the WebModule<br>\r\nAdding Extra Functionality<br>\r\nTask Categories<br>\r\nTask Filtering<br>\r\nConclusion<\/p>\r\n<p>08 - Advanced Options with WebStencils<\/p>\r\n<p>Introduction<br>\r\n@query Keyword<br>\r\n@Scaffolding<br>\r\n@LoginRequired<br>\r\nOnValue Event Handler<br>\r\nTemplate Patterns<br>\r\nStandard Layout<br>\r\nHeader\/Body\/Footer<br>\r\nReusable Components<br>\r\nConclusion<\/p>\r\n<p>09 - Using RAD Server Integration with WebStencils<\/p>\r\n<p>Introduction<br>\r\nIntegrating WebStencils with RAD Server<br>\r\nUsing WebStencils Processors<br>\r\nUsing WebStencils Engine<br>\r\nRecreating the Tasks app to RAD Server<br>\r\nDatabase management<br>\r\nController arguments<br>\r\nFrom Actions to Endpoints<br>\r\nProcessing data on the requests<br>\r\nHandling static JS, CSS and images<br>\r\nFrontend sources<\/p>\r\n<p>10- Resources and Further Learning<\/p>\r\n<p>Documentation and links<br>\r\nOfficial HTMX documentation (HTMX.org)<br>\r\nDelphi and HTMX (Embarcadero Blog)<br>\r\nRAD Server T echnical Guide<br>\r\nHTMX in an MVC Pattern (HTMX.org)<br>\r\nWebStencils (DocWiki)<br>\r\nUI\/CSS libraries<br>\r\nExtending HTMX even further<br>\r\nAlpineJS<br>\r\nHyperscript<\/p>"}],
+"keywords":[
+]}
