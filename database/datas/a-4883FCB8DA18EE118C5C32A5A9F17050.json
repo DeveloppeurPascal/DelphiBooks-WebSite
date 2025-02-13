@@ -2,10 +2,11 @@
 "id":49,
 "guid":"4883FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Prasnikar-Neven-Jr.html",
-"datalevel":6,
+"datalevel":7,
 "dataversion":1,
 "lastname":"Prasnikar",
 "firstname":"Neven Jr",
+"website":"https:\/\/www.linkedin.com\/in\/dalolorn\/",
 "descriptions":[
 ],
 "books":[
@@ -23,11 +24,11 @@
 "id":144,
 "guid":"09426F577CAA4A92BE076C80B58E151D",
 "pagename":"Delphi-Quality-Driven-Development.html",
-"datalevel":7,
+"datalevel":8,
 "dataversion":1,
 "name":"Delphi Quality-Driven Development",
 "lang":"en",
-"pubdate":"20250213"
+"pubdate":"20250212"
 },{
 
 "id":123,

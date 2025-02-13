@@ -2,13 +2,19 @@
 "id":48,
 "guid":"EA81FCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Dalija-Prasnikar.html",
-"datalevel":6,
+"datalevel":7,
 "dataversion":1,
 "lastname":"Prasnikar",
 "firstname":"Dalija",
-"website":"https:\/\/dalijap.blogspot.com",
+"website":"https:\/\/dalija.prasnikar.info",
 "descriptions":[
-],
+{
+"guid":"896E927ABCAC4E52A72F645AA91A33D2",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"<p>Blog : <a href=\"https:\/\/dalijap.blogspot.com\">https:\/\/dalijap.blogspot.com<\/a><\/p><p>LinkedIn : <a href=\"https:\/\/www.linkedin.com\/in\/dalijap\/\">https:\/\/www.linkedin.com\/in\/dalijap\/<\/a><\/p>"}],
 "books":[
 {
 "id":84,
@@ -24,11 +30,11 @@
 "id":144,
 "guid":"09426F577CAA4A92BE076C80B58E151D",
 "pagename":"Delphi-Quality-Driven-Development.html",
-"datalevel":7,
+"datalevel":8,
 "dataversion":1,
 "name":"Delphi Quality-Driven Development",
 "lang":"en",
-"pubdate":"20250213"
+"pubdate":"20250212"
 },{
 
 "id":123,
