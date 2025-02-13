@@ -2,12 +2,19 @@
 "id":96,
 "guid":"57C8EA31594B4F90A881D95305D156BF",
 "pagename":"Antonio-Zapater.html",
-"datalevel":4,
+"datalevel":5,
 "dataversion":1,
 "lastname":"Zapater",
 "firstname":"Antonio",
+"website":"https:\/\/www.linkedin.com\/in\/azapater\/",
 "descriptions":[
-],
+{
+"guid":"0CFF88B884134F44A0488E684902AA9D",
+"pagename":"",
+"datalevel":4,
+"dataversion":1,
+"lang":"en",
+"text":"<p>Pre-sales consultant engineer at Embarcadero Inc. and technical author of different books about Delphi and RAD Studio. Has a strong background in enterprise software development, having built and implemented ERP solutions for the retail sector for many years. Combines practical expertise in Delphi development with database modelling, legacy code migration, mobile development with FireMonkey, full-stack web development, API design, containerization, and Linux services development. Uses this technical background to help organizations improve their development processes and get the most out of Embarcadero products.<\/p><p>Check <a href=\"https:\/\/github.com\/azapater\">his GitHub repository<\/a> or connect on <a href=\"https:\/\/www.linkedin.com\/in\/azapater\/\">LinkedIn<\/a>.<\/p>"}],
 "books":[
 {
 "id":143,
