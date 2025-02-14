@@ -10,6 +10,16 @@
 ],
 "books":[
 {
+"id":145,
+"guid":"80C7A3140B2D4677A71F7FAAF9B487F5",
+"pagename":"Getting-started-with-RAD-Studio.html",
+"datalevel":6,
+"dataversion":1,
+"name":"Getting started with RAD Studio",
+"lang":"en",
+"pubdate":"20250214"
+},{
+
 "id":143,
 "guid":"71E6BE3B031C44A3948C9CDF7732DF8B",
 "pagename":"HTMX-WebStencils-Fast-Web-Development-with-RAD-Studio.html",

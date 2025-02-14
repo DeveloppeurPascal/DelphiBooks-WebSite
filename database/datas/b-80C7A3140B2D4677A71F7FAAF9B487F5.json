@@ -1,0 +1,38 @@
+﻿{
+"id":145,
+"guid":"80C7A3140B2D4677A71F7FAAF9B487F5",
+"pagename":"Getting-started-with-RAD-Studio.html",
+"datalevel":6,
+"dataversion":1,
+"name":"Getting started with RAD Studio",
+"lang":"en",
+"pubdate":"20250214",
+"website":"https:\/\/getitnow.embarcadero.com\/getting-started-with-rad-studio\/",
+"authors":[
+],
+"publishers":[
+{
+"id":23,
+"guid":"1A6AFDB8DA18EE118C5C32A5A9F17050",
+"pagename":"Embarcadero.html",
+"datalevel":4,
+"dataversion":1,
+"label":"Embarcadero"}],
+"descriptions":[
+{
+"guid":"91B5E671CE444FC783EE421716F24345",
+"pagename":"",
+"datalevel":4,
+"dataversion":1,
+"lang":"en",
+"text":"<p>A Guide for Developers New to Delphi and C++Builder. This e-book is ideal for those new to RAD Studio, or those looking to use more of the current tools they have. This book covers the essentials from Installation and Setup; Understanding the IDE; How RAD Studio syntax compares with C#, Java, Python and TypeScript code ; How to create your first applications; Debugging Code; Key libraries and frameworks - including database connectivity.cross-platform and multi-tier development.&nbsp;<\/p><p>In today\u2019s fast-paced technology landscape, where time-to-market can make or break a product, software development teams need tools that maximize e&ffilig;ciency without&nbsp;compromising quality. Development teams often face a tough choice: choosing between rapid development or native performance. Most solutions force you to pick one&nbsp;or the other. RAD Studio offers a different path with its powerful integrated development&nbsp;environment (IDE) built for creating high-performance, cross-platform applications.<\/p><p>Whether you are a manager overseeing critical software projects or a developer eager to streamline your workflow, this book\u2014Getting Started with RAD Studio: A Guide for&nbsp;Developers New to Delphi &amp; C++Builder\u2014is designed to help you discover the full&nbsp;potential of this robust platform.&nbsp;<\/p>"}],
+"tocs":[
+{
+"guid":"CC7709BD0C7745E58D918C8E85A3471A",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"<p>01 - Introduction to RAD Studio<br\/>02 - Languages Similarities<br\/>03 - RAD Studio installation<br\/>04 - Understanding the IDE<br\/>05 - Programming with RAD Studio<br\/>06 - Console Applications<br\/>07 - VCL Applications<br\/>08 - FMX Applications<br\/>09 - Debugging<br\/>10 - FireDAC<br\/>11 - WebStencils &amp; HTMX<br\/>12 - Introduction to RAD Server<br\/>13 - Installing Third-Party Libraries<br\/>14 - Extra Resources&nbsp;<\/p>"}],
+"keywords":[
+]}
