@@ -1,0 +1,44 @@
+﻿{
+"id":147,
+"guid":"08408A14A6874B13ADBA2B9926EEB94F",
+"pagename":"Introduction-to-Quartex-Pascal.html",
+"datalevel":7,
+"dataversion":1,
+"name":"Introduction to Quartex Pascal",
+"lang":"en",
+"pubdate":"20250924",
+"isbn13":"978-1-8381026-3-0",
+"website":"https:\/\/www.educational-computing.com\/",
+"authors":[
+{
+"id":81,
+"guid":"E4E1FCB8DA18EE118C5C32A5A9F17050",
+"pagename":"Dr-Kevin-R-Bond.html",
+"datalevel":6,
+"dataversion":1}],
+"publishers":[
+{
+"id":40,
+"guid":"EEA9FDB8DA18EE118C5C32A5A9F17050",
+"pagename":"Educational-Computing-Services-Ltd.html",
+"datalevel":4,
+"dataversion":1,
+"label":"Educational Computing Services Ltd"}],
+"descriptions":[
+{
+"guid":"22A9DFE41BC743EFA0690DDDC67873D0",
+"pagename":"",
+"datalevel":4,
+"dataversion":1,
+"lang":"en",
+"text":"<p>Quartex Pascal (short: QTX) is a stand-alone object pascal IDE, compiler, run-time library and development system which to run does not need a copy of Delphi. QTX generates high performance JavaScript \u2013 allowing developers to tap into web technology and enjoy the full might of modern mobile, desktop and server development. This means you can use all the frameworks that Javascript people enjoy, write websites, servers, services and mobile apps - repurposing your Delphi\/Object Pacal\/Pascal skills under the web paradigm. The compiled code will run in your browser or server-side through node.js.<\/p><p>Additional resources to accompany the text will available from our website.<\/p>"}],
+"tocs":[
+{
+"guid":"6FD6A84ABAC94700A3CAB6EA35F2BA25",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"<p>Introduction<br\/>1 Introduction to Quartex Pascal<br\/>2 The box model, event-handling and introduction to CSS styling<br\/>3 Windowed applications<br\/>4 Using audio<br\/>5 Using files<br\/>6 Sliding puzzle and its solution<br\/>7 Using style sheets<br\/>8 Event handling<br\/>2 Making user interfaces<br\/>10 Accessing You Tube videos<br\/>11 Timers<br\/>12 Graphics<br\/>13 String handling operations<br\/>14 Arrays<br\/>15 Functional programming<br\/>16 Debugging<br\/>17 Node.js<br\/>18 Databases<br\/>19 Linear algebra<br\/>20 Apex Charts<br\/>21 Three-dimensional graphics<br\/>22 Promises and Async Await<br\/>23 Date lime utilities<br\/>Appendix 1 Configuring the IDE<br\/>Appendix 2 Configuring programs<br\/>Appendix 3 Configuring a title and an icon for project<br\/>Appendix 4 Creating a delegate event handler at runtime<br\/>Index&nbsp;<\/p>"}],
+"keywords":[
+]}
