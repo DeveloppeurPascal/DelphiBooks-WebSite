@@ -1,0 +1,39 @@
+﻿{
+"id":149,
+"guid":"C57766EC42AA4234A0407F8EBADC4CEF",
+"pagename":"Delphi-Multithreading-EN.html",
+"datalevel":10,
+"dataversion":1,
+"name":"Delphi Multithreading (English edition)",
+"lang":"en",
+"pubdate":"20251103",
+"isbn10":"6501779057",
+"isbn13":"9786501779058",
+"website":"https:\/\/www.cesarromero.com.br\/index_en.html",
+"authors":[
+{
+"id":97,
+"guid":"8310631800254ADB9BFFED6A11A53DBB",
+"pagename":"Cesar-Romero.html",
+"datalevel":5,
+"dataversion":1}],
+"publishers":[
+],
+"descriptions":[
+{
+"guid":"7BF2236D321742EAA5E76A2BE454C723",
+"pagename":"",
+"datalevel":4,
+"dataversion":1,
+"lang":"en",
+"text":"<p>A frozen interface during a long-running operation is the silent enemy of any modern application. In the Delphi universe, mastering concurrent programming is the key to transforming slow and frustrating applications into fluid, responsive, and professional systems. However, the path of multithreading is often seen as a minefield of deadlocks, race conditions, and complexities that intimidate even the most experienced developers.<\/p><p>This book is the definitive map for that journey. Drawing on 30 years of experience in software architecture, Cesar Romero demystifies concurrency in Delphi, guiding the reader from the fundamentals of the classic TThread to mastering the modern Parallel Programming Library (PPL). Written with a didactic approach focused on the \u201Cwhy\u201D behind each decision, this work is designed to be a complete training course, guiding both the programmer taking their first steps into threads and the architect seeking to optimize performance in high-demand scenarios.<\/p><p>Throughout its practical chapters, you will learn to:<\/p><ul><li>Manage the thread lifecycle safely, avoiding the most common errors.<\/li><li>Master synchronization primitives, choosing the right tool for each challenge.<\/li><li>Simplify your code and fully leverage multi-core processors with TTask, IFuture, and TParallel.For<\/li><li>Diagnose and debug the most complex concurrency problems.<\/li><li>Apply best practices to real-world examples, including concurrent database access and the development of fluid mobile applications for Android and iOS.<\/li><\/ul><p>By the end of this book, you will not only have a repertoire of code but also the confidence and architectural vision to design and build Delphi applications that don\u2019t just work\u2014they delight users with their performance and responsiveness.&nbsp;<\/p>"}],
+"tocs":[
+{
+"guid":"EE9067F2E4964F109215025C02196969",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"<p>1: Introduction to Concurrent and Asynchronous Processing<br\/><br\/>1.1: The User Interface Freeze Problem (UI Freeze)<br\/>1.2: What Are Concurrent and Asynchronous Processing?<br\/>1.3: A Brief History of Concurrency: From TThread to the PPL<br\/>1.4: The True Goals of Concurrency: Responsiveness, Scalability, and Performance<br\/>1.5: The Concept of a Thread<br\/>1.6: When NOT to Use Threads (and to Look for Alternatives)<br\/><br\/>2: Fundamentals of Threads in Delphi (Basic TThread)<br\/><br\/>2.1: Creating and Managing Simple Threads<br\/>2.2: Communicating with the Main Thread (Synchronize and Queue)<br\/>2.3: Dealing with Multiple Threads and Shared Data (Introduction to Synchronization)<br\/>2.4: Anonymous Threads (TThread.CreateAnonymousThread)<br\/><br\/>3: Thread Synchronization<br\/><br\/>3.1: TCriticalSection - A Deeper Look at Simple Mutual Exclusion<br\/>3.2: TMonitor - Synchronizing Multiple Threads with a Single Object<br\/>3.3: TMutex - Synchronization Between Processes<br\/>3.4: TSemaphore - Controlling Access to Limited Resources<br\/>3.5: TEvent - Signaling Between Threads<br\/>3.6: Optimizing Concurrent Access: The Readers-Writer Pattern<br\/>3.7: TCountdownEvent - Synchronizing the Completion of Multiple Tasks<br\/>3.8: WaitForMultipleObjects - Coordinated Waiting on Multiple Events<br\/><br\/>4: Thread Management and Cancellation<br\/><br\/>4.1: Controlled Start and Pause of Threads<br\/>4.2: Graceful Thread Cancellation (Terminate and WaitFor)<br\/>4.3: Cooperative Cancellation with TCancellationToken<br\/>4.4: Managing Execution Priority (TThread.Priority)<br\/>4.5: Exception Handling in Threads<br\/>4.6: Retry Strategies in Threads<br\/><br\/>5: Asynchronous Alternatives (PostMessage \/ SendMessage, Asynchronous I\/O)<br\/><br\/>5.1: PostMessage and SendMessage - Asynchronous and Synchronous Communication via Windows Messages<br\/>5.2: Asynchronous I\/O (Overview)<br\/>5.3: Integrating Asynchronous I\/O with Threads<br\/>5.4: Asynchronous Execution Pattern on the Main Thread: The TMainThreadDispatcher<br\/>5.5: Communication Between Threads and Platforms via System.Messaging<br\/><br\/>6: Parallel Programming Library (PPL) - Simplifying Concurrency<br\/><br\/>6.1: Introduction to the PPL - The Leap to Task-Based Programming<br\/>6.2: The Heart of the PPL: ITask for Actions and IFuture&lt;T&gt; for Results<br\/>6.3: TParallel.For - Parallelizing Loops<br\/>6.4: Task Coordination: TTask.WaitForAll, TTask.WaitForAny, and TParallel.Join<br\/>6.5: PPL Task Cancellation (ITask.Cancel and ITask.CheckCanceled)<br\/>6.6: Other PPL Features: TParallelArray<br\/><br\/>7: Advanced Topics in Threads<br\/><br\/>7.1: Creating a Custom Thread Pool<br\/>7.2: TInterlocked - Atomic Operations for Extreme Performance<br\/>7.3: Memory Management and Multithreading<br\/>7.4: Advanced PPL Management: TThreadPool and TThreadPoolStats<br\/>7.5: Conditional Synchronization: TConditionVariableCS<br\/><br\/>8: Best Practices and Debugging<br\/><br\/>8.1: Code Organization (Threads in Separate Units)<br\/>8.2: Avoiding Concurrency with threadvar (Thread-Local Storage)<br\/>8.3: Shared Data and Thread-Safe Collections: Ensuring Integrity in Multithreaded Applications<br\/>8.4: Preventing Common Problems: Deadlocks and Race Conditions<br\/>8.5: Techniques to Minimize Context Switches<br\/>8.6: Debugging Multithreaded Applications<br\/>8.7: Common Problems in Multithreaded Applications and How to Solve Them<br\/>8.8: Final Recommendations and Conclusions for Best Practices<br\/><br\/>9: Threads and Concurrency in Mobile Applications (Android and iOS)<br\/><br\/>9.1: Introduction to Concurrency in Mobile Applications<br\/>9.2: Specifics of the UI Thread on Mobile and Preventing ANRs on Android<br\/>9.3: Concurrency on iOS: Rules and Native APIs<br\/>9.4: Platform-Specific Considerations and Life Cycle Management<br\/>9.5: Evolution of Threading Features for the Mobile Platform with Delphi<br\/>9.6: Parallel REST Requests to Public APIs<br\/>9.7: Reading Images from the Photo Gallery in a PPL Task<br\/>9.8: Batch Processing for Maximum Throughput<br\/>9.9: Final Recommendations for Mobile Concurrency<br\/><br\/>10: Useful Examples with the PPL<br\/><br\/>10.1: Parallel Processing of Multiple Files in a Batch<br\/>10.2: Asynchronous Network Requests with Pagination<br\/>10.3: Intensive Data Simulations and Calculations in Parallel<br\/>10.4: Orchestrating Complex Workflows with Dependencies<br\/>10.5: Task Pipeline with a State Machine<br\/><br\/>11: Practical Database Applications with Concurrency<br\/><br\/>11.1: The Non-Negotiable Principles: The Doctrine<br\/>11.2: Essential Practical Example: TDataModule in a TThread<br\/>11.3: Performance Optimization with FireDAC Connection Pooling<br\/>11.4: An Alternative Without Threads: Asynchronous Execution (amAsync) in FireDAC<br\/>11.5: Building a Complete Concurrent Architecture with the PPL, Databases, and Design Patterns<br\/>11.6: Specific Considerations for DBExpress&nbsp;<\/p>"}],
+"keywords":[
+]}

@@ -1,0 +1,45 @@
+﻿{
+"id":97,
+"guid":"8310631800254ADB9BFFED6A11A53DBB",
+"pagename":"Cesar-Romero.html",
+"datalevel":5,
+"dataversion":1,
+"lastname":"Romero",
+"firstname":"Cesar",
+"website":"https:\/\/www.cesarromero.com.br",
+"descriptions":[
+{
+"guid":"9BC932AD927F4EA3A47E01A771E96F00",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"<p>Cesar Romero is a Software Architect, Embarcadero MVP, and a veteran with nearly 30 years of experience on the Delphi platform. A speaker and instructor, he specializes in designing high-performance systems for Desktop, Cloud, and Mobile, actively sharing his knowledge with the developer community.&nbsp;<\/p><p>His expertise is not limited to a single language; Cesar is a programming polyglot with deep knowledge in C#, Python, Go, JavaScript, and Java, as well as relational and NoSQL databases. This broad perspective gives him a unique insight into the challenges of modern software development, from migrating legacy systems to orchestrating microservices in the cloud.&nbsp;<\/p><p>As an Embarcadero MVP, Cesar is an active and respected voice in the developer community. He is a frequent speaker at events in Brazil and abroad, and has also served as an author and instructor for development teams, always aiming to share practical, high-level knowledge.&nbsp;<\/p><p>This book was born from the desire to fill a gap, consolidating years of study and practical experience into a definitive guide on multithreading, concurrency, and parallelism \u2013 one of the most challenging and essential topics for creating truly modern and performant Delphi applications.&nbsp;<\/p>"
+},{
+
+"guid":"67834A7D223B4A5D9AB46E5F9EC5A785",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"pt",
+"text":"<p>Cesar Romero \u00E9 um Arquiteto de Software, Engenheiro de Sistemas e um veterano da plataforma Delphi, com a qual tem trabalhado apaixonadamente desde 1996, nos prim\u00F3rdios da ferramenta. Com uma carreira de quase 30 anos, ele acumulou uma vasta experi\u00EAncia liderando equipes e projetando arquiteturas de software robustas para sistemas cr\u00EDticos em ambientes Windows, Linux, Cloud e Mobile.&nbsp;<\/p><p>Sua expertise n\u00E3o se limita a uma \u00FAnica linguagem; Cesar \u00E9 um poliglota da programa\u00E7\u00E3o, com profundo conhecimento em C#, Python, Go, JavaScript e Java, al\u00E9m de bancos de dados relacionais e NoSQL. Essa vis\u00E3o ampla lhe confere uma perspectiva \u00FAnica sobre os desafios do desenvolvimento de software moderno, desde a migra\u00E7\u00E3o de sistemas legados at\u00E9 a orquestra\u00E7\u00E3o de microservi\u00E7os em nuvem com Azure Kubernetes Service (AKS).&nbsp;<\/p><p>Como um Embarcadero MVP, Cesar \u00E9 uma voz ativa e respeitada na comunidade de desenvolvedores. Ele \u00E9 um palestrante frequente em eventos no Brasil e no exterior, al\u00E9m de ter atuado como autor e instrutor em treinamentos para equipes de desenvolvimento, sempre com o objetivo de compartilhar conhecimento pr\u00E1tico e de alto n\u00EDvel.&nbsp;<\/p><p>Este livro nasceu do desejo de preencher uma lacuna, consolidando anos de estudo e experi\u00EAncia pr\u00E1tica em um guia definitivo sobre multithreading, concorr\u00EAncia e paralelismo \u2013 um dos t\u00F3picos mais desafiadores e essenciais para a cria\u00E7\u00E3o de aplica\u00E7\u00F5es Delphi verdadeiramente modernas e perform\u00E1ticas.&nbsp;<\/p>"}],
+"books":[
+{
+"id":148,
+"guid":"E5C451E1560941DE9DA5073DAB405974",
+"pagename":"Delphi-Multithreading-PT.html",
+"datalevel":9,
+"dataversion":1,
+"name":"Delphi Multithreading (Edici\u00F3n en Portugu\u00E9s)",
+"lang":"pt",
+"pubdate":"20251017"
+},{
+
+"id":149,
+"guid":"C57766EC42AA4234A0407F8EBADC4CEF",
+"pagename":"Delphi-Multithreading-EN.html",
+"datalevel":10,
+"dataversion":1,
+"name":"Delphi Multithreading (English edition)",
+"lang":"en",
+"pubdate":"20251103"}]}
