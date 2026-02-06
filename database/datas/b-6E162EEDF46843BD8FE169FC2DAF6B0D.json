@@ -1,0 +1,36 @@
+﻿{
+"guid":"6E162EEDF46843BD8FE169FC2DAF6B0D",
+"pagename":"Complete-Turbo-Pascal-Covers-Version-5.html",
+"datalevel":7,
+"dataversion":1,
+"hasnewimage":true,
+"name":"Complete Turbo Pascal \/ Covers Version 5.0",
+"lang":"en",
+"pubdate":"19881201",
+"isbn10":"0673383555",
+"isbn13":"9780673383556",
+"authors":[
+{
+"guid":"D501678514C94E46861037D68BBA8FE4",
+"pagename":"Jeff-Duntemann.html",
+"datalevel":4,
+"dataversion":1}],
+"publishers":[
+{
+"guid":"46C043EEB3214276AFF257273A93244F",
+"pagename":"Scott-Foresman-co.html",
+"datalevel":3,
+"dataversion":1,
+"label":"Scott Foresman & co"}],
+"descriptions":[
+{
+"guid":"B4DE7A5EA33D483D8D054DDB1A9FD03B",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"<p>Describes the special features of the Turbo Pascal program, offers advice on writing programs in Pascal, and discusses functions, strings, graphics, and the program computer.&nbsp;<\/p>"}],
+"tocs":[
+],
+"keywords":[
+]}

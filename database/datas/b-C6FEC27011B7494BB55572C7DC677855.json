@@ -1,0 +1,41 @@
+﻿{
+"guid":"C6FEC27011B7494BB55572C7DC677855",
+"pagename":"FreePascal-From-Square-One.html",
+"datalevel":6,
+"dataversion":1,
+"hasnewimage":true,
+"name":"FreePascal From Square One",
+"lang":"en",
+"pubdate":"20251021",
+"website":"https:\/\/www.contrapositivediary.com\/?page_id=1808#fpfso",
+"authors":[
+{
+"guid":"D501678514C94E46861037D68BBA8FE4",
+"pagename":"Jeff-Duntemann.html",
+"datalevel":5,
+"dataversion":1}],
+"publishers":[
+{
+"guid":"E4937F89AB0D410EA68AFD8504E08D61",
+"pagename":"Copperwood-Press.html",
+"datalevel":4,
+"dataversion":1,
+"label":"Copperwood Press"}],
+"descriptions":[
+{
+"guid":"9BE2851361D54A868CFBE115A3C9C049",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"<p>The FOSS (free open source software) FreePascal compiler and its GUI builder\/component framework Lazarus occupy the same niche in the FOSS world as Delphi and its internal Pascal compiler do in the commercial software world. Jeff Duntemann is adapting his classic Complete Turbo Pascal book (especially its final edition, retitled Borland Pascal 7 from Square One) for FreePascal and Lazarus\u2026as a completely free, printable PDF-format ebook. This first volume of what will become a series covers basic programming concepts, installation of the product, and the fundamentals of the Pascal programming language, using the Lazarus IDE as a code editor.&nbsp;<\/p>"}],
+"tocs":[
+{
+"guid":"704B71A5584841E59235E37A824B76AD",
+"pagename":"",
+"datalevel":4,
+"dataversion":1,
+"lang":"en",
+"text":"<p>Introduction: How This Book Came About<\/p><p>Part 1: The Fundamental Ideas of Programming<\/p><p>1. The Box That Follows a Plan<br\/>2. The Nature of Software Development<br\/>3. The Secret Word Is \u201CStructure\u201D<\/p><p>Part 2: Installing and Using FreePascal<\/p><p>4. Installing FreePascal and Lazarus<br\/>5. Configuring and Using the Lazarus Environment<\/p><p>Part 3: The Core of the Pascal Language<\/p><p>6. Pascal Atoms<br\/>7. Data and Data Types<br\/>8. Derived Types and Data Structures<br\/>9. Structuring Code<br\/>11. Standard Functions<br\/>12. String Functions<br\/>13. Locality and Scope<br\/>14. FreePascal File I\/O<br\/>15. Units and Separate Compilation<\/p>"}],
+"keywords":[
+]}

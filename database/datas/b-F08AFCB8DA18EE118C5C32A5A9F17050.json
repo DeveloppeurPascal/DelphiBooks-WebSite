@@ -2,14 +2,14 @@
 "id":63,
 "guid":"F08AFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Building-GUI-applications-in-no-time.html",
-"datalevel":10,
+"datalevel":11,
 "dataversion":1,
 "name":"Building modern GUI applications... in no time",
 "lang":"en",
 "pubdate":"20191119",
 "isbn10":"1709450185",
 "isbn13":"9781709450181",
-"website":"https:\/\/amzn.to\/2hi86nr",
+"website":"https:\/\/www.amazon.com\/building-gui-applications-time-cross-platform\/dp\/1709450185",
 "authors":[
 {
 "id":51,
@@ -18,13 +18,7 @@
 "datalevel":6,
 "dataversion":1}],
 "publishers":[
-{
-"id":7,
-"guid":"682BFDB8DA18EE118C5C32A5A9F17050",
-"pagename":"Amazon-Kindle.html",
-"datalevel":4,
-"dataversion":1,
-"label":"Amazon"}],
+],
 "descriptions":[
 {
 "guid":"728BFCB8DA18EE118C5C32A5A9F17050",

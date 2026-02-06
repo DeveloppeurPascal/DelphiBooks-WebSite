@@ -1,0 +1,27 @@
+﻿{
+"guid":"4FE1F90B845F428D950D846C84075298",
+"pagename":"Cross-Platform-Development-with-Delphi-102-FireMonkey-for-Windows-MAC-OS-X-macOS-Linux.html",
+"datalevel":7,
+"dataversion":1,
+"hasnewimage":true,
+"name":"Cross-Platform Development with Delphi 10.2 & FireMonkey for Windows, MAC OS X (macOS) & Linux",
+"lang":"en",
+"pubdate":"20170820",
+"isbn10":"1549545760",
+"isbn13":"9781549545764",
+"authors":[
+],
+"publishers":[
+],
+"descriptions":[
+{
+"guid":"91A5799A7B97400AA508F1DB31A67D31",
+"pagename":"",
+"datalevel":3,
+"dataversion":1,
+"lang":"en",
+"text":"<h3>Who this book is for<\/h3><p>The book is a help to all Delphi programmers who want to develop their programs for Windows, MAC OS X (macOS) and Linux for the first time with FireMonkey, and also suitable for developers who want to go deeper into the FireMonkey framework. Note:The book is not intended for developers who are just starting to program with Delphi.<\/p><h3>About this book<\/h3><p>The now available version of the FireMonkey book covers changes, which have resulted after Delphi XE7 up to today's version Delphi 10.2 Tokyo. In particular, the work with the Multi Device Designer (\"Fire UI\") is dealt with in detail, which considerably simplifies and accelerates the platform development. In the chapter (\"How to - Tips &amp; Tricks\", a series of tricks and workarounds are given.)<\/p><p>A completely new and comprehensive chapter is devoted to the introduction to 3D programming. In this context demo programs are provided, which the buyers of the book can download and use for their own purposes.<\/p><p>Another new chapter deals with the development for the Linux platform, which is possible with Delphi 10.2 Tokyo (in the enterprise version).<\/p><h3>In detail:<\/h3><ul><li>Message management (working with the TMessageManager)<\/li><li>Create missing components with frames (own simple chart \"component\")<\/li><li>Impressing 3D-Demos (Atomic model, Solar system, Stroke Cube)<\/li><li>Styles in FireMonkey (detailed explanation of the Styles system)<\/li><li>Move elements of a form with the mouse at runtime<\/li><li>Own section for working with graphics in FireMonkey (bitmaps rotate, mirror, invert, etc)<\/li><\/ul>"}],
+"tocs":[
+],
+"keywords":[
+]}
