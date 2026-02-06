@@ -1,4 +1,5 @@
 ﻿{
+"id":42,
 "guid":"E4937F89AB0D410EA68AFD8504E08D61",
 "pagename":"Copperwood-Press.html",
 "datalevel":4,
@@ -8,4 +9,12 @@
 "descriptions":[
 ],
 "books":[
-]}
+{
+"id":153,
+"guid":"C6FEC27011B7494BB55572C7DC677855",
+"pagename":"FreePascal-From-Square-One.html",
+"datalevel":6,
+"dataversion":1,
+"name":"FreePascal From Square One",
+"lang":"en",
+"pubdate":"20251021"}]}

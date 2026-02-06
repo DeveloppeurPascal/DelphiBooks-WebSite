@@ -1,4 +1,5 @@
 ﻿{
+"id":99,
 "guid":"D501678514C94E46861037D68BBA8FE4",
 "pagename":"Jeff-Duntemann.html",
 "datalevel":5,
@@ -15,4 +16,22 @@
 "lang":"en",
 "text":"<p>Read <a href=\"https:\/\/www.contrapositivediary.com\/?page_id=8\">Jeff Duntemann's biography<\/a> on his website.<\/p>"}],
 "books":[
-]}
+{
+"id":150,
+"guid":"6E162EEDF46843BD8FE169FC2DAF6B0D",
+"pagename":"Complete-Turbo-Pascal-Covers-Version-5.html",
+"datalevel":7,
+"dataversion":1,
+"name":"Complete Turbo Pascal \/ Covers Version 5.0",
+"lang":"en",
+"pubdate":"19881201"
+},{
+
+"id":153,
+"guid":"C6FEC27011B7494BB55572C7DC677855",
+"pagename":"FreePascal-From-Square-One.html",
+"datalevel":6,
+"dataversion":1,
+"name":"FreePascal From Square One",
+"lang":"en",
+"pubdate":"20251021"}]}

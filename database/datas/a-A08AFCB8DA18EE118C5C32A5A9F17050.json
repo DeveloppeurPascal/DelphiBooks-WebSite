@@ -20,7 +20,7 @@
 "id":63,
 "guid":"F08AFCB8DA18EE118C5C32A5A9F17050",
 "pagename":"Building-GUI-applications-in-no-time.html",
-"datalevel":10,
+"datalevel":11,
 "dataversion":1,
 "name":"Building modern GUI applications... in no time",
 "lang":"en",
@@ -54,4 +54,14 @@
 "dataversion":1,
 "name":"Delphi in all its glory (part 3) : Libraries",
 "lang":"en",
-"pubdate":"20240424"}]}
+"pubdate":"20240424"
+},{
+
+"id":152,
+"guid":"5A23234C090145BAB6CDF19554C3E15B",
+"pagename":"Delphi-in-all-its-glory-part-4-FireMonkey.html",
+"datalevel":7,
+"dataversion":1,
+"name":"Delphi in all its glory (part 4) : FireMonkey Cross-Platform Application Programming",
+"lang":"en",
+"pubdate":"20251209"}]}

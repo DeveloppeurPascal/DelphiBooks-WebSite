@@ -15,11 +15,21 @@
 "id":140,
 "guid":"5E058442BD364C838F7680BF73E83F31",
 "pagename":"RAD-Server-Technical-Guide.html",
-"datalevel":8,
+"datalevel":9,
 "dataversion":1,
-"name":"RAD Server Technical Guide",
+"name":"RAD Server Technical Guide (version 2)",
 "lang":"en",
 "pubdate":"20230915"
+},{
+
+"id":154,
+"guid":"6EEF43D9EFFD43E1BC85D20B41BFE4FC",
+"pagename":"RAD-Server-Technical-Guide-v3.html",
+"datalevel":6,
+"dataversion":1,
+"name":"RAD Server Technical Guide (version 3)",
+"lang":"en",
+"pubdate":"20260202"
 },{
 
 "id":68,
