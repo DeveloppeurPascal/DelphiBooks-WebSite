@@ -10,7 +10,12 @@
 "isbn10":"1549545760",
 "isbn13":"9781549545764",
 "authors":[
-],
+{
+"id":98,
+"guid":"61D06BF55F3745488EE487E61953D38F",
+"pagename":"Harry-Stahl.html",
+"datalevel":4,
+"dataversion":1}],
 "publishers":[
 ],
 "descriptions":[
