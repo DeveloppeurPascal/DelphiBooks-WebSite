@@ -2,6 +2,13 @@
 
 [This page in English.](README.md)
 
+> [!WARNING]
+> Suite à la décision de Microsoft de fondre GitHub dans sa division IA à l'été 2025 et donc de ne considérer ce que nous publions dessus que comme une source d'entrainement de ses modèles sans contre partie (à part l'hébergement des codes sources) ou nous abreuver de leurs injonctions à utiliser Copilot partout, pour tout et n'importe quoi, j'ai pris la décision d'arrêter la maintenance des dépôts ici.
+>
+> La maintenance de ce projet est déplacée vers Codeberg sur https://codeberg.org/Delphi-Books
+>
+> Codeberg est un hébergement associatif situé en Europe, respectueux des développeurs, de la licence de chaque projet et de la vie privée des personnes qui s'y connectent.
+
 Source et service d'hébergement du site [Delphi-Books.com](https://delphi-books.com).
 
 Le site propose une [API REST très simple](https://delphi-books.com/opendata.html) en tant que données ouvertes (open data). Vous pouvez l'utiliser à des fins éducatives (utilisation d'API REST) ou l'inclure dans vos projets autour des langages de programmation Delphi et Pascal.
@@ -16,7 +23,7 @@ Suivez mes streams de développement de logiciels, jeux vidéo, applications mob
 
 ## Installation des codes sources
 
-Pour télécharger ce dépôt de code il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/DelphiBooks-WebSite).
+Pour télécharger ce dépôt de code il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://codeberg.org/Delphi-Books/DelphiBooks-WebSite).
 
 ## Mises à jour de la base de données
 
@@ -32,7 +39,7 @@ Toute donnée (textes, images, ...) ajoutée au projet devient publique et réut
 
 Le site Internet est généré par [ce programme](site-builder/LISEZMOI.md). Utilisez-le pour tester d'éventuelles modifications dans les [templates du site](site-templates/LISEZMOI.md).
 
-Toute modification des templates doit avoir fait l'objet d'[un ticket](https://github.com/DeveloppeurPascal/DelphiBooks-WebSite/issues) et avoir été approuvée au préalable. Sans ça vos demandes de PULL REQUEST seront rejetées.
+Toute modification des templates doit avoir fait l'objet d'[un ticket](https://codeberg.org/Delphi-Books/DelphiBooks-WebSite/issues) et avoir été approuvée au préalable. Sans ça vos demandes de PULL REQUEST seront rejetées.
 
 Aucune modification du dossier "docs" ne sera prise en compte en dehors de la génération automatique du site par un membre de l'équipe de maintenance du dépôt.
 
@@ -56,7 +63,7 @@ Pour signaler une infraction au droit d'auteur (DMCA), merci de passer par [ce f
 
 ## Comment demander une nouvelle fonctionnalité, signaler un bogue ou une faille de sécurité ?
 
-Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/DelphiBooks-WebSite) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/DelphiBooks-WebSite/issues).
+Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://codeberg.org/Delphi-Books/DelphiBooks-WebSite) et [d'ouvrir un ticket](https://codeberg.org/Delphi-Books/DelphiBooks-WebSite/issues).
 
 Si vous avez trouvé une faille de sécurité n'en parlez pas en public avant qu'un correctif n'ait été déployé ou soit disponible. [Contactez l'auteur du dépôt en privé](https://developpeur-pascal.fr/nous-contacter.php) pour expliquer votre trouvaille.
 
